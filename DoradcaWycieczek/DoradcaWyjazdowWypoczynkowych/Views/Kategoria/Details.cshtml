@@ -1,0 +1,50 @@
+﻿@model DoradcaWyjazdowWypoczynkowych.Models.Kategoria
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Kategoria</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Komfort)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Komfort)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Zwiedzanie)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Zwiedzanie)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Aktywnosc)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Aktywnosc)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Imprezowosc)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Imprezowosc)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.BliskoNatury)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.BliskoNatury)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.KategoriaID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

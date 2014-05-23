@@ -1,0 +1,134 @@
+﻿@model DoradcaWyjazdowWypoczynkowych.Models.OfertaGotowa
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>OfertaGotowa</legend>
+
+        @Html.HiddenFor(model => model.OfertaGotowaID)
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Nazwa)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Nazwa)
+            @Html.ValidationMessageFor(model => model.Nazwa)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Opis)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Opis)
+            @Html.ValidationMessageFor(model => model.Opis)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Data)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Data)
+            @Html.ValidationMessageFor(model => model.Data)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Komfort)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Komfort)
+            @Html.ValidationMessageFor(model => model.Komfort)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Zwiedzanie)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Zwiedzanie)
+            @Html.ValidationMessageFor(model => model.Zwiedzanie)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Aktywnosc)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Aktywnosc)
+            @Html.ValidationMessageFor(model => model.Aktywnosc)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Imprezowosc)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Imprezowosc)
+            @Html.ValidationMessageFor(model => model.Imprezowosc)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.BliskoNatury)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.BliskoNatury)
+            @Html.ValidationMessageFor(model => model.BliskoNatury)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.CzasTrwania)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.CzasTrwania)
+            @Html.ValidationMessageFor(model => model.CzasTrwania)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Koszt)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Koszt)
+            @Html.ValidationMessageFor(model => model.Koszt)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Kod)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Kod)
+            @Html.ValidationMessageFor(model => model.Kod)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Transport)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Transport)
+            @Html.ValidationMessageFor(model => model.Transport)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.LiczbaOsob)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.LiczbaOsob)
+            @Html.ValidationMessageFor(model => model.LiczbaOsob)
+        </div>
+
+        <p>
+            <input type="submit" value="Save" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

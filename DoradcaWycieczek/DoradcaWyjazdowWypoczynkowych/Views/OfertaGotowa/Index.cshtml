@@ -1,0 +1,105 @@
+﻿@model IEnumerable<DoradcaWyjazdowWypoczynkowych.Models.OfertaGotowa>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nazwa)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Opis)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Data)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Komfort)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Zwiedzanie)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Aktywnosc)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Imprezowosc)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BliskoNatury)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CzasTrwania)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Koszt)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Kod)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Transport)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LiczbaOsob)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nazwa)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Opis)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Data)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Komfort)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Zwiedzanie)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Aktywnosc)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Imprezowosc)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BliskoNatury)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CzasTrwania)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Koszt)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Kod)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Transport)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LiczbaOsob)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.OfertaGotowaID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.OfertaGotowaID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.OfertaGotowaID })
+        </td>
+    </tr>
+}
+
+</table>

@@ -7,7 +7,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{A25D4749-67F7-4E2C-BEBD-792A2A75B859}</ProjectGuid>
+    <ProjectGuid>{D7B8F600-7C0E-4F8D-A571-9BA7A75CCB7B}</ProjectGuid>
     <ProjectTypeGuids>{E3E379DF-F4C6-4180-9B81-6769533ABE47};{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -182,12 +182,24 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\AtrakcjaController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\KategoriaController.cs" />
+    <Compile Include="Controllers\OfertaGotowaController.cs" />
+    <Compile Include="DAL\DoradcaContext.cs" />
     <Compile Include="Filters\InitializeSimpleMembershipAttribute.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201405231956586_InitialCreate.cs" />
+    <Compile Include="Migrations\201405231956586_InitialCreate.Designer.cs">
+      <DependentUpon>201405231956586_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountModels.cs" />
+    <Compile Include="Models\Atrakcja.cs" />
+    <Compile Include="Models\Kategoria.cs" />
+    <Compile Include="Models\OfertaGotowa.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -301,12 +313,32 @@
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Web.config" />
+    <Content Include="Views\OfertaGotowa\Index.cshtml" />
+    <Content Include="Views\OfertaGotowa\Details.cshtml" />
+    <Content Include="Views\OfertaGotowa\Create.cshtml" />
+    <Content Include="Views\OfertaGotowa\Edit.cshtml" />
+    <Content Include="Views\OfertaGotowa\Delete.cshtml" />
+    <Content Include="Views\Atrakcja\Index.cshtml" />
+    <Content Include="Views\Atrakcja\Details.cshtml" />
+    <Content Include="Views\Atrakcja\Create.cshtml" />
+    <Content Include="Views\Atrakcja\Edit.cshtml" />
+    <Content Include="Views\Atrakcja\Delete.cshtml" />
+    <Content Include="Views\Kategoria\Index.cshtml" />
+    <Content Include="Views\Kategoria\Details.cshtml" />
+    <Content Include="Views\Kategoria\Create.cshtml" />
+    <Content Include="Views\Kategoria\Edit.cshtml" />
+    <Content Include="Views\Kategoria\Delete.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201405231956586_InitialCreate.resx">
+      <DependentUpon>201405231956586_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

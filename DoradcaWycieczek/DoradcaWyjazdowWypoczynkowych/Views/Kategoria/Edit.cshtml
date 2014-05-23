@@ -1,0 +1,70 @@
+﻿@model DoradcaWyjazdowWypoczynkowych.Models.Kategoria
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Kategoria</legend>
+
+        @Html.HiddenFor(model => model.KategoriaID)
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Komfort)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Komfort)
+            @Html.ValidationMessageFor(model => model.Komfort)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Zwiedzanie)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Zwiedzanie)
+            @Html.ValidationMessageFor(model => model.Zwiedzanie)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Aktywnosc)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Aktywnosc)
+            @Html.ValidationMessageFor(model => model.Aktywnosc)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Imprezowosc)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Imprezowosc)
+            @Html.ValidationMessageFor(model => model.Imprezowosc)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.BliskoNatury)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.BliskoNatury)
+            @Html.ValidationMessageFor(model => model.BliskoNatury)
+        </div>
+
+        <p>
+            <input type="submit" value="Save" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

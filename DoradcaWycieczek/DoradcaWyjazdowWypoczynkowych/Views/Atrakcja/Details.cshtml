@@ -1,0 +1,22 @@
+﻿@model DoradcaWyjazdowWypoczynkowych.Models.Atrakcja
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Atrakcja</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Lokalizacja)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Lokalizacja)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.AtrakcjaID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

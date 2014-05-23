@@ -1,0 +1,54 @@
+﻿@model DoradcaWyjazdowWypoczynkowych.Models.Kategoria
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<fieldset>
+    <legend>Kategoria</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Komfort)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Komfort)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Zwiedzanie)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Zwiedzanie)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Aktywnosc)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Aktywnosc)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Imprezowosc)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Imprezowosc)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.BliskoNatury)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.BliskoNatury)
+    </div>
+</fieldset>
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    <p>
+        <input type="submit" value="Delete" /> |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+}

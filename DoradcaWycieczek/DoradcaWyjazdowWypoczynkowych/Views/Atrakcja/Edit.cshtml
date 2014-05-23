@@ -1,0 +1,38 @@
+﻿@model DoradcaWyjazdowWypoczynkowych.Models.Atrakcja
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Atrakcja</legend>
+
+        @Html.HiddenFor(model => model.AtrakcjaID)
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Lokalizacja)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Lokalizacja)
+            @Html.ValidationMessageFor(model => model.Lokalizacja)
+        </div>
+
+        <p>
+            <input type="submit" value="Save" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
