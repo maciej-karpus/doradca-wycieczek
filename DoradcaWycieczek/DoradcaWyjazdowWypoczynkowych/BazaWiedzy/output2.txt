@@ -1,0 +1,101 @@
+WYSZUKIWANIE: ALPY+NARTY
+________________________________________
+
+Nazwa: Pensjonat Hollersbach
+Kod: 85-77206-2C44
+Transport: własny
+Cena:1580.0
+Liczba osób: 3
+Czas trwania: 7
+
+Pobieranie szczegółów oferty nieudane
+________________________________________
+
+Nazwa: Hotel Bruggerhof
+Kod: 85-53444-2C44
+Transport: własny
+Cena:1430.0
+Liczba osób: 2
+Czas trwania: 3
+
+Pobieranie szczegółów oferty nieudane
+________________________________________
+
+Nazwa: Hotel Strasshofer
+Kod: 85-80464-2C44
+Transport: własny
+Cena:2460.0
+Liczba osób: 4
+Czas trwania: 7
+
+Pobieranie szczegółów oferty nieudane
+________________________________________
+
+Nazwa: Hotel Jochberger Hof
+Kod: 85-53488-2C44
+Transport: własny
+Cena:2768.0
+Liczba osób: 2
+Czas trwania: 7
+
+Pobieranie szczegółów oferty nieudane
+________________________________________
+
+Nazwa: Q! Resort Health &#38;amp; Spa Kitzb&#252;hel
+Kod: 85-96876-2C44
+Transport: własny
+Cena:3032.0
+Liczba osób: 2
+Czas trwania: 7
+
+Pobieranie szczegółów oferty nieudane
+________________________________________
+
+Nazwa: Hotel Taxacher
+Kod: 85-81133-2C44
+Transport: własny
+Cena:1184.0
+Liczba osób: 2
+Czas trwania: 4
+
+Pobieranie szczegółów oferty nieudane
+________________________________________
+
+Nazwa: Hotel Schloss Lebenberg
+Kod: 85-94929-2C44
+Transport: własny
+Cena:1558.0
+Liczba osób: 2
+Czas trwania: 3
+
+Pobieranie szczegółów oferty nieudane
+________________________________________
+
+Nazwa: Gasthof Skirast
+Kod: 85-94769-2C44
+Transport: własny
+Cena:1756.0
+Liczba osób: 1
+Czas trwania: 4
+
+Pobieranie szczegółów oferty nieudane
+________________________________________
+
+Nazwa: Hotel Alpenhof
+Kod: 85-53409-2C44
+Transport: własny
+Cena:2020.0
+Liczba osób: 2
+Czas trwania: 7
+
+Pobieranie szczegółów oferty nieudane
+________________________________________
+
+Nazwa: Lifthotel
+Kod: 85-97121-2C44
+Transport: własny
+Cena:2152.0
+Liczba osób: 2
+Czas trwania: 7
+
+Pobieranie szczegółów oferty nieudane
