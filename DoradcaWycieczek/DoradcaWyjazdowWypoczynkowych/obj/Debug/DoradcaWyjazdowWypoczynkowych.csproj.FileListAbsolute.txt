@@ -84,3 +84,5 @@ D:\doradca\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\obj\Debug\DoradcaWyjaz
 D:\doradca\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\obj\Debug\DoradcaWyjazdowWypoczynkowych.pdb
 D:\doradca\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\obj\Debug\DoradcaWyjazdowWypoczynkowych.Migrations.InitialCreate.resources
 D:\doradca\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\obj\Debug\DoradcaWyjazdowWypoczynkowych.csproj.GenerateResource.Cache
+D:\doradca\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\obj\Debug\DoradcaWyjazdowWypoczynkowych.csprojResolveAssemblyReference.cache
+D:\doradca\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\obj\Debug\DoradcaWyjazdowWypoczynkowych.Migrations.InitialCreate1.resources

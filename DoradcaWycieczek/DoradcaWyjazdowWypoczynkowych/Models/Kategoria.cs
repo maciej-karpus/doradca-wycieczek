@@ -8,6 +8,7 @@ namespace DoradcaWyjazdowWypoczynkowych.Models
     public class Kategoria
     {
         public int KategoriaID { get; set; }
+        public string KategoriaNazwa { get; set; }
 
         public int Komfort { get; set; }
         public int Zwiedzanie { get; set; }
