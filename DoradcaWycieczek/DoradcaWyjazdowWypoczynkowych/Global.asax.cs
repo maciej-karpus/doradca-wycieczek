@@ -23,6 +23,11 @@ namespace DoradcaWyjazdowWypoczynkowych
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
             AuthConfig.RegisterAuth();
+
+            //Pliki output i kategorie.txt musza byc w C:\Dane... poki co
+            Controllers.DataReaderController c = new Controllers.DataReaderController();
+            c.ReadOfertaGotowaData();
+            c.ReadKategoriaData();
         }
     }
 }
