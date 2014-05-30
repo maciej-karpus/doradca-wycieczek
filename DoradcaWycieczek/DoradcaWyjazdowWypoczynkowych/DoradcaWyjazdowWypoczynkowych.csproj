@@ -212,6 +212,7 @@
     <Compile Include="Models\AccountModels.cs" />
     <Compile Include="Models\Atrakcja.cs" />
     <Compile Include="Models\Kategoria.cs" />
+    <Compile Include="Models\MetrykaKategorii.cs" />
     <Compile Include="Models\OcenaUzytkownika.cs" />
     <Compile Include="Models\OfertaGotowa.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
