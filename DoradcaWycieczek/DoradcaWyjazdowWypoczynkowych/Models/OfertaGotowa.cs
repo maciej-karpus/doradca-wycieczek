@@ -22,7 +22,7 @@ namespace DoradcaWyjazdowWypoczynkowych.Models
         public int CzasTrwania { get; set; }
         public double Koszt { get; set; }
         // co znaczy to pole? może string?
-        public int Kod { get; set; }
+        public string Kod { get; set; }
         public string Transport { get; set; }
         public int LiczbaOsob { get; set; }
 
