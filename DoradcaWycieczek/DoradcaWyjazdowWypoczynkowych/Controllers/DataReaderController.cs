@@ -22,38 +22,71 @@ namespace DoradcaWyjazdowWypoczynkowych.Controllers
             return View();
         }
 
+        public void ReadAtrakcjaData()
+        {
+            System.IO.StreamReader file = new System.IO.StreamReader(@"c:\Dane\atrakcje.txt");
+            string city, attraction;
+
+            while ((city = file.ReadLine()) != null)
+            {
+                if (city.Length == 0) continue;
+                while ((attraction = file.ReadLine()) != null)
+                {
+                    if (attraction.StartsWith("http://"))
+                    {
+                        file.ReadLine();
+                        break;
+                    }
+
+                    Atrakcja atr = new Atrakcja();
+                    atr.Lokalizacja = city;
+                    //atr.Name = attraction;
+                    db.Atrakcja.Add(atr);
+                    db.SaveChanges();
+                }
+            }
+
+        }
+
+
         public void ReadKategoriaData()
         {
 
-            System.IO.StreamReader file = new System.IO.StreamReader(@"c:\Dane\kategorie.txt");
+            System.IO.StreamReader file = new System.IO.StreamReader(@"c:\Dane\kategorie.csv");
             string line, substr;
+            file.ReadLine();
             while ((line = file.ReadLine()) != null)
             {
                 Kategoria kategoria = new Kategoria();
 
-                //Nazwa?
-                //substr = line.Substring(0,line.IndexOf(' '));
-                //line = line.Substring(substr.Length+1);
-                //kategoria.Nazwa = substr;
+                //Lp.
+                substr = line.Substring(0, line.IndexOf(','));
+                line = line.Substring(substr.Length + 1);
+                kategoria.KategoriaID = Int32.Parse(substr);
+
+                //Nazwa
+                substr = line.Substring(0, line.IndexOf(','));
+                line = line.Substring(substr.Length + 1);
+                kategoria.KategoriaNazwa = substr;
 
                 //Zwiedzanie
-                substr = line.Substring(0, line.IndexOf(' '));
-                line = line.Substring(substr.Length+1);
+                substr = line.Substring(0, line.IndexOf(','));
+                line = line.Substring(substr.Length + 1);
                 kategoria.Zwiedzanie = Int32.Parse(substr);
 
                 //Aktywnosc
-                substr = line.Substring(0, line.IndexOf(' '));
-                line = line.Substring(substr.Length+1);
+                substr = line.Substring(0, line.IndexOf(','));
+                line = line.Substring(substr.Length + 1);
                 kategoria.Aktywnosc = Int32.Parse(substr);
 
                 //Komfort
-                substr = line.Substring(0, line.IndexOf(' '));
-                line = line.Substring(substr.Length+1);
+                substr = line.Substring(0, line.IndexOf(','));
+                line = line.Substring(substr.Length + 1);
                 kategoria.Komfort = Int32.Parse(substr);
 
                 //Blisko natury i Imprezowosc
-                substr = line.Substring(0, line.IndexOf(' '));
-                line = line.Substring(substr.Length+1);
+                substr = line.Substring(0, line.IndexOf(','));
+                line = line.Substring(substr.Length + 1);
                 kategoria.BliskoNatury = Int32.Parse(substr);
                 kategoria.Imprezowosc = Int32.Parse(line);
 
@@ -86,7 +119,7 @@ namespace DoradcaWyjazdowWypoczynkowych.Controllers
                         string date = line.Substring(0, line.IndexOf(' '));
                         oferta.Data = DateTime.Parse(date);
                     }
-                    if ( result == 3)
+                    if (result == 3)
                     {
                         string opis = "";
                         while ((line = file.ReadLine()) != null)
@@ -97,7 +130,7 @@ namespace DoradcaWyjazdowWypoczynkowych.Controllers
                                 break;
                             }
 
-                            opis += line; 
+                            opis += line;
                         }
                         if (oferta.Opis == null)
                             oferta.Opis = opis;
@@ -108,11 +141,11 @@ namespace DoradcaWyjazdowWypoczynkowych.Controllers
                         db.SaveChanges();
                         oferta = new OfertaGotowa();
                     }
-  
+
                 }
 
-                
-                
+
+
             }
         }
 

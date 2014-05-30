@@ -28,6 +28,7 @@ namespace DoradcaWyjazdowWypoczynkowych
             Controllers.DataReaderController c = new Controllers.DataReaderController();
             c.ReadOfertaGotowaData();
             c.ReadKategoriaData();
+            c.ReadAtrakcjaData();
         }
     }
 }
