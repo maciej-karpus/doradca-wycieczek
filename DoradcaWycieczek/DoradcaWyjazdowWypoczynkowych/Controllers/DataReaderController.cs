@@ -22,6 +22,8 @@ namespace DoradcaWyjazdowWypoczynkowych.Controllers
             return View();
         }
 
+
+
         public void ReadAtrakcjaData()
         {
             System.IO.StreamReader file = new System.IO.StreamReader(@"c:\Dane\atrakcje.txt");
@@ -40,7 +42,7 @@ namespace DoradcaWyjazdowWypoczynkowych.Controllers
 
                     Atrakcja atr = new Atrakcja();
                     atr.Lokalizacja = city;
-                    //atr.Name = attraction;
+                    atr.AtrakcjaNazwa = attraction;
                     db.Atrakcja.Add(atr);
                     db.SaveChanges();
                 }
@@ -153,8 +155,8 @@ namespace DoradcaWyjazdowWypoczynkowych.Controllers
         {
             if (line.StartsWith("Nazwa: "))
                 oferta.Nazwa = line.Substring(line.IndexOf(' ') + 1);
-            //else if(line.StartsWith("Kod: "))
-            //    oferta.Kod = line.Substring(5);
+            else if(line.StartsWith("Kod: "))
+                oferta.Kod = line.Substring(5);
             else if (line.StartsWith("Transport: "))
                 oferta.Transport = line.Substring(line.IndexOf(' ') + 1);
             else if (line.StartsWith("Cena:"))

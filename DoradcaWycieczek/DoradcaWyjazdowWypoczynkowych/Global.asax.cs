@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DoradcaWyjazdowWypoczynkowych.DAL;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -24,8 +25,14 @@ namespace DoradcaWyjazdowWypoczynkowych
             BundleConfig.RegisterBundles(BundleTable.Bundles);
             AuthConfig.RegisterAuth();
 
+
+
             //Pliki output i kategorie.txt musza byc w C:\Dane... poki co
             Controllers.DataReaderController c = new Controllers.DataReaderController();
+            DoradcaContext db = new DoradcaContext();
+            db.Database.ExecuteSqlCommand("TRUNCATE TABLE [Atrakcja]");
+            db.Database.ExecuteSqlCommand("TRUNCATE TABLE [OfertaGotowa]");
+            db.Database.ExecuteSqlCommand("DELETE FROM [Kategoria]");
             c.ReadOfertaGotowaData();
             c.ReadKategoriaData();
             c.ReadAtrakcjaData();
