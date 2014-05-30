@@ -32,5 +32,6 @@ namespace DoradcaWyjazdowWypoczynkowych.Models
         //opuściłbym ten atrybut zupełnie
         // public int DostepnyWMiesiacach { get; set; }
 
+        public virtual ICollection<OcenaUzytkownika> OcenaUzytkownikow { get; set; }
     }
 }

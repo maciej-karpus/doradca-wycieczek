@@ -12,6 +12,7 @@ namespace DoradcaWyjazdowWypoczynkowych.DAL
     {
         public DbSet<Atrakcja> Atrakcja { get; set; }
         public DbSet<Kategoria> Kategoria { get; set; }
+        public DbSet<OcenaUzytkownika> OcenaUzytkownika { get; set; }
         public DbSet<OfertaGotowa> OfertaGotowa { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)

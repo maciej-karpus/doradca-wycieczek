@@ -204,10 +204,15 @@
     <Compile Include="Migrations\201405301921587_InitialCreate2.Designer.cs">
       <DependentUpon>201405301921587_InitialCreate2.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201405302103265_InitialCreate3.cs" />
+    <Compile Include="Migrations\201405302103265_InitialCreate3.Designer.cs">
+      <DependentUpon>201405302103265_InitialCreate3.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountModels.cs" />
     <Compile Include="Models\Atrakcja.cs" />
     <Compile Include="Models\Kategoria.cs" />
+    <Compile Include="Models\OcenaUzytkownika.cs" />
     <Compile Include="Models\OfertaGotowa.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -353,6 +358,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201405301921587_InitialCreate2.resx">
       <DependentUpon>201405301921587_InitialCreate2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201405302103265_InitialCreate3.resx">
+      <DependentUpon>201405302103265_InitialCreate3.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
