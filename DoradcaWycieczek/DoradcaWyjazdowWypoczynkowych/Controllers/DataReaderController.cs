@@ -26,28 +26,49 @@ namespace DoradcaWyjazdowWypoczynkowych.Controllers
 
         public void ReadAtrakcjaData()
         {
-            System.IO.StreamReader file = new System.IO.StreamReader(@"c:\Dane\atrakcje.txt");
-            string city, attraction;
+             System.IO.StreamReader file = new System.IO.StreamReader(@"c:\Dane\atrakcje.txt");
+             string city, attractionStr;
 
-            while ((city = file.ReadLine()) != null)
-            {
-                if (city.Length == 0) continue;
-                while ((attraction = file.ReadLine()) != null)
-                {
-                    if (attraction.StartsWith("http://"))
-                    {
-                        file.ReadLine();
-                        break;
-                    }
-
-                    Atrakcja atr = new Atrakcja();
-                    atr.Lokalizacja = city;
-                    atr.AtrakcjaNazwa = attraction;
-                    db.Atrakcja.Add(atr);
-                    db.SaveChanges();
-                }
-            }
-
+             while ((attractionStr = file.ReadLine()) != null)
+             {
+                  if (attractionStr.Length == 0) throw new Exception("Błąd importu danych");
+                  var attractionFields = attractionStr.Split('\t');
+                  int i = 0;
+                  var attraction = new Atrakcja();
+                  foreach (string attractionField in attractionFields)
+                  {
+                       if (i == 0) attraction.Lokalizacja = attractionField;
+                       else if (i == 1) attraction.AtrakcjaNazwa = attractionField;
+                       else if (i < attractionFields.Length - 1)
+                       {
+                            string categoryName = attractionField;
+                            var matchedCategory = db.Kategoria.Where(q => q.KategoriaNazwa.Equals(attractionField)).ToList();
+                            if (matchedCategory.Count != 1) continue;
+                            else
+                            {
+                                 var attractionCategoryPair = new AtrakcjaKategoria();
+                                 attractionCategoryPair.Atrakcja = attraction;
+                                 attractionCategoryPair.Kategoria = matchedCategory[0];
+                                 db.AtrakcjaKategoria.Add(attractionCategoryPair);
+                                 if (attraction.AtrakcjaKategoria == null)
+                                      attraction.AtrakcjaKategoria = new List<AtrakcjaKategoria>();
+                                 attraction.AtrakcjaKategoria.Add(attractionCategoryPair);
+                            }
+                       }
+                       else if (attractionField.Substring(0, 4).Equals("http"))
+                       {
+                            ;
+                       }
+                       i++;
+                  }
+                  db.Atrakcja.Add(attraction);
+                  //Atrakcja atr = new Atrakcja();
+                  //atr.Lokalizacja = city;
+                  //atr.AtrakcjaNazwa = attraction;
+                  //db.Atrakcja.Add(atr);
+                  //db.SaveChanges();
+             }
+             db.SaveChanges();
         }
 
 
