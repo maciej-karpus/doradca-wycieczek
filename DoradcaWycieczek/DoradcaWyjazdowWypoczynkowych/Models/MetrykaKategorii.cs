@@ -22,7 +22,12 @@ namespace DoradcaWyjazdowWypoczynkowych.Models
             this.BliskoNatury = BliskoNatury;
         }
 
-        double PorownajDopasowanie(MetrykaKategorii celPorownania)
+        public MetrykaKategorii(Kategoria cat)
+             : this(cat.Komfort, cat.Zwiedzanie, cat.Aktywnosc, cat.Imprezowosc, cat.BliskoNatury)
+        {
+        }
+
+        public double PorownajDopasowanie(MetrykaKategorii celPorownania)
         {
             int K = Math.Abs((celPorownania.Komfort - this.Komfort) * 100);
             int Z = Math.Abs((celPorownania.Zwiedzanie - this.Zwiedzanie) * 100);

@@ -1,6 +1,23 @@
-﻿@{
+﻿@using DoradcaWyjazdowWypoczynkowych.Models;
+@{
     ViewBag.Title = "Search";
 }
 
-<h2>Search</h2> <br />
-The message is @ViewBag.Message
+<h2>Search</h2>
+Twoje rekomendacje to:
+<table>
+@foreach (KeyValuePair<Atrakcja, double> recommendation in @ViewData["recommendations"] as Dictionary<Atrakcja, double>)
+{
+     <tr>
+          <td>
+               @recommendation.Key.AtrakcjaNazwa
+          </td>
+          <td>
+               @recommendation.Key.Lokalizacja
+          </td>
+          <td>
+               @recommendation.Value
+          </td>
+     </tr>
+}
+</table>

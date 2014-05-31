@@ -30,10 +30,10 @@ namespace DoradcaWyjazdowWypoczynkowych
             //Pliki output i kategorie.txt musza byc w C:\Dane... poki co
             Controllers.DataReaderController c = new Controllers.DataReaderController();
             DoradcaContext db = new DoradcaContext();
+            db.Database.ExecuteSqlCommand("DELETE FROM [AtrakcjaKategoria]");
             db.Database.ExecuteSqlCommand("DELETE FROM [Atrakcja]");
             db.Database.ExecuteSqlCommand("DELETE FROM [OfertaGotowa]");
             db.Database.ExecuteSqlCommand("DELETE FROM [Kategoria]");
-            db.Database.ExecuteSqlCommand("DELETE FROM [AtrakcjaKategoria]");
             c.ReadOfertaGotowaData();
             c.ReadKategoriaData();
             c.ReadAtrakcjaData();
