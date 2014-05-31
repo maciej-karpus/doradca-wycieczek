@@ -11,6 +11,6 @@ namespace DoradcaWyjazdowWypoczynkowych.Models
         public string AtrakcjaNazwa { get; set; }
         public string Lokalizacja { get; set; }
 
-        public virtual Kategoria Kategoria { get; set; }
+        public virtual ICollection<AtrakcjaKategoria> AtrakcjaKategoria { get; set; }
     }
 }

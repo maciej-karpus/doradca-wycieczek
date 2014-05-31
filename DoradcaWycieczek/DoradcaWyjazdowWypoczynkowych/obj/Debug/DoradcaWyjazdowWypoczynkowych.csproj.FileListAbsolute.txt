@@ -178,3 +178,4 @@ C:\Users\MateuszJ\Documents\doradca-wycieczek2\DoradcaWycieczek\DoradcaWyjazdowW
 C:\Users\MateuszJ\Documents\doradca-wycieczek2\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\obj\Debug\DoradcaWyjazdowWypoczynkowych.csproj.GenerateResource.Cache
 C:\Users\MateuszJ\Documents\doradca-wycieczek2\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\obj\Debug\DoradcaWyjazdowWypoczynkowych.dll
 C:\Users\MateuszJ\Documents\doradca-wycieczek2\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\obj\Debug\DoradcaWyjazdowWypoczynkowych.pdb
+D:\doradca\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\obj\Debug\DoradcaWyjazdowWypoczynkowych.Migrations.InitialCreate4.resources

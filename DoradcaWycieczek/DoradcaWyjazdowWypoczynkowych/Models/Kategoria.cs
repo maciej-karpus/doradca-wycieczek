@@ -16,6 +16,6 @@ namespace DoradcaWyjazdowWypoczynkowych.Models
         public int Imprezowosc { get; set; }
         public int BliskoNatury { get; set; }
 
-        public virtual ICollection<Atrakcja> Atrakcje { get; set; }
+        public virtual ICollection<AtrakcjaKategoria> AtrakcjaKategoria { get; set; }
     }
 }
