@@ -187,6 +187,7 @@
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\KategoriaController.cs" />
     <Compile Include="Controllers\OfertaGotowaController.cs" />
+    <Compile Include="Controllers\ParametersUpdaterController.cs" />
     <Compile Include="Controllers\QuestionController.cs" />
     <Compile Include="DAL\DoradcaContext.cs" />
     <Compile Include="Filters\InitializeSimpleMembershipAttribute.cs" />
