@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DoradcaWyjazdowWypoczynkowych.DAL;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,7 +9,8 @@ namespace DoradcaWyjazdowWypoczynkowych.Controllers
 {
     public class QuestionController : Controller
     {
-        //
+         private DoradcaContext db = new DoradcaContext();
+         //
         // GET: /Question/
 
         public ActionResult Index()
@@ -19,6 +21,7 @@ namespace DoradcaWyjazdowWypoczynkowych.Controllers
         public ActionResult Search(DoradcaWyjazdowWypoczynkowych.Models.OcenaUzytkownika model)
         {
             ViewBag.Message = model.BliskoNatury.ToString();
+            ViewData["atrakcje"] = db.Atrakcja.ToList();
             return View();    
         }
 
