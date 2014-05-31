@@ -1,0 +1,56 @@
+﻿@model DoradcaWyjazdowWypoczynkowych.Models.OcenaUzytkownika
+
+@{
+    ViewBag.Title = "Kwestionariusz";
+}
+
+<h2>Co jest dla Ciebie ważne podczas wycieczek?</h2>
+
+@using (Html.BeginForm("Search", "Question"))
+{
+    <table>
+        <tr>
+            <td>
+                <strong>Komfort: </strong>
+            </td>
+            <td>
+                @Html.TextBoxFor(m => m.Komfort, new { style = "width: 30px", maxlength = 2 })
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Zwiedzanie: </strong>
+            </td>
+            <td>
+                 @Html.TextBoxFor(m => m.Zwiedzanie, new { style = "width: 30px", maxlength = 2 })
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Aktywność: </strong>
+            </td>
+            <td>
+                @Html.TextBoxFor(m => m.Aktywnosc, new { style = "width: 30px", maxlength = 2 })
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <strong>Imprezowość: </strong>
+            </td>
+            <td>
+                 @Html.TextBoxFor(m => m.Imprezowosc, new { style = "width: 30px", maxlength = 2 })
+            </td>
+        </tr>   
+        <tr>
+            <td>
+                <strong>Bliskość natury: </strong>
+            </td>
+            <td>
+                 @Html.TextBoxFor(m => m.BliskoNatury, new { style = "width: 30px", maxlength = 2 })
+            </td>
+        </tr>
+    </table>
+    <br />
+   <input type="submit" value="Wyszukaj" />
+}
+
