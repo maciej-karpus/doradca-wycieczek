@@ -31,7 +31,7 @@ namespace DoradcaWyjazdowWypoczynkowych
             Controllers.DataReaderController c = new Controllers.DataReaderController();
             DoradcaContext db = new DoradcaContext();
             db.Database.ExecuteSqlCommand("TRUNCATE TABLE [Atrakcja]");
-            db.Database.ExecuteSqlCommand("TRUNCATE TABLE [OfertaGotowa]");
+            db.Database.ExecuteSqlCommand("DELETE FROM [OfertaGotowa]");
             db.Database.ExecuteSqlCommand("DELETE FROM [Kategoria]");
             c.ReadOfertaGotowaData();
             c.ReadKategoriaData();
