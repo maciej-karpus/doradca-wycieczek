@@ -31,7 +31,7 @@ namespace DoradcaWyjazdowWypoczynkowych.Models
             int BN = Math.Abs((celPorownania.BliskoNatury - this.BliskoNatury) * 100);
 
             //zwraca średnie odchylenie
-            return ((K + Z + A + I + BN) / 5);
+            return (100-((K + Z + A + I + BN) / 5));
         }
     }
 }
