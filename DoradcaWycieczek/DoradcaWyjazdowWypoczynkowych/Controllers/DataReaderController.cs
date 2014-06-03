@@ -194,7 +194,7 @@ namespace DoradcaWyjazdowWypoczynkowych.Controllers
             {
                 var oceny = line.Split(',');
 
-                oferta.Komfort = Int32.Parse(oceny[0]);
+                oferta.Komfort = Int32.Parse(oceny[0].Split(':')[1]);
                 oferta.Zwiedzanie = Int32.Parse(oceny[1]);
                 oferta.Aktywnosc = Int32.Parse(oceny[2]);
                 oferta.Imprezowosc = Int32.Parse(oceny[3]);
