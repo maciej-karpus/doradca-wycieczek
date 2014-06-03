@@ -8,43 +8,72 @@ using System.Web.Mvc;
 
 namespace DoradcaWyjazdowWypoczynkowych.Controllers
 {
-    public class QuestionController : Controller
-    {
-         private DoradcaContext db = new DoradcaContext();
-         //
-        // GET: /Question/
+     public class QuestionController : Controller
+     {
+          private DoradcaContext db = new DoradcaContext();
+          //
+          // GET: /Question/
 
-        public ActionResult Index()
-        {
-            return View();
-        }
+          public ActionResult Index()
+          {
+               return View();
+          }
 
-        public ActionResult Search(DoradcaWyjazdowWypoczynkowych.Models.OcenaUzytkownika evals)
-        {
-             ViewData["recommendations"] = new Dictionary<Atrakcja, double>();
-             var dict = new Dictionary<Atrakcja, double>();
-             var userMetric = new MetrykaKategorii(evals.Komfort, evals.Zwiedzanie, 
-                  evals.Aktywnosc, evals.Imprezowosc, evals.BliskoNatury);
-             var metricList = getUserToCategoryMetric(userMetric);
-             metricList.Sort((x, y) => x.Value.CompareTo(y.Value));
-             return View(ChartData.GetData(userMetric, new MetrykaKategorii(metricList.ElementAt(0).Key),
+
+          public ActionResult Search(DoradcaWyjazdowWypoczynkowych.Models.OcenaUzytkownika evals)
+          {
+               //ViewData["recommendations"] = new List<KeyValuePair<Kategoria, double>>();
+               var userMetric = new MetrykaKategorii(evals.Komfort, evals.Zwiedzanie,
+                    evals.Aktywnosc, evals.Imprezowosc, evals.BliskoNatury);
+               var metricList = getUserToCategoryMetric(userMetric);
+               metricList.Sort((x, y) => x.Value.CompareTo(y.Value));
+               //TOP7 kategorii dla danego użytkownika
+               var categoriesTop = metricList.Take(7);
+               ViewData["top_categories"] = new List<KeyValuePair<Kategoria, double>>(categoriesTop);
+
+               var attractionCategoryRelations = db.AtrakcjaKategoria.ToList();
+               var distinctLocalisations = db.Atrakcja.Select(q => q.Lokalizacja).Distinct().ToList();
+               //Słownik: lokalizacja, liczba wystąpień atrakcji z top kategorii
+               var topCategoryAttractionsInLocalisations = new Dictionary<string,List<Atrakcja>>();
+               //Inicjalizacja słownika
+               foreach (string distinctLocalisation in distinctLocalisations)
+               {
+                    topCategoryAttractionsInLocalisations.Add(distinctLocalisation.ToString(), new List<Atrakcja>());
+               }
+
+               foreach (var category in categoriesTop)
+               {
+                    //Pobranie wszystkich atrakcji, które są w kategorii TOP1, TOP2, ..., TOP7 wyboru dla danego użytkownika
+                    var attractions = attractionCategoryRelations.Where(
+                         q => q.Kategoria.KategoriaID == category.Key.KategoriaID).ToList();
+                    foreach (var attraction in attractions)
+                    {
+                         string localisation = attraction.Atrakcja.Lokalizacja.ToString();
+                         topCategoryAttractionsInLocalisations[localisation].Add(attraction.Atrakcja);
+                    }
+               }
+               var topRecommendations = topCategoryAttractionsInLocalisations.ToList();
+               topRecommendations.Sort((x, y) => y.Value.Count().CompareTo(x.Value.Count()));
+               topRecommendations.Take(7);
+               ViewData["top_recommendations"] = new List<KeyValuePair<string, List<Atrakcja>>>(topRecommendations.Take(7));
+               return View(ChartData.GetData(userMetric, new MetrykaKategorii(metricList.ElementAt(0).Key),
                                                         new MetrykaKategorii(metricList.ElementAt(1).Key),
-                                                        new MetrykaKategorii(metricList.ElementAt(2).Key)));    
-        }
+                                                        new MetrykaKategorii(metricList.ElementAt(2).Key)));
+          }
 
-        private List<KeyValuePair<Kategoria, double>> getUserToCategoryMetric(MetrykaKategorii userMetric)
-        {
-             var categoryList = db.Kategoria.ToList();
-             var resultList = new List<KeyValuePair<Kategoria, double>>();
-             foreach (Kategoria category in categoryList)
-             {
-                  var categoryMetric = new MetrykaKategorii(category);
-                  double comparisionResult = userMetric.PorownajDopasowanie(categoryMetric);
-                  resultList.Add(new KeyValuePair<Kategoria, double>(category, comparisionResult));
-             }
-             return resultList;
-        }
-    }
+          private List<KeyValuePair<Kategoria, double>> getUserToCategoryMetric(MetrykaKategorii userMetric)
+          {
+               var categoryList = db.Kategoria.ToList();
+               var resultList = new List<KeyValuePair<Kategoria, double>>();
+               foreach (Kategoria category in categoryList)
+               {
+                    var categoryMetric = new MetrykaKategorii(category);
+                    double comparisionResult = userMetric.PorownajDopasowanie(categoryMetric);
+                    resultList.Add(new KeyValuePair<Kategoria, double>(category, comparisionResult));
+               }
+               return resultList;
+          }
+     }
 }
 
 

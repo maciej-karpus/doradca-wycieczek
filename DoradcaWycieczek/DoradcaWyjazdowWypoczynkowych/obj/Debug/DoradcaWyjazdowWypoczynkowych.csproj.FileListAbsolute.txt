@@ -271,3 +271,4 @@ C:\Users\Oskar\Source\Repos\doradca-wycieczek\DoradcaWycieczek\DoradcaWyjazdowWy
 C:\Users\Oskar\Source\Repos\doradca-wycieczek\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\obj\Debug\DoradcaWyjazdowWypoczynkowych.pdb
 D:\doradca\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\bin\JQChart.Web.Mvc.dll
 D:\doradca\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\bin\JQChart.Web.Mvc.xml
+D:\doradca\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\obj\Debug\DoradcaWyjazdowWypoczynkowych.csprojResolveAssemblyReference.cache

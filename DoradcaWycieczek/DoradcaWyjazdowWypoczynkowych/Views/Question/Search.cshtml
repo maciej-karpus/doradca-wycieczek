@@ -9,7 +9,7 @@
 <h2>Search</h2>
 Twoje rekomendacje to:
 <table>
-@foreach (KeyValuePair<Atrakcja, double> recommendation in @ViewData["recommendations"] as Dictionary<Atrakcja, double>)
+@foreach (KeyValuePair<Atrakcja, double> recommendation in @ViewData["top_recommendations"] as Dictionary<Atrakcja, double>)
 {
      <tr>
           <td>
