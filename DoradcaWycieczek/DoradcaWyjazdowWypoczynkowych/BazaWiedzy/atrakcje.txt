@@ -1,12 +1,12 @@
 ﻿Paryż	Musee d'Orsay	Muzea sztuk pięknych	http://media-cdn.tripadvisor.com/media/photo-l/03/32/ba/33/musee-d-orsay.jpg
-﻿Paryż	Palais Garnier - Opera National de Paris	Opery	Obiekty architektury	Teatry	http://media-cdn.tripadvisor.com/media/photo-l/01/d3/08/5a/caption.jpg
-﻿Paryż	Most Aleksandra III	Mosty	Miejsca historyczne	Charakterystyczne obiekty/ciekawe miejsca	http://media-cdn.tripadvisor.com/media/photo-l/04/01/e0/cb/pont-alexandre-iii.jpg
-﻿Paryż	Ogród Luksemburski	Ogrody	Parki	http://media-cdn.tripadvisor.com/media/photo-l/03/1d/9d/c9/luxembourg-gardens.jpg
-﻿Paryż	Luwr	Muzea sztuk pięknych	Muzea	http://media-cdn.tripadvisor.com/media/photo-l/05/6b/c7/ee/musee-du-louvre.jpg
-﻿Paryż	Wieża Eiffla	Miejsca historyczne	Obiekty architektury	Platformy/wieże obserwacyjne	Charakterystyczne obiekty/ciekawe miejsca	Pomniki	http://media-cdn.tripadvisor.com/media/photo-l/04/00/a2/7f/eiffel-tower.jpg
-﻿Paryż	Katedra Notre-Dame w Paryżu	Miejsca kultu religijnego	Obiekty architektury	Miejsca historyczne	Charakterystyczne obiekty/ciekawe miejsca	Kościoły/katedry	http://media-cdn.tripadvisor.com/media/photo-l/01/0f/39/8a/notre-dame.jpg
-﻿Paryż	How to become Parisian in one hour?	Przedstawienia	http://media-cdn.tripadvisor.com/media/photo-f/02/a1/c9/66/filename-flyer-htbp-tdn.jpg
-﻿Paryż	Le Marais	Okolice	http://media-cdn.tripadvisor.com/media/photo-l/02/76/be/ac/place-des-vosges-king.jpg
+Paryż	Palais Garnier - Opera National de Paris	Opery	Obiekty architektury	Teatry	http://media-cdn.tripadvisor.com/media/photo-l/01/d3/08/5a/caption.jpg
+Paryż	Most Aleksandra III	Mosty	Miejsca historyczne	Charakterystyczne obiekty/ciekawe miejsca	http://media-cdn.tripadvisor.com/media/photo-l/04/01/e0/cb/pont-alexandre-iii.jpg
+Paryż	Ogród Luksemburski	Ogrody	Parki	http://media-cdn.tripadvisor.com/media/photo-l/03/1d/9d/c9/luxembourg-gardens.jpg
+Paryż	Luwr	Muzea sztuk pięknych	Muzea	http://media-cdn.tripadvisor.com/media/photo-l/05/6b/c7/ee/musee-du-louvre.jpg
+Paryż	Wieża Eiffla	Miejsca historyczne	Obiekty architektury	Platformy/wieże obserwacyjne	Charakterystyczne obiekty/ciekawe miejsca	Pomniki	http://media-cdn.tripadvisor.com/media/photo-l/04/00/a2/7f/eiffel-tower.jpg
+Paryż	Katedra Notre-Dame w Paryżu	Miejsca kultu religijnego	Obiekty architektury	Miejsca historyczne	Charakterystyczne obiekty/ciekawe miejsca	Kościoły/katedry	http://media-cdn.tripadvisor.com/media/photo-l/01/0f/39/8a/notre-dame.jpg
+Paryż	How to become Parisian in one hour?	Przedstawienia	http://media-cdn.tripadvisor.com/media/photo-f/02/a1/c9/66/filename-flyer-htbp-tdn.jpg
+Paryż	Le Marais	Okolice	http://media-cdn.tripadvisor.com/media/photo-l/02/76/be/ac/place-des-vosges-king.jpg
 Paryż	Paris by Martin Private Tours	Zwiedzanie	http://media-cdn.tripadvisor.com/media/photo-l/04/8c/58/20/paris-by-martin-private.jpg
 Paryż	Blue Bike Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/05/4e/a6/1c/blue-bike-tours.jpg
 Paryż	Left Bank Scooters	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/33/bd/41/paris-tour.jpg
