@@ -1,7 +1,8 @@
-WYSZUKIWANIE: DOOKOłA
+﻿WYSZUKIWANIE: DOOKOłA
 ________________________________________
 
 Nazwa: Dookoła Islandii
+Ocena wycieczki: 7,8,5,2,6
 Kod: 97-97191-2C44
 Transport: samolot
 Cena:8900.0
@@ -41,6 +42,7 @@ Terminy:15.06 - 22.06.2014, 8900.00 PLN06.07 - 13.07.2014, 8900.00 PLN10.08 - 17
 ________________________________________
 
 Nazwa: Dookoła Usa
+Ocena wycieczki: 9,9,9,6,8
 Kod: 97-97188-2C44
 Transport: samolot
 Cena:18950.0
@@ -107,6 +109,7 @@ Terminy:27.07 - 27.08.2014, 19950.00 PLN01.09 - 02.10.2014, 18950.00 PLN
 ________________________________________
 
 Nazwa: Dookoła Świata I 2014
+Ocena wycieczki: 8,8,9,7,6
 Kod: 77-99646-2C44
 Transport: samolot
 Cena:16980.0
@@ -115,105 +118,11 @@ Czas trwania: 30
 Wyjazd dostępny w miesiącach:
 2014-08 2014-10 2014-11 
 Opis wycieczki:
-Rodzajoferta objazdowaUdogodnieniaCENA: 16 980 PLN + 2 960 USD; * dopłata do wysokiego sezonu (sierpień/wrzesień) 1 100 PLN + 250 USD; 1 rata: 800 PLN płatne przy zapisie; 2 rata: 16 980 PLN płatne na 35 dni przed wylotem (minus 1 rata); 3 rata: 2 960 USD uczestnik zabiera ze sobąCENA ZAWIERA:  przeloty na trasie Warszawa - Los Angeles - Honolulu - Auckland - Brisbane - Sydney  Hongkong lub Singapur - Warszawa;  opłatę za wizę australijską;  opiekę pilota-przewodnika;  ubezpieczenie Europa (KL 30 000 EUR i NNW 3 000 EUR);  zakwaterowanie - hotele i motele 3***, pokoje 2-os. z łazienkami;  przejazdy wewnętrzne mikrobusem z klimatyzacją;  transfery z i na lotnisko;  miejscowych przewodników;  wyżywienie - śniadania na większości trasy po USA, w Australii i na Nowej Zelandii, a także w Hongkongu lub Singapurze;CENA NIE ZAWIERA:  opłaty za wjazdy do parków i bilety wstępów 350 USD;  opłat lotniskowych 90 USD;  zwyczajowych napiwków ok. 60 USD;  dopłaty do pokoju jednoosobowego 1 450 USD;  wizy USA;  pozostałego wyżywienia ok. 8-15 USD/posiłek* dopłata do wysokiego sezonu 1 100 PLN + 250 USD
-USA: Kalifornia – Arizona – Utah – Nevada – Meksyk – Hawaje – Nowa Zelandia Północna i Południowa – Australia – Hongkong lub Singapur
-
-Dzień 1: Wcześnie rano zbiórka na lotnisku w Warszawie. Wylot do Los Angeles przez jeden z portów lotniczych w Europie. Przylot w godzinach wieczornych czasu lokalnego. Transfer do hotelu. Zakwaterowanie. Nocleg.
-
-Dzień 2: Zwiedzanie Los Angeles - Hollywood, Beverly Hills, Sunset Bulevard, Promenada Gwiazd, Teatr Chiński. Późnym popołudniem przejazd do pięknego San Diego. Zakwaterowanie w hotelu. Nocleg.
-
-Dzień 3: Zwiedzanie San Diego. Około południa przejazd do Tijuany - przygranicznej miejscowości w Meksyku, spacer po mieście, dla chętnych (fakultatywnie) obiad połączony z degustacją zwalającej z nóg tequili przy wtórze meksykańskiej muzyki i wycieczkowego chóru biesiadników. Wieczorna przechadzka po kolonialnej starówce San Diego. Powrót na nocleg.
-
-Dzień 4: Przejazd z San Diego przez legendarną, „westernową”, porośniętą olbrzymimi kaktusami saguaro Arizonę do Flagstaff. Po drodze krótki przystanek w Yumie, z możliwością fakultatywnego zwiedzenia więzienia znanego z filmu „15.10 do Yumy", w którym odsiadywali wyroki wszelkiej maści łotry, hulaki, rewolwerowcy i typy spod ciemnej gwiazdy. Nocleg we Flagstaff.
-
-Dzień 5: Wcześnie rano wyjazd do największego cudu natury w USA – Parku Narodowego Grand Canyon. Oglądanie kanionu z najciekawszych punktów widokowych, oraz filmu o przyrodzie i historii Wielkiego Kanionu na olbrzymim ekranie typu IMAX. Fakultatywnie przelot helikopterem nad Wielkim Kanionem (ok. 30 minut). Po południu wyjazd do Monument Valley położonego na terytorium Indian Navaho. Rajd mikrobusem w niesamowitej scenerii znanej z filmów o Dzikim Zachodzie. Przyjazd na nocleg do Page.
-
-Dzień 6: Przejazd do tamy na rzece Kolorado w kanionie Glen, po czym wycieczka statkiem w niezwykłej scenerii po jeziorze Powell – sesja fotograficzna na tle czerwonych ostańców skalnych. Następnie wyjazd na zwiedzanie najbardziej fotogenicznego na świecie Kanionu Antylop. Długa sesja zdjęciowa i spacer dnem kanionu. Późnym popołudniem przejazd na nocleg do Kanab – urokliwego miasteczka Dzikiego Zachodu.
-
-Dzień 7: Przebudzenie w scenerii czerwonych skał otaczających miasteczko, wczesny wyjazd do jeszcze jednego, paraliżującego swym pięknem kanionu Bryce. Oglądanie kanionu w niemym zachwycie i krótka piesza eksploracja kanionu. Wyjazd do unikalnego Parku Zion. Spacer wąwozem rzeki Dziewiczej. Późnym południem przejazd do jaskini hazardu i uciech doczesnych - Las Vegas w Nevadzie. Zakwaterowanie. Wieczorno-nocny rajd po kasynach gry. Pojedynki z „jednorękimi bandytami”, próbowanie szczęścia w ruletce i grach karcianych. Wczesnoranne liczenie ubytków w kasie osobistej...
-
-Dzień 8: Od rana podglądanie Las Vegas za dnia. Około godz. 10.00 wyjazd do osławionej, pozbawionej jakiegokolwiek śladu życia Doliny Śmierci i zwiedzanie jej najciekawszych zakątków. Przejazd w okolice gór Sierra Nevada – monumentalnych, tajemniczych, pokrytych śniegiem wspaniałych gór Ameryki. Nocleg w Bishop.
-
-Dzień 9: Przejazd do Parku Yosemite – najatrakcyjniejszej części gór Sierra Nevada. Zwiedzanie Parku z malowniczymi wodospadami i tysiącletnimi sekwojami. Późnym popołudniem przejazd na nocleg w okolice Stocton niedaleko San Francisco. Wiosną i jesienią – przy zamkniętym wjeździe przez Przełęcz Tioga do Yosemite, będzie realizowany wariant drugi – przejazd w okolice Lake Tahoe i zwiedzanie stolicy Kalifornii – Sacramento..
-
-Dzień 10: Przyjazd do San Francisco – według znawców jednego z najładniejszych miast świata. Zwiedzanie miasta - Rosyjskie Wzgórza, Dzielnica Chińska, rybackie nabrzeże, most Golden Gate. Wieczorem przejazd przez cieszącą się dwuznaczną sławą dzielnicę Castro. Możliwość spaceru. Nocleg w słynnej kalifornijskiej dolinie krzemowej.
-
-Dzień 11:Przejazd najbardziej malowniczą drogą w USA tzw. Jedynką, biegnącą z San Francisco do Los Angeles, wzdłuż klifowego wybrzeża Pacyfiku. Po drodze podziwianie najpiękniejszych fragmentów urwistego, poszarpanego przez ocean wybrzeża, na którym wylegują się czasem kolonie leniwych słoni morskich. Nocleg w okolicy Santa Maria.
-
-Dzień 12: Przejazd do Los Angeles. Po drodze krótkie zwiedzanie Santa Barbara - wypoczynkowej miejscowości prezydenta Reagana. Przyjazd do Los Angeles w godzinach południowych. Zwiedzanie świata techniki filmowej, rozrywki i wszelkiej ułudy - Universal Studio. Wieczór przy kalifornijskim winie. Nocleg w LA.
-
-Dzień 13: Wcześnie rano przejazd na lotnisko. Wylot na leżące na końcu świata Hawaje – rajskie wyspy Pacyfiku. Przylot do Honolulu około południa. Transfer do hotelu położonego w okolicy osławionej plaży Waikiki. Spacer po okolicy, aklimatyzacja. Zapoznawanie się z wygodą plaży poprzez krótkie leżenie płaskie w słońcu lub pod palmą lub też ostrożne brodzenie w ciepłych wodach Pacyfiku, stanie na jednej nodze, bryzganie wodą, etc.
-
-Dzień 14: Całodzienna wycieczka wokół Oahu - głównej wyspy archipelagu hawajskiego - Zatoka Hanaumea, morski gejzer Halona Blow Hole, japońska świątynia, kultowe plaże surferów. Wizyta na plantacji ananasowej Dole'a.
-
-Dzień 15: Wypoczynek na plaży lub też fakultatywnie wylot na Big Island – największą hawajską wyspę. Zwiedzanie Parku Narodowego „Hawaii Volcanoes” – podglądanie aktywnego wulkanu Kilauea. Wizyta w dzikiej hawajskiej dżungli. Późnym wieczorem powrót na Honolulu.
-
-Dzień 16: Wypoczynek bierny i czynny lub też fakultatywnie całodniowa wycieczka do Centrum Kultury Polinezyjskiej. Oglądanie pokazów tańców, śpiewów i sztuki prezentowanych przez zespoły folklorystyczne z całego regionu Pacyfiku. Po pokazach obfita aż do przesady kolacja na ciepło (możliwość pochłonięcia do 15 000 kalorii…). Powrót na nocleg z okropnymi wyrzutami sumienia i mocnym postanowieniem pomiarkowania w jedzeniu i piciu…
-
-DZIEŃ 17-18: Po północy wylot do Nowej Zelandii. Przylot do Auckland w godzinach rannych. Następnie transfer do hotelu. Odpoczynek po podróży. Po południu spacer po mieście, wejście na Sky Tower i oglądanie miasta z lotu ptaka. Powrót na nocleg do hotelu.
-
-Dzień 19: Po śniadaniu przejazd do Rotorua przez malownicze tereny Waikato. Po drodze zwiedzanie Waitomo Caves - zespołu unikalnych jaskiń, które zwiedza się płynąc podziemną rzeką. Dalszy przejazd do Rotorua. Po południu wizyta w wiosce Maorysów, skansenie kultury - podglądanie codziennego życia a także rękodzieła, tańców i śpiewów maoryskich. Nocleg.
-
-Dzień 20: Zwiedzanie Rotorua i okolic - znanych z gejzerów, gotującego się błota i zjawisk wulkanicznych. Odwiedziny na farmie i pokaz strzyżenia owiec. Sanktuarium Ptaszka Kiwi (symbolu Nowej Zelandii). Po południu dla chętnych możliwość raftingu – spływu pontonami po rwącej rzece.
-
-Dzień 21: Wyjazd z Rotorua do Auckland - przejazd przez małe ukwiecone miasteczka Hamilton i Cambridge. Przyjazd do hotelu, zakwaterowanie. Po południu zwiedzanie Auckland wraz z Mt. Eden, Kohimarama, Mission Bay. Wyjazd do Piha – popularne czarne plaże nad Morzem Tasmana. Oglądanie najładniejszej z nich - plaży Muriwai, przylegającej do urwistego klifowego brzegu, na której występują kolonie dziwnych ptaków o jeszcze dziwniejszej nazwie Gannet. W drodze powrotnej spacer po buszu. Powrót do hotelu na nocleg.
-
-Dzień 22: Do południa dalsze zwiedzanie Auckland. Ok. godz. 12.00 wylot na Wyspę Południową Nowej Zelandii. Przylot do Christchurch po południu. Transfer do hotelu, zakwaterowanie. Wyjście na zwiedzanie miasta. Nocleg.
-
-Dzień 23: Po śniadaniu przejazd do Queenstown. Po drodze sesja zdjęciowa z intrygującym tłem - najwyższą górą Nowej Zelandii- Mt. Cook. Przyjazd do Queenstown. Transfer do hotelu. Wieczorny spacer po centrum jakże urokliwego miasta o niesamowitej atmosferze…Nocleg.
-
-Dzień 24: Przejazd do Milford przez Park Narodowy Fiordland. Rejs statkiem po Zatoce Milford Sound, oglądanie z pokładu stateczku najładniejszych (jak twierdzą znawcy) fiordów świata. Uczta krajoznawcza dla oczu. Spacer nad brzegiem romantycznego Lake Te Anau. Powrót do Queenstown w późnych godzinach popołudniowych. Wieczorem wylot do Brisbane. Przylot, transfer do hotelu, zakwaterowanie. Nocleg
-
-Dzień 25: Wyjazd do Surfer’s Paradise - stolicy „Złotego Wybrzeża”. Możliwość surfingu na desce lub też leżenie płaskie i obserwacja popisów młodych surfingowców. Wieczorem powrót do Brisbane.
-
-Dzień 26: Zwiedzanie Brisbane - spacer po city i ogrodzie botanicznym, rejs statkiem po rzece przy akompaniamencie melodii nieprzemijającego przeboju Australijczyków „Walzing Matilda” nieśmiało, aczkolwiek pełną piersią śpiewanego przez „wycieczkowy chór”. Po południu przejazd na lotnisko, wylot do Sydney. Przylot, transfer do hotelu. Szalony wieczór uciech na Kings Cross - dzielnicy rozrywki i wszelkiej rozpusty. Nocleg.
-
-Dzień 27: Całodzienne zwiedzanie Sydney - gmach słynnej opery, Katedra St. Mary, ogród botaniczny, oceanarium, zespół wysokościowców, rejs promem po zatokach portowych, spacer po nadmorskiej dzielnicy Manly. Wieczorem dla chętnych możliwość kolacji na wieży widokowej z obserwacją panoramy miasta. Nocleg.
-
-Dzień 28: Wyjazd do Blue Mountains, unikalnych formacji skalnych. Po drodze oglądanie wioski olimpijskiej z 2000 r. Wizyta w Featherdale Wildlife Park (gdzie można pogłaskać misia koala, dostać kopa od kangura, usiąść na jajo strusia). Dalej jazda do Blue Mountains, wjazd najbardziej stromą kolejką na świecie na punkt widokowy. Powrót do Sydney na nocleg.
-
-Dzień 29: Od rana czas wolny na samodzielne spacery, zakupy pamiątek lub też wyjazd na Bondi Beach, relaks przed podróżą. Ok. godz. 14.00 transfer na lotnisko i wylot do Hongkongu (lub Singapuru). Przylot w godzinach wieczornych. Transfer do hotelu, nocleg.
-
-Dzień 30: Zwiedzanie Hongkongu (lub Singapuru). Wieczorem transfer na lotnisko, wylot do Europy.
-
-Dzień 31: Przylot do jednego z europejskich portów lotniczych. Przerwa przesiadkowa. Wylot do Polski. Przylot do Warszawy. Koniec wylotów i przylotów. Powrót twardym duktem w domowe pielesze, na łono stęsknionych rodzin…
-
-TERMINY:
-15.03 – 14.04.2014
-23.08 – 22.09.2014*
-01.10 – 31.10.2014
-03.11 – 03.12.2014
-
-CENA: 16 980 PLN + 2 960 USD
-1 rata: 800 PLN płatne przy zapisie
-2 rata: 16 980 PLN płatne na 35 dni przed wylotem (minus 1 rata)
-3 rata:  2 960 USD uczestnik zabiera ze sobą
-
-CENA ZAWIERA:
-• przeloty na trasie Warszawa - Los Angeles - Honolulu - Auckland - Brisbane - Sydney – Hongkong lub Singapur - Warszawa
-• opłatę za wizę australijską
-• opiekę pilota-przewodnika
-• ubezpieczenie Europa (KL 30 000 EUR i NNW 3 000 EUR)
-• zakwaterowanie - hotele i motele 3***, pokoje 2-os. z łazienkami
-• przejazdy wewnętrzne mikrobusem z klimatyzacją
-• transfery z i na lotnisko
-• miejscowych przewodników
-• wyżywienie - śniadania na większości trasy po USA, w Australii i na Nowej Zelandii, a także w Hongkongu lub Singapurze
-
-CENA NIE ZAWIERA:
-• opłaty za wjazdy do parków i bilety wstępów 350 USD
-• opłat lotniskowych 90 USD
-• zwyczajowych napiwków ok. 60 USD
-• dopłaty do pokoju jednoosobowego 1 450 USD
-• wizy USA
-• pozostałego wyżywienia ok. 8-15 USD/posiłek
-
-* dopłata do wysokiego sezonu 1100 PLN + 250 USD
-
-
+Rodzajoferta objazdowaUdogodnieniaCENA: 16 980 PLN + 2 960 USD; * dopłata do wysokiego sezonu (sierpień/wrzesień) 1 100 PLN + 250 USD; 1 rata: 800 PLN płatne przy zapisie; 2 rata: 16 980 PLN płatne na 35 dni przed wylotem (minus 1 rata); 3 rata: 2 960 USD uczestnik zabiera ze sobąCENA ZAWIERA:  przeloty na trasie Warszawa - Los Angeles - Honolulu - Auckland - Brisbane - Sydney  Hongkong lub Singapur - Warszawa;  opłatę za wizę australijską;  opiekę pilota-przewodnika;  ubezpieczenie Europa (KL 30 000 EUR i NNW 3 000 EUR);  zakwaterowanie - hotele i motele 3***, pokoje 2-os. z łazienkami;  przejazdy wewnętrzne mikrobusem z klimatyzacją;  transfery z i na lotnisko;  miejscowych przewodników;  wyżywienie - śniadania na większości trasy po USA, w Australii i na Nowej Zelandii, a także w Hongkongu lub Singapurze;CENA NIE ZAWIERA:  opłaty za wjazdy do parków i bilety wstępów 350 USD;  opłat lotniskowych 90 USD;  zwyczajowych napiwków ok. 60 USD;  dopłaty do pokoju jednoosobowego 1 450 USD;  wizy USA;  pozostałego wyżywienia ok. 8-15 USD/posiłek* dopłata do wysokiego sezonu 1 100 PLN + 250 USDUSA: Kalifornia – Arizona – Utah – Nevada – Meksyk – Hawaje – Nowa Zelandia Północna i Południowa – Australia – Hongkong lub SingapurDzień 1: Wcześnie rano zbiórka na lotnisku w Warszawie. Wylot do Los Angeles przez jeden z portów lotniczych w Europie. Przylot w godzinach wieczornych czasu lokalnego. Transfer do hotelu. Zakwaterowanie. Nocleg.Dzień 2: Zwiedzanie Los Angeles - Hollywood, Beverly Hills, Sunset Bulevard, Promenada Gwiazd, Teatr Chiński. Późnym popołudniem przejazd do pięknego San Diego. Zakwaterowanie w hotelu. Nocleg.Dzień 3: Zwiedzanie San Diego. Około południa przejazd do Tijuany - przygranicznej miejscowości w Meksyku, spacer po mieście, dla chętnych (fakultatywnie) obiad połączony z degustacją zwalającej z nóg tequili przy wtórze meksykańskiej muzyki i wycieczkowego chóru biesiadników. Wieczorna przechadzka po kolonialnej starówce San Diego. Powrót na nocleg.Dzień 4: Przejazd z San Diego przez legendarną, „westernową”, porośniętą olbrzymimi kaktusami saguaro Arizonę do Flagstaff. Po drodze krótki przystanek w Yumie, z możliwością fakultatywnego zwiedzenia więzienia znanego z filmu „15.10 do Yumy", w którym odsiadywali wyroki wszelkiej maści łotry, hulaki, rewolwerowcy i typy spod ciemnej gwiazdy. Nocleg we Flagstaff.Dzień 5: Wcześnie rano wyjazd do największego cudu natury w USA – Parku Narodowego Grand Canyon. Oglądanie kanionu z najciekawszych punktów widokowych, oraz filmu o przyrodzie i historii Wielkiego Kanionu na olbrzymim ekranie typu IMAX. Fakultatywnie przelot helikopterem nad Wielkim Kanionem (ok. 30 minut). Po południu wyjazd do Monument Valley położonego na terytorium Indian Navaho. Rajd mikrobusem w niesamowitej scenerii znanej z filmów o Dzikim Zachodzie. Przyjazd na nocleg do Page.Dzień 6: Przejazd do tamy na rzece Kolorado w kanionie Glen, po czym wycieczka statkiem w niezwykłej scenerii po jeziorze Powell – sesja fotograficzna na tle czerwonych ostańców skalnych. Następnie wyjazd na zwiedzanie najbardziej fotogenicznego na świecie Kanionu Antylop. Długa sesja zdjęciowa i spacer dnem kanionu. Późnym popołudniem przejazd na nocleg do Kanab – urokliwego miasteczka Dzikiego Zachodu.Dzień 7: Przebudzenie w scenerii czerwonych skał otaczających miasteczko, wczesny wyjazd do jeszcze jednego, paraliżującego swym pięknem kanionu Bryce. Oglądanie kanionu w niemym zachwycie i krótka piesza eksploracja kanionu. Wyjazd do unikalnego Parku Zion. Spacer wąwozem rzeki Dziewiczej. Późnym południem przejazd do jaskini hazardu i uciech doczesnych - Las Vegas w Nevadzie. Zakwaterowanie. Wieczorno-nocny rajd po kasynach gry. Pojedynki z „jednorękimi bandytami”, próbowanie szczęścia w ruletce i grach karcianych. Wczesnoranne liczenie ubytków w kasie osobistej...Dzień 8: Od rana podglądanie Las Vegas za dnia. Około godz. 10.00 wyjazd do osławionej, pozbawionej jakiegokolwiek śladu życia Doliny Śmierci i zwiedzanie jej najciekawszych zakątków. Przejazd w okolice gór Sierra Nevada – monumentalnych, tajemniczych, pokrytych śniegiem wspaniałych gór Ameryki. Nocleg w Bishop.Dzień 9: Przejazd do Parku Yosemite – najatrakcyjniejszej części gór Sierra Nevada. Zwiedzanie Parku z malowniczymi wodospadami i tysiącletnimi sekwojami. Późnym popołudniem przejazd na nocleg w okolice Stocton niedaleko San Francisco. Wiosną i jesienią – przy zamkniętym wjeździe przez Przełęcz Tioga do Yosemite, będzie realizowany wariant drugi – przejazd w okolice Lake Tahoe i zwiedzanie stolicy Kalifornii – Sacramento..Dzień 10: Przyjazd do San Francisco – według znawców jednego z najładniejszych miast świata. Zwiedzanie miasta - Rosyjskie Wzgórza, Dzielnica Chińska, rybackie nabrzeże, most Golden Gate. Wieczorem przejazd przez cieszącą się dwuznaczną sławą dzielnicę Castro. Możliwość spaceru. Nocleg w słynnej kalifornijskiej dolinie krzemowej.Dzień 11:Przejazd najbardziej malowniczą drogą w USA tzw. Jedynką, biegnącą z San Francisco do Los Angeles, wzdłuż klifowego wybrzeża Pacyfiku. Po drodze podziwianie najpiękniejszych fragmentów urwistego, poszarpanego przez ocean wybrzeża, na którym wylegują się czasem kolonie leniwych słoni morskich. Nocleg w okolicy Santa Maria.Dzień 12: Przejazd do Los Angeles. Po drodze krótkie zwiedzanie Santa Barbara - wypoczynkowej miejscowości prezydenta Reagana. Przyjazd do Los Angeles w godzinach południowych. Zwiedzanie świata techniki filmowej, rozrywki i wszelkiej ułudy - Universal Studio. Wieczór przy kalifornijskim winie. Nocleg w LA.Dzień 13: Wcześnie rano przejazd na lotnisko. Wylot na leżące na końcu świata Hawaje – rajskie wyspy Pacyfiku. Przylot do Honolulu około południa. Transfer do hotelu położonego w okolicy osławionej plaży Waikiki. Spacer po okolicy, aklimatyzacja. Zapoznawanie się z wygodą plaży poprzez krótkie leżenie płaskie w słońcu lub pod palmą lub też ostrożne brodzenie w ciepłych wodach Pacyfiku, stanie na jednej nodze, bryzganie wodą, etc.Dzień 14: Całodzienna wycieczka wokół Oahu - głównej wyspy archipelagu hawajskiego - Zatoka Hanaumea, morski gejzer Halona Blow Hole, japońska świątynia, kultowe plaże surferów. Wizyta na plantacji ananasowej Dole'a.Dzień 15: Wypoczynek na plaży lub też fakultatywnie wylot na Big Island – największą hawajską wyspę. Zwiedzanie Parku Narodowego „Hawaii Volcanoes” – podglądanie aktywnego wulkanu Kilauea. Wizyta w dzikiej hawajskiej dżungli. Późnym wieczorem powrót na Honolulu.Dzień 16: Wypoczynek bierny i czynny lub też fakultatywnie całodniowa wycieczka do Centrum Kultury Polinezyjskiej. Oglądanie pokazów tańców, śpiewów i sztuki prezentowanych przez zespoły folklorystyczne z całego regionu Pacyfiku. Po pokazach obfita aż do przesady kolacja na ciepło (możliwość pochłonięcia do 15 000 kalorii…). Powrót na nocleg z okropnymi wyrzutami sumienia i mocnym postanowieniem pomiarkowania w jedzeniu i piciu…DZIEŃ 17-18: Po północy wylot do Nowej Zelandii. Przylot do Auckland w godzinach rannych. Następnie transfer do hotelu. Odpoczynek po podróży. Po południu spacer po mieście, wejście na Sky Tower i oglądanie miasta z lotu ptaka. Powrót na nocleg do hotelu.Dzień 19: Po śniadaniu przejazd do Rotorua przez malownicze tereny Waikato. Po drodze zwiedzanie Waitomo Caves - zespołu unikalnych jaskiń, które zwiedza się płynąc podziemną rzeką. Dalszy przejazd do Rotorua. Po południu wizyta w wiosce Maorysów, skansenie kultury - podglądanie codziennego życia a także rękodzieła, tańców i śpiewów maoryskich. Nocleg.Dzień 20: Zwiedzanie Rotorua i okolic - znanych z gejzerów, gotującego się błota i zjawisk wulkanicznych. Odwiedziny na farmie i pokaz strzyżenia owiec. Sanktuarium Ptaszka Kiwi (symbolu Nowej Zelandii). Po południu dla chętnych możliwość raftingu – spływu pontonami po rwącej rzece.Dzień 21: Wyjazd z Rotorua do Auckland - przejazd przez małe ukwiecone miasteczka Hamilton i Cambridge. Przyjazd do hotelu, zakwaterowanie. Po południu zwiedzanie Auckland wraz z Mt. Eden, Kohimarama, Mission Bay. Wyjazd do Piha – popularne czarne plaże nad Morzem Tasmana. Oglądanie najładniejszej z nich - plaży Muriwai, przylegającej do urwistego klifowego brzegu, na której występują kolonie dziwnych ptaków o jeszcze dziwniejszej nazwie Gannet. W drodze powrotnej spacer po buszu. Powrót do hotelu na nocleg.Dzień 22: Do południa dalsze zwiedzanie Auckland. Ok. godz. 12.00 wylot na Wyspę Południową Nowej Zelandii. Przylot do Christchurch po południu. Transfer do hotelu, zakwaterowanie. Wyjście na zwiedzanie miasta. Nocleg.Dzień 23: Po śniadaniu przejazd do Queenstown. Po drodze sesja zdjęciowa z intrygującym tłem - najwyższą górą Nowej Zelandii- Mt. Cook. Przyjazd do Queenstown. Transfer do hotelu. Wieczorny spacer po centrum jakże urokliwego miasta o niesamowitej atmosferze…Nocleg.Dzień 24: Przejazd do Milford przez Park Narodowy Fiordland. Rejs statkiem po Zatoce Milford Sound, oglądanie z pokładu stateczku najładniejszych (jak twierdzą znawcy) fiordów świata. Uczta krajoznawcza dla oczu. Spacer nad brzegiem romantycznego Lake Te Anau. Powrót do Queenstown w późnych godzinach popołudniowych. Wieczorem wylot do Brisbane. Przylot, transfer do hotelu, zakwaterowanie. NoclegDzień 25: Wyjazd do Surfer’s Paradise - stolicy „Złotego Wybrzeża”. Możliwość surfingu na desce lub też leżenie płaskie i obserwacja popisów młodych surfingowców. Wieczorem powrót do Brisbane.Dzień 26: Zwiedzanie Brisbane - spacer po city i ogrodzie botanicznym, rejs statkiem po rzece przy akompaniamencie melodii nieprzemijającego przeboju Australijczyków „Walzing Matilda” nieśmiało, aczkolwiek pełną piersią śpiewanego przez „wycieczkowy chór”. Po południu przejazd na lotnisko, wylot do Sydney. Przylot, transfer do hotelu. Szalony wieczór uciech na Kings Cross - dzielnicy rozrywki i wszelkiej rozpusty. Nocleg.Dzień 27: Całodzienne zwiedzanie Sydney - gmach słynnej opery, Katedra St. Mary, ogród botaniczny, oceanarium, zespół wysokościowców, rejs promem po zatokach portowych, spacer po nadmorskiej dzielnicy Manly. Wieczorem dla chętnych możliwość kolacji na wieży widokowej z obserwacją panoramy miasta. Nocleg.Dzień 28: Wyjazd do Blue Mountains, unikalnych formacji skalnych. Po drodze oglądanie wioski olimpijskiej z 2000 r. Wizyta w Featherdale Wildlife Park (gdzie można pogłaskać misia koala, dostać kopa od kangura, usiąść na jajo strusia). Dalej jazda do Blue Mountains, wjazd najbardziej stromą kolejką na świecie na punkt widokowy. Powrót do Sydney na nocleg.Dzień 29: Od rana czas wolny na samodzielne spacery, zakupy pamiątek lub też wyjazd na Bondi Beach, relaks przed podróżą. Ok. godz. 14.00 transfer na lotnisko i wylot do Hongkongu (lub Singapuru). Przylot w godzinach wieczornych. Transfer do hotelu, nocleg.Dzień 30: Zwiedzanie Hongkongu (lub Singapuru). Wieczorem transfer na lotnisko, wylot do Europy.Dzień 31: Przylot do jednego z europejskich portów lotniczych. Przerwa przesiadkowa. Wylot do Polski. Przylot do Warszawy. Koniec wylotów i przylotów. Powrót twardym duktem w domowe pielesze, na łono stęsknionych rodzin…TERMINY:15.03 – 14.04.201423.08 – 22.09.2014*01.10 – 31.10.201403.11 – 03.12.2014CENA: 16 980 PLN + 2 960 USD1 rata: 800 PLN płatne przy zapisie2 rata: 16 980 PLN płatne na 35 dni przed wylotem (minus 1 rata)3 rata:  2 960 USD uczestnik zabiera ze sobąCENA ZAWIERA:• przeloty na trasie Warszawa - Los Angeles - Honolulu - Auckland - Brisbane - Sydney – Hongkong lub Singapur - Warszawa• opłatę za wizę australijską• opiekę pilota-przewodnika• ubezpieczenie Europa (KL 30 000 EUR i NNW 3 000 EUR)• zakwaterowanie - hotele i motele 3***, pokoje 2-os. z łazienkami• przejazdy wewnętrzne mikrobusem z klimatyzacją• transfery z i na lotnisko• miejscowych przewodników• wyżywienie - śniadania na większości trasy po USA, w Australii i na Nowej Zelandii, a także w Hongkongu lub SingapurzeCENA NIE ZAWIERA:• opłaty za wjazdy do parków i bilety wstępów 350 USD• opłat lotniskowych 90 USD• zwyczajowych napiwków ok. 60 USD• dopłaty do pokoju jednoosobowego 1 450 USD• wizy USA• pozostałego wyżywienia ok. 8-15 USD/posiłek* dopłata do wysokiego sezonu 1100 PLN + 250 USD
 ________________________________________
 
 Nazwa: Dookoła Hiszpanii
+Ocena wycieczki: 5,8,7,8,4
 Kod: 31-95800-2C44
 Transport: samolot
 Cena:1949.0
@@ -226,6 +135,7 @@ Opis wycieczki:
 ________________________________________
 
 Nazwa: Dookoła Grecji
+Ocena wycieczki: 4,9,8,5,6
 Kod: 31-95783-2C44
 Transport: samolot
 Cena:1644.0
@@ -240,6 +150,7 @@ Opis wycieczki:
 ________________________________________
 
 Nazwa: Dookoła Świata II 14
+Ocena wycieczki: 8,8,9,6,6
 Kod: 77-99647-2C44
 Transport: samolot
 Cena:16980.0
@@ -248,94 +159,11 @@ Czas trwania: 26
 Wyjazd dostępny w miesiącach:
 2014-08 2014-11 
 Opis wycieczki:
-Rodzajoferta objazdowaUdogodnieniaCENA: 19 700 PLN + 1 100 USD + 2 560 EUR; * wysoki sezon (sierpień/wrzesień) - dopłata 1 200 PLN + 450 EUR ;1 rata: 800 PLN płatne przy zapisie; 2 rata: 19 700 PLN płatne na 35 dni przed imprezą (minus 1 rata); 3 rata: 1 100 USD + 2560EUR uczestnik zabiera ze sobąCENA ZAWIERA: bilet na trasie Warszawa - Santiago de Chile, Wyspa Wielkanocna - Tahiti - Rarotonga - Cairns - Port Moresby - Goroka, Mount Hagen - Wewak - Port Moresby - Singapur - Warszawa; ubezpieczenie WARTA (KL 30 000 EUR i NNW 5 000 PLN); opieka pilota; zakwaterowanie - hotele lub bungalowy przeważnie 3***, dwa hotele 2** i dwa hotele 4****, pokoje 2-osobowy z łazienkami; 1 nocleg w Andach - pokoje wieloosobowe w schronisku górskim oraz 1 nocleg nad Sepikiem - bungalow, pok. 2-osobowy z łazienkami; na Wyspach Cooka bungalowy lub motel; wyżywienie - w Chile i na Wyspie Wielkanocnej 2 posiłki dziennie, na Papui Nowej Gwinei 2 posiłki dziennie plus suchy prowiant, lunch podczas rejsu na Rafę, śniadania w Australii; wszystkie transfery - lotnisko - hotel - lotnisko; transporty mikrobusami, przeprawa łodzią po rzece Sepik; wycieczka jachtem na Wielką Rafę Koralową; opłaty za miejscowych przewodników; opłaty za wizy do Papui Nowej Gwinei i Australii,CENA NIE ZAWIERA: opłat lotniskowych 60 EUR; biletów wstępów 270 EUR; dopłata do pokoju 1-osobowego 890 EUR
-Chile - Wyspa Wielkanocna - Tahiti - BoraBora - Wyspy Cooka - Australia - Papua-Nowa Gwinea – Singapur
- 
-Dzień 1: Zbiórka na lotnisku Okęcie w Warszawie. Przelot do Chile przez jeden z portów lotniczych w Europie.
-
-Dzień 2: Przylot do stolicy Chile w godzinach porannych, transfer do hotelu. Krótki odpoczynek po podróży. Po południu zwiedzanie miasta - wzgórze San Cristobal - stąd rozpościera się wspaniały widok na miasto i okolicę, Uniwersytetu Catolica, Palacio de la Moneda, dzielnica rządowa, kościół Św. Franciszka. Wieczorem podglądanie nocnego życia w okolicy Belavista. Nocleg.
-
-Dzień 3: Wczesnym rankiem wyjazd do Canion Rio Maipo. Po drodze wizyta w największej chilijskiej winnicy Vina Concha y Tora w Pirgue. Skosztowanie miejscowych win w celu uchwycenia smaku i dodania sobie odwagi przed mrożącą krew w żyłach przygodą na rzece Maipo. Przejazd w idyllicznym krajobrazie gór, przy wtórze pieśni biesiadnych w wykonaniu rozweselonych członków wycieczkowego chóru. Dojazd do kanionu. Piknik winny nad brzegiem rzeki lub fakultatywnie rafting - przesiadka na 7-osobowe pontony. Prawdziwie męska przygoda, próba sił i charakteru. Spływ rwącą górską rzeką wśród okrzyków zachwytu nieustraszonych kobiet i przeraźliwych pisków zatrwożonych mężczyzn... Szczęśliwe ukończenie raftingu, wystawny obiad wśród sosnowego zagajnika, delektowanie się regionalnymi potrawami i wdychanie pełną piersią balsamicznego powietrza przesączonego olejkami eterycznymi i fitocyndami. Przejazd do miejscowości Banos Morales słynnej z ciepłych źródeł. Po drodze punkt widokowy w El Melocoton i San Alfonso. Przejazd do Aguas Calientes, relaks w ciepłych i uzdrawiających wodach w scenerii zapadających ciemności przy świetle księżyca i gwiazd... Przejazd na nocleg do pobliskiego Refugio Aleman. Sen sprawiedliwego.
-
-Dzień 4: Poranne rozbudzenie i śniadanie wśród urzekającego świata gór. Po śniadaniu trekking na punkt widokowy Laguna El Morado - rozpościera się stąd oszałamiający i rzucający na kolana widok na andyjski szczyt Cerro El Morado - 5 600 m n.p.m. Dla słabowitych i ubogich duchem wjazd na konikach. Po drodze postoje i popasy. Medytacje na tle ośnieżonych szczytów. Zejście do punktu startu. Krzepienie się chilijskim piwem i obiad w cieniu oleandra. Po południu przejazd do Vina del Mar - zakwaterowanie. Noc uciech doczesnych w największym kurorcie Chile.
-
-Dzień 5: Od rana marszobieg po plaży i próby wykąpania się w lodowatych wodach Oceanu Spokojnego lub dostojny spacer po mieście. Około południa wyjazd na lotnisko. Po drodze zwiedzanie Valparaiso - nadmorskiej miejscowości znanej ze swej urody i kolonialnego stylu budowli. Wjazd starą, niemiłosiernie skrzypiącą kolejką zębatą na punkt widokowy, następnie przejazd na lotnisko. Wylot na leżącą na końcu świata, skrytą i tajemniczą Wyspę Wielkanocną. Przylot późnym wieczorem, transfer do hotelu, nocleg.
-
-Dzień 6: Całodniowy objazd wyspy - Wulkan Rano Raraku, plaża Anakena, posągi słynnych olbrzymów „moai”. Sesja zdjęciowa między posągami, wizyta na bazarze rzemiosła artystycznego, powrót do hotelu. Wieczorem obserwacja rozgwieżdżonego nieboskłonu.
-
-Dzień 7: Dalsze zwiedzanie wyspy - Kamieniołom Czerwonych Peruk. Wycieczka piesza na wulkan Rano Kao. Dzienny rekord wypitych płynów. Powrót do rezydencji. Przejazd na lotnisko, wieczorem wylot na owianą legendą rajskie wyspy Pacyfiku - Polinezję Francuską. Przylot do Pepeete, stolicy Tahiti. Powitanie na lotnisku przez tahitańskie piękności. Przejazd do hotelu. Nocleg.
-
-Dzień 8: Rankiem wyjazd na wycieczkę po Tahiti - podziwianie wodospadów i zwiedzanie grot ukrytych w skałach, muzeum słynnego malarza tahitańskich kobiet - Gaugina. Oglądanie Point Venus - położonej u podnóża czarnej plaży. Po południu przejazd na lotnisko, przelot na wyspę Bora-Bora - uznawaną przez znawców za ósmy cud natury. Transfer z lotniska łodzią do hotelu. Odpoczynek na rajskiej wyspie. Nocleg.
-
-Dzień 9: Samodzielne pływanie z maską na rafie koralowej lub fakultatywnie wycieczka łodzią wokół wyspy, w trakcie której można będzie pobaraszkować z rekinami, złapać płaszczkę za ogon (uwaga na kolec jadowy!), a także zjeść lunch w stylu polinezyjskim nad brzegiem oceanu. Powrót łodzią bezpośrednio na lotnisko (bagaż popłynie osobnym transportem). Możliwość obmycia się w ukwieconych i wonnych łazienkach na lotnisku. Wylot na Morea. Nocleg.
-
-Dzień 10: Wycieczki piesze po okolicy, pływanie, sporty wodne lub fakultatywnie safari landroverami po wyspie (punkt widokowy Belvedere, plantacje wanilii i ananasów, przejście przez dżunglę pod wodospad). Późnym popołudniem przepłynięcie katamaranem na oddaloną o 9 mil wyspę Tahiti. Przejazd do hotelu. Nocleg.
-
-Dzień 11: We wczesnych godzina porannych wylot na Wyspy Cooka. Przylot na Rarotonga - transfer do hotelu, zakwaterowanie, odpoczynek po podróży, kąpiele regenerujące ciało i duszę. Wieczorem możliwość skocznych tańców przy muzyczce. Nocleg.
-
-Dzień 12: Wycieczka wokół wyspy. Oglądanie głównych atrakcji z możliwością kąpieli po drodze. Nocleg.
-
-Dzień 13: Minitrekking w głąb wyspy w unikalnej scenerii przyrody. Poznawanie lokalnej fauny i flory - roślin o cudownych właściwościach leczniczych. Fakultatywnie możliwość wycieczki na wyspę Aitutaki - jedną z najbardziej dziewiczych wysepek w archipelagu Wysp Cooka. Powrót do hotelu po bagaż.
-
-Dzień 14-15: Krótko po północy wylot do Australii. Przekroczenie strefy czasu. Przesiadka tranzytowa w Auckland. Przylot do Cairns. Po południu spacer uliczkami Cairns, gdzie gromadzą się globtroterzy i nurkowie z całego świata. Nocleg w Cairns.
-
-Dzień 16: Wycieczka jachtem na Wielką Rafę Koralową. Podziwianie najpiękniejszej i największej na świecie rafy koralowej z milionami kolorowych ryb i stworzeń morskich, wspaniałości podwodnego świata.
-
-Dzień 17: Błogiego odpoczynku lub zachwytów nad Rafą ciąg dalszy bądź - fakultatywnie - wycieczka kolejką do Kurandy - oglądanie wodospadów i dziwów natury oraz wizyta w Tiapukai - Parku Kultury Aborygeńskiej, oglądanie pokazów tańców aborygeńskich. Powrót na nocleg do Cairns.
-
-Dzień 18: Czas na plażowanie lub zakup pamiątek - jajo strusia, bumerang, kropkowane unikalne malowidła aborygenów itd. lub też - fakultatywnie - lot balonem nad Cairns. Wieczorem możliwość spędzenia czasu na skocznych tańcach w klubie tanecznym lub przy szklanicy dobrze schłodzonego piwa w pubie.
-
-Dzień 19: Rankiem wyjazd na lotnisko. Wylot do stolicy Papui Nowej Gwinei - Port Moresby, przesiadka na samolot do Goroki. Przylot do leżącej w sercu Nowej Gwinei górskiej miejscowości w godzinach popołudniowych. Odprawa celna, wymiana waluty. Pierwszy kontakt z tubylczą ludnością. Transfer do hotelu, nocleg.
-
-Dzień 20: Przejazd do Mt. Hagen. Po drodze zwiedzanie plantacji kawy i herbaty oraz przejazd do autentycznej wioski papuaskiej. Oglądanie pokazów tańców i śpiewów papuaskich (sing-sings). Ceremonia Mumu - przygotowanie posiłku w zimnym dole na rozżarzonych kamieniach w aromatycznym sosie tropikalnych ziół i paproci. Uroczysta degustacja smakołyków. Dalszy przejazd do Mt. Hagen. Przyjazd do bazy noclegowej wieczorem. Kolacja. Nocleg.
-
-Dzień 21: Po wczesnoporannym śniadaniu wylot awionetką do Wewak. Przejazd mikrobusem nad rzekę Sepik. Przemarsz do miejsca zakwaterowania, krótki odpoczynek. Po obiedzie wypłynięcie dłubanką papuaską w górę rzeki do położonych nad Sepikiem tubylczych wiosek. Oglądanie wyrobów z rękodzieła artystycznego, próba podejrzenia miejscowej ludności. Spacer między tubylczymi chatami na wysokich palach, wśród chmar malarycznych komarów i ciekawskich spojrzeń dzieciaków. Badanie wytrzymałości organizmu w warunkach wysokiej temperatury i wilgotności. Kolejny pokaz tancerzy-wojowników łypiących spode łba przekrwionymi białkami na zaciekawionych widzów... Wieczorem powrót do bazy. Po kolacji podsłuchiwanie jak dżungla gra... Nocleg.
-
-Dzień 22: Wyjazd łodzią w dół rzeki Sepik. Dalsze zwiedzanie papuaskich wiosek. Podglądanie życia ludzi z epoki neolitu. Powrót do bazy na kolację i nocleg. Wieczorem fakultatywnie możliwość degustacji mięsa krokodyla.
-
-Dzień 23: Wcześnie rano śniadanie. Przejazd do Wewak karkołomną, błotnistą drogą. Testowanie wytrzymałości organizmu na wstrząsy. Podglądanie życia najgłębszej prowincji. Przyjazd do Wewak w godzinach popołudniowych. Zakwaterowanie. Orzeźwiające kąpiele morskie i harce wodne. Kolacja. Wieczorem oglądanie rozgwieżdżonego nieboskłonu przy uspokajającym szumie fal. Nocleg.
-
-Dzień 24: Odpoczynek na przyhotelowej plaży, kąpiele wodne lub fakultatywnie całodzienna wycieczka łodzią po Long Bay i wizyta na wyspach Mushu i Kairiru. Przed wieczorem powrót na nocleg do Wewak.
-
-Dzień 25: Bardzo wcześnie rano wyjazd na lotnisko, przelot do Port Moresby - stolicy Papui Nowej Gwinei. Przylot do Port Moresby, krótkie zwiedzanie miasta (parlament, dzielnica rządowa, ogród botaniczny). Po południu wylot do Singapuru. Przylot, transfer do hotelu. Nocleg.
-
-Dzień 26: Zwiedzanie Singapuru - symbolu Dalekiego Wschodu, zakupy w centrum elektroniki. Wieczorem przejazd na lotnisko, wylot do Europy.
-
-Dzień 27: Wczesnym rankiem przylot do jednego z portów lotniczych Europy, przesiadka na samolot do kraju. Przylot na lotnisko Okęcie w godzinach popołudniowych, spotkanie ze spragnioną pamiątek z podróży rodziną i znajomymi.
-
-TERMINY:
-17.02 - 15.03.2014
-25.03 - 20.04.2014
-17.08 - 12.09.2014*
-13.11 - 09.12.2014
-* wysoki sezon - dopłata 1 200 PLN + 450 EUR 
-
-CENA: 19 700 PLN + 1 100 USD + 2 560 EUR
-1 rata: 800 PLN płatne przy zapisie
-2 rata: 19 700 PLN płatne na 35 dni przed imprezą (minus 1 rata)
-3 rata: 1 100 USD + 2 560 EUR uczestnik zabiera ze sobą
-
-CENA ZAWIERA:
-- bilet na trasie Warszawa - Santiago de Chile, Wyspa Wielkanocna - Tahiti - Rarotonga - Cairns - Port Moresby - Goroka, Mount Hagen - Wewak - Port Moresby - Singapur - Warszawa,
-- ubezpieczenie WARTA (KL 30 000 EUR i NNW 5 000 PLN),
-- opieka pilota,
-- zakwaterowanie - hotele lub bungalowy przeważnie 3***, dwa hotele 2** i dwa hotele 4****, pokoje 2-osobowy z łazienkami; 1 nocleg w Andach - pokoje wieloosobowe w schronisku górskim oraz 1 nocleg nad Sepikiem - bungalow, pok. 2-osobowy z łazienkami; na Wyspach Cooka bungalowy lub motel,
-- wyżywienie - w Chile i na Wyspie Wielkanocnej 2 posiłki dziennie, na Papui Nowej Gwinei 2 posiłki dziennie plus suchy prowiant, lunch podczas rejsu na Rafę, śniadania w Australii,
-- wszystkie transfery - lotnisko - hotel - lotnisko,
-- transporty mikrobusami, przeprawa łodzią po rzece Sepik,
-- wycieczka jachtem na Wielką Rafę Koralową,
-- opłaty za miejscowych przewodników,
-- opłaty za wizy do Papui Nowej Gwinei i Australii,
-
-CENA NIE ZAWIERA:
-- opłat lotniskowych 60 EUR
-- biletów wstępów 270 EUR
-- dopłata do pokoju 1-osobowego 890 EUR
-
-
+Rodzajoferta objazdowaUdogodnieniaCENA: 19 700 PLN + 1 100 USD + 2 560 EUR; * wysoki sezon (sierpień/wrzesień) - dopłata 1 200 PLN + 450 EUR ;1 rata: 800 PLN płatne przy zapisie; 2 rata: 19 700 PLN płatne na 35 dni przed imprezą (minus 1 rata); 3 rata: 1 100 USD + 2560EUR uczestnik zabiera ze sobąCENA ZAWIERA: bilet na trasie Warszawa - Santiago de Chile, Wyspa Wielkanocna - Tahiti - Rarotonga - Cairns - Port Moresby - Goroka, Mount Hagen - Wewak - Port Moresby - Singapur - Warszawa; ubezpieczenie WARTA (KL 30 000 EUR i NNW 5 000 PLN); opieka pilota; zakwaterowanie - hotele lub bungalowy przeważnie 3***, dwa hotele 2** i dwa hotele 4****, pokoje 2-osobowy z łazienkami; 1 nocleg w Andach - pokoje wieloosobowe w schronisku górskim oraz 1 nocleg nad Sepikiem - bungalow, pok. 2-osobowy z łazienkami; na Wyspach Cooka bungalowy lub motel; wyżywienie - w Chile i na Wyspie Wielkanocnej 2 posiłki dziennie, na Papui Nowej Gwinei 2 posiłki dziennie plus suchy prowiant, lunch podczas rejsu na Rafę, śniadania w Australii; wszystkie transfery - lotnisko - hotel - lotnisko; transporty mikrobusami, przeprawa łodzią po rzece Sepik; wycieczka jachtem na Wielką Rafę Koralową; opłaty za miejscowych przewodników; opłaty za wizy do Papui Nowej Gwinei i Australii,CENA NIE ZAWIERA: opłat lotniskowych 60 EUR; biletów wstępów 270 EUR; dopłata do pokoju 1-osobowego 890 EURChile - Wyspa Wielkanocna - Tahiti - BoraBora - Wyspy Cooka - Australia - Papua-Nowa Gwinea – Singapur Dzień 1: Zbiórka na lotnisku Okęcie w Warszawie. Przelot do Chile przez jeden z portów lotniczych w Europie.Dzień 2: Przylot do stolicy Chile w godzinach porannych, transfer do hotelu. Krótki odpoczynek po podróży. Po południu zwiedzanie miasta - wzgórze San Cristobal - stąd rozpościera się wspaniały widok na miasto i okolicę, Uniwersytetu Catolica, Palacio de la Moneda, dzielnica rządowa, kościół Św. Franciszka. Wieczorem podglądanie nocnego życia w okolicy Belavista. Nocleg.Dzień 3: Wczesnym rankiem wyjazd do Canion Rio Maipo. Po drodze wizyta w największej chilijskiej winnicy Vina Concha y Tora w Pirgue. Skosztowanie miejscowych win w celu uchwycenia smaku i dodania sobie odwagi przed mrożącą krew w żyłach przygodą na rzece Maipo. Przejazd w idyllicznym krajobrazie gór, przy wtórze pieśni biesiadnych w wykonaniu rozweselonych członków wycieczkowego chóru. Dojazd do kanionu. Piknik winny nad brzegiem rzeki lub fakultatywnie rafting - przesiadka na 7-osobowe pontony. Prawdziwie męska przygoda, próba sił i charakteru. Spływ rwącą górską rzeką wśród okrzyków zachwytu nieustraszonych kobiet i przeraźliwych pisków zatrwożonych mężczyzn... Szczęśliwe ukończenie raftingu, wystawny obiad wśród sosnowego zagajnika, delektowanie się regionalnymi potrawami i wdychanie pełną piersią balsamicznego powietrza przesączonego olejkami eterycznymi i fitocyndami. Przejazd do miejscowości Banos Morales słynnej z ciepłych źródeł. Po drodze punkt widokowy w El Melocoton i San Alfonso. Przejazd do Aguas Calientes, relaks w ciepłych i uzdrawiających wodach w scenerii zapadających ciemności przy świetle księżyca i gwiazd... Przejazd na nocleg do pobliskiego Refugio Aleman. Sen sprawiedliwego.Dzień 4: Poranne rozbudzenie i śniadanie wśród urzekającego świata gór. Po śniadaniu trekking na punkt widokowy Laguna El Morado - rozpościera się stąd oszałamiający i rzucający na kolana widok na andyjski szczyt Cerro El Morado - 5 600 m n.p.m. Dla słabowitych i ubogich duchem wjazd na konikach. Po drodze postoje i popasy. Medytacje na tle ośnieżonych szczytów. Zejście do punktu startu. Krzepienie się chilijskim piwem i obiad w cieniu oleandra. Po południu przejazd do Vina del Mar - zakwaterowanie. Noc uciech doczesnych w największym kurorcie Chile.Dzień 5: Od rana marszobieg po plaży i próby wykąpania się w lodowatych wodach Oceanu Spokojnego lub dostojny spacer po mieście. Około południa wyjazd na lotnisko. Po drodze zwiedzanie Valparaiso - nadmorskiej miejscowości znanej ze swej urody i kolonialnego stylu budowli. Wjazd starą, niemiłosiernie skrzypiącą kolejką zębatą na punkt widokowy, następnie przejazd na lotnisko. Wylot na leżącą na końcu świata, skrytą i tajemniczą Wyspę Wielkanocną. Przylot późnym wieczorem, transfer do hotelu, nocleg.Dzień 6: Całodniowy objazd wyspy - Wulkan Rano Raraku, plaża Anakena, posągi słynnych olbrzymów „moai”. Sesja zdjęciowa między posągami, wizyta na bazarze rzemiosła artystycznego, powrót do hotelu. Wieczorem obserwacja rozgwieżdżonego nieboskłonu.Dzień 7: Dalsze zwiedzanie wyspy - Kamieniołom Czerwonych Peruk. Wycieczka piesza na wulkan Rano Kao. Dzienny rekord wypitych płynów. Powrót do rezydencji. Przejazd na lotnisko, wieczorem wylot na owianą legendą rajskie wyspy Pacyfiku - Polinezję Francuską. Przylot do Pepeete, stolicy Tahiti. Powitanie na lotnisku przez tahitańskie piękności. Przejazd do hotelu. Nocleg.Dzień 8: Rankiem wyjazd na wycieczkę po Tahiti - podziwianie wodospadów i zwiedzanie grot ukrytych w skałach, muzeum słynnego malarza tahitańskich kobiet - Gaugina. Oglądanie Point Venus - położonej u podnóża czarnej plaży. Po południu przejazd na lotnisko, przelot na wyspę Bora-Bora - uznawaną przez znawców za ósmy cud natury. Transfer z lotniska łodzią do hotelu. Odpoczynek na rajskiej wyspie. Nocleg.Dzień 9: Samodzielne pływanie z maską na rafie koralowej lub fakultatywnie wycieczka łodzią wokół wyspy, w trakcie której można będzie pobaraszkować z rekinami, złapać płaszczkę za ogon (uwaga na kolec jadowy!), a także zjeść lunch w stylu polinezyjskim nad brzegiem oceanu. Powrót łodzią bezpośrednio na lotnisko (bagaż popłynie osobnym transportem). Możliwość obmycia się w ukwieconych i wonnych łazienkach na lotnisku. Wylot na Morea. Nocleg.Dzień 10: Wycieczki piesze po okolicy, pływanie, sporty wodne lub fakultatywnie safari landroverami po wyspie (punkt widokowy Belvedere, plantacje wanilii i ananasów, przejście przez dżunglę pod wodospad). Późnym popołudniem przepłynięcie katamaranem na oddaloną o 9 mil wyspę Tahiti. Przejazd do hotelu. Nocleg.Dzień 11: We wczesnych godzina porannych wylot na Wyspy Cooka. Przylot na Rarotonga - transfer do hotelu, zakwaterowanie, odpoczynek po podróży, kąpiele regenerujące ciało i duszę. Wieczorem możliwość skocznych tańców przy muzyczce. Nocleg.Dzień 12: Wycieczka wokół wyspy. Oglądanie głównych atrakcji z możliwością kąpieli po drodze. Nocleg.Dzień 13: Minitrekking w głąb wyspy w unikalnej scenerii przyrody. Poznawanie lokalnej fauny i flory - roślin o cudownych właściwościach leczniczych. Fakultatywnie możliwość wycieczki na wyspę Aitutaki - jedną z najbardziej dziewiczych wysepek w archipelagu Wysp Cooka. Powrót do hotelu po bagaż.Dzień 14-15: Krótko po północy wylot do Australii. Przekroczenie strefy czasu. Przesiadka tranzytowa w Auckland. Przylot do Cairns. Po południu spacer uliczkami Cairns, gdzie gromadzą się globtroterzy i nurkowie z całego świata. Nocleg w Cairns.Dzień 16: Wycieczka jachtem na Wielką Rafę Koralową. Podziwianie najpiękniejszej i największej na świecie rafy koralowej z milionami kolorowych ryb i stworzeń morskich, wspaniałości podwodnego świata.Dzień 17: Błogiego odpoczynku lub zachwytów nad Rafą ciąg dalszy bądź - fakultatywnie - wycieczka kolejką do Kurandy - oglądanie wodospadów i dziwów natury oraz wizyta w Tiapukai - Parku Kultury Aborygeńskiej, oglądanie pokazów tańców aborygeńskich. Powrót na nocleg do Cairns.Dzień 18: Czas na plażowanie lub zakup pamiątek - jajo strusia, bumerang, kropkowane unikalne malowidła aborygenów itd. lub też - fakultatywnie - lot balonem nad Cairns. Wieczorem możliwość spędzenia czasu na skocznych tańcach w klubie tanecznym lub przy szklanicy dobrze schłodzonego piwa w pubie.Dzień 19: Rankiem wyjazd na lotnisko. Wylot do stolicy Papui Nowej Gwinei - Port Moresby, przesiadka na samolot do Goroki. Przylot do leżącej w sercu Nowej Gwinei górskiej miejscowości w godzinach popołudniowych. Odprawa celna, wymiana waluty. Pierwszy kontakt z tubylczą ludnością. Transfer do hotelu, nocleg.Dzień 20: Przejazd do Mt. Hagen. Po drodze zwiedzanie plantacji kawy i herbaty oraz przejazd do autentycznej wioski papuaskiej. Oglądanie pokazów tańców i śpiewów papuaskich (sing-sings). Ceremonia Mumu - przygotowanie posiłku w zimnym dole na rozżarzonych kamieniach w aromatycznym sosie tropikalnych ziół i paproci. Uroczysta degustacja smakołyków. Dalszy przejazd do Mt. Hagen. Przyjazd do bazy noclegowej wieczorem. Kolacja. Nocleg.Dzień 21: Po wczesnoporannym śniadaniu wylot awionetką do Wewak. Przejazd mikrobusem nad rzekę Sepik. Przemarsz do miejsca zakwaterowania, krótki odpoczynek. Po obiedzie wypłynięcie dłubanką papuaską w górę rzeki do położonych nad Sepikiem tubylczych wiosek. Oglądanie wyrobów z rękodzieła artystycznego, próba podejrzenia miejscowej ludności. Spacer między tubylczymi chatami na wysokich palach, wśród chmar malarycznych komarów i ciekawskich spojrzeń dzieciaków. Badanie wytrzymałości organizmu w warunkach wysokiej temperatury i wilgotności. Kolejny pokaz tancerzy-wojowników łypiących spode łba przekrwionymi białkami na zaciekawionych widzów... Wieczorem powrót do bazy. Po kolacji podsłuchiwanie jak dżungla gra... Nocleg.Dzień 22: Wyjazd łodzią w dół rzeki Sepik. Dalsze zwiedzanie papuaskich wiosek. Podglądanie życia ludzi z epoki neolitu. Powrót do bazy na kolację i nocleg. Wieczorem fakultatywnie możliwość degustacji mięsa krokodyla.Dzień 23: Wcześnie rano śniadanie. Przejazd do Wewak karkołomną, błotnistą drogą. Testowanie wytrzymałości organizmu na wstrząsy. Podglądanie życia najgłębszej prowincji. Przyjazd do Wewak w godzinach popołudniowych. Zakwaterowanie. Orzeźwiające kąpiele morskie i harce wodne. Kolacja. Wieczorem oglądanie rozgwieżdżonego nieboskłonu przy uspokajającym szumie fal. Nocleg.Dzień 24: Odpoczynek na przyhotelowej plaży, kąpiele wodne lub fakultatywnie całodzienna wycieczka łodzią po Long Bay i wizyta na wyspach Mushu i Kairiru. Przed wieczorem powrót na nocleg do Wewak.Dzień 25: Bardzo wcześnie rano wyjazd na lotnisko, przelot do Port Moresby - stolicy Papui Nowej Gwinei. Przylot do Port Moresby, krótkie zwiedzanie miasta (parlament, dzielnica rządowa, ogród botaniczny). Po południu wylot do Singapuru. Przylot, transfer do hotelu. Nocleg.Dzień 26: Zwiedzanie Singapuru - symbolu Dalekiego Wschodu, zakupy w centrum elektroniki. Wieczorem przejazd na lotnisko, wylot do Europy.Dzień 27: Wczesnym rankiem przylot do jednego z portów lotniczych Europy, przesiadka na samolot do kraju. Przylot na lotnisko Okęcie w godzinach popołudniowych, spotkanie ze spragnioną pamiątek z podróży rodziną i znajomymi.TERMINY:17.02 - 15.03.201425.03 - 20.04.201417.08 - 12.09.2014*13.11 - 09.12.2014* wysoki sezon - dopłata 1 200 PLN + 450 EUR CENA: 19 700 PLN + 1 100 USD + 2 560 EUR1 rata: 800 PLN płatne przy zapisie2 rata: 19 700 PLN płatne na 35 dni przed imprezą (minus 1 rata)3 rata: 1 100 USD + 2 560 EUR uczestnik zabiera ze sobąCENA ZAWIERA:- bilet na trasie Warszawa - Santiago de Chile, Wyspa Wielkanocna - Tahiti - Rarotonga - Cairns - Port Moresby - Goroka, Mount Hagen - Wewak - Port Moresby - Singapur - Warszawa,- ubezpieczenie WARTA (KL 30 000 EUR i NNW 5 000 PLN),- opieka pilota,- zakwaterowanie - hotele lub bungalowy przeważnie 3***, dwa hotele 2** i dwa hotele 4****, pokoje 2-osobowy z łazienkami; 1 nocleg w Andach - pokoje wieloosobowe w schronisku górskim oraz 1 nocleg nad Sepikiem - bungalow, pok. 2-osobowy z łazienkami; na Wyspach Cooka bungalowy lub motel,- wyżywienie - w Chile i na Wyspie Wielkanocnej 2 posiłki dziennie, na Papui Nowej Gwinei 2 posiłki dziennie plus suchy prowiant, lunch podczas rejsu na Rafę, śniadania w Australii,- wszystkie transfery - lotnisko - hotel - lotnisko,- transporty mikrobusami, przeprawa łodzią po rzece Sepik,- wycieczka jachtem na Wielką Rafę Koralową,- opłaty za miejscowych przewodników,- opłaty za wizy do Papui Nowej Gwinei i Australii,CENA NIE ZAWIERA:- opłat lotniskowych 60 EUR- biletów wstępów 270 EUR- dopłata do pokoju 1-osobowego 890 EUR
 ________________________________________
 
 Nazwa: Three Corners Fayrouz Plaza - Lato 2014
+Ocena wycieczki: 10,1,3,7,3
 Kod: 96-99299-2C44
 Transport: samolot
 Cena:1879.0
@@ -348,6 +176,7 @@ Położenie - Znajduje się zaledwie 5 km od lotniska w Marsa Alam, 70 km na pł
 ________________________________________
 
 Nazwa: Thai House Beach Resort
+Ocena wycieczki: 10,1,3,7,3
 Kod: 11-18174-2C44
 Transport: samolot
 Cena:6498.0
@@ -360,6 +189,7 @@ Hotel Thai House Beach Resort położony jest na malowniczym wybrzeżu Lamai Bea
 ________________________________________
 
 Nazwa: Kupu Kupu Rooftop suites & spa
+Ocena wycieczki: 10,1,2,7,2
 Kod: 11-89737-2C44
 Transport: samolot
 Cena:7868.0
@@ -372,6 +202,7 @@ Butikowy kompleks Kupu Kupu Rooftop położony jest na południowym wybrzeżu Ba
 ________________________________________
 
 Nazwa: Maslina - Lato 2014
+Ocena wycieczki: 5,5,4,2,3
 Kod: 41-100828-2C44
 Transport: własny
 Cena:1201.0
