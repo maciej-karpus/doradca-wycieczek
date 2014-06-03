@@ -6,7 +6,7 @@
 <h2>Search</h2>
 Twoje rekomendacje to:
 <table>
-@foreach (KeyValuePair<Atrakcja, double> recommendation in @ViewData["recommendations"] as Dictionary<Atrakcja, double>)
+@foreach (var recommendation in @ViewData["recommendations"] as List<KeyValuePair<string, List<Atrakcja>>>)
 {
      <tr>
           <td>
