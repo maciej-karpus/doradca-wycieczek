@@ -39,6 +39,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="JQChart.Web.Mvc, Version=3.8.7.0, Culture=neutral, PublicKeyToken=00a4df79b4acdadb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>jqchart\bin\Mvc4\JQChart.Web.Mvc.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -218,6 +222,7 @@
     <Compile Include="Models\AccountModels.cs" />
     <Compile Include="Models\Atrakcja.cs" />
     <Compile Include="Models\AtrakcjaKategoria.cs" />
+    <Compile Include="Models\ChartData.cs" />
     <Compile Include="Models\Kategoria.cs" />
     <Compile Include="Models\MetrykaKategorii.cs" />
     <Compile Include="Models\OcenaUzytkownika.cs" />
@@ -225,6 +230,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\jquery.jqChart.css" />
+    <Content Include="Content\jquery.jqRangeSlider.css" />
     <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png" />
@@ -281,12 +288,14 @@
     <Content Include="Content\themes\base\minified\jquery.ui.theme.min.css" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
-    <None Include="Scripts\jquery-1.8.2.intellisense.js" />
-    <Content Include="Scripts\jquery-1.8.2.js" />
-    <Content Include="Scripts\jquery-1.8.2.min.js" />
+    <Content Include="Scripts\excanvas.js" />
+    <Content Include="Scripts\jquery-1.11.1.min.js" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
     <Content Include="Scripts\jquery-ui-1.8.24.js" />
     <Content Include="Scripts\jquery-ui-1.8.24.min.js" />
+    <Content Include="Scripts\jquery.jqChart.min.js" />
+    <Content Include="Scripts\jquery.jqRangeSlider.min.js" />
+    <Content Include="Scripts\jquery.mousewheel.js" />
     <Content Include="Scripts\jquery.unobtrusive-ajax.js" />
     <Content Include="Scripts\jquery.unobtrusive-ajax.min.js" />
     <Content Include="Scripts\jquery.validate.js" />

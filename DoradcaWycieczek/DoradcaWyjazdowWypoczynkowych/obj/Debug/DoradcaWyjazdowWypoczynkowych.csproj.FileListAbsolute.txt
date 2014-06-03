@@ -80,7 +80,6 @@ D:\doradca\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\bin\ko\System.Spatial.
 D:\doradca\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\bin\ru\System.Spatial.resources.dll
 D:\doradca\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\bin\zh-Hans\System.Spatial.resources.dll
 D:\doradca\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\bin\zh-Hant\System.Spatial.resources.dll
-D:\doradca\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\obj\Debug\DoradcaWyjazdowWypoczynkowych.csprojResolveAssemblyReference.cache
 D:\doradca\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\obj\Debug\DoradcaWyjazdowWypoczynkowych.Migrations.InitialCreate.resources
 D:\doradca\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\obj\Debug\DoradcaWyjazdowWypoczynkowych.Migrations.InitialCreate1.resources
 D:\doradca\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\obj\Debug\DoradcaWyjazdowWypoczynkowych.csproj.GenerateResource.Cache
@@ -270,3 +269,5 @@ C:\Users\Oskar\Source\Repos\doradca-wycieczek\DoradcaWycieczek\DoradcaWyjazdowWy
 C:\Users\Oskar\Source\Repos\doradca-wycieczek\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\obj\Debug\DoradcaWyjazdowWypoczynkowych.csproj.GenerateResource.Cache
 C:\Users\Oskar\Source\Repos\doradca-wycieczek\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\obj\Debug\DoradcaWyjazdowWypoczynkowych.dll
 C:\Users\Oskar\Source\Repos\doradca-wycieczek\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\obj\Debug\DoradcaWyjazdowWypoczynkowych.pdb
+D:\doradca\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\bin\JQChart.Web.Mvc.dll
+D:\doradca\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\bin\JQChart.Web.Mvc.xml

@@ -27,7 +27,9 @@ namespace DoradcaWyjazdowWypoczynkowych.Controllers
                   evals.Aktywnosc, evals.Imprezowosc, evals.BliskoNatury);
              var metricList = getUserToCategoryMetric(userMetric);
              metricList.Sort((x, y) => x.Value.CompareTo(y.Value));
-            return View();    
+             return View(ChartData.GetData(userMetric, new MetrykaKategorii(metricList.ElementAt(0).Key),
+                                                        new MetrykaKategorii(metricList.ElementAt(1).Key),
+                                                        new MetrykaKategorii(metricList.ElementAt(2).Key)));    
         }
 
         private List<KeyValuePair<Kategoria, double>> getUserToCategoryMetric(MetrykaKategorii userMetric)
