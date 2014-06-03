@@ -29,14 +29,14 @@ namespace DoradcaWyjazdowWypoczynkowych.Models
 
         public double PorownajDopasowanie(MetrykaKategorii celPorownania)
         {
-            int K = Math.Abs((celPorownania.Komfort - this.Komfort) * 100);
-            int Z = Math.Abs((celPorownania.Zwiedzanie - this.Zwiedzanie) * 100);
-            int A = Math.Abs((celPorownania.Aktywnosc - this.Aktywnosc) * 100);
-            int I = Math.Abs((celPorownania.Imprezowosc - this.Imprezowosc) * 100);
-            int BN = Math.Abs((celPorownania.BliskoNatury - this.BliskoNatury) * 100);
+            int K = Math.Abs(celPorownania.Komfort - this.Komfort);
+            int Z = Math.Abs(celPorownania.Zwiedzanie - this.Zwiedzanie);
+            int A = Math.Abs(celPorownania.Aktywnosc - this.Aktywnosc);
+            int I = Math.Abs(celPorownania.Imprezowosc - this.Imprezowosc);
+            int BN = Math.Abs(celPorownania.BliskoNatury - this.BliskoNatury);
 
             //zwraca średnie odchylenie
-            return (100-((K + Z + A + I + BN) / 5));
+            return ((double)(K + Z + A + I + BN) / 5);
         }
     }
 }
