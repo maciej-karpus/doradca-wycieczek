@@ -1,0 +1,46 @@
+﻿Paryż	http://pl.tripadvisor.com/Attractions-g187147-Activities-Paris_Ile_de_France.html#TtD
+Paryż	http://pl.tripadvisor.com/Attractions-g187147-Activities-c25-Paris_Ile_de_France.html#TtD
+Paryż	http://pl.tripadvisor.com/Attractions-g187147-Activities-c20-Paris_Ile_de_France.html#TtD
+Bordeaux	http://pl.tripadvisor.com/Attractions-g187079-Activities-Bordeaux_Gironde_Aquitaine.html#TtD
+Barcelona	http://pl.tripadvisor.com/Attractions-g187497-Activities-Barcelona_Catalonia.html
+Barcelona	http://pl.tripadvisor.com/Attractions-g187497-Activities-c25-Barcelona_Catalonia.html
+Barcelona	http://pl.tripadvisor.com/Attractions-g187497-Activities-c20-Barcelona_Catalonia.html
+Warszawa	http://pl.tripadvisor.com/Attractions-g274856-Activities-Warsaw_Mazovia_Province_Central_Poland.html
+Warszawa	http://pl.tripadvisor.com/Attractions-g274856-Activities-c25-Warsaw_Mazovia_Province_Central_Poland.html
+Nowy Jork	http://pl.tripadvisor.com/Attractions-g60763-Activities-New_York_City_New_York.html
+Nowy Jork	http://pl.tripadvisor.com/Attractions-g60763-Activities-c25-New_York_City_New_York.html
+Nowy Jork	http://pl.tripadvisor.com/Attractions-g60763-Activities-c20-New_York_City_New_York.html
+Rio de Janeiro	http://pl.tripadvisor.com/Attractions-g303506-Activities-Rio_de_Janeiro_State_of_Rio_de_Janeiro.html
+Rio de Janeiro	http://pl.tripadvisor.com/Attractions-g303506-Activities-c25-Rio_de_Janeiro_State_of_Rio_de_Janeiro.html
+Rio de Janeiro	http://pl.tripadvisor.com/Attractions-g303506-Activities-c20-Rio_de_Janeiro_State_of_Rio_de_Janeiro.html
+Moskwa	http://pl.tripadvisor.com/Attractions-g298484-Activities-Moscow_Central_Russia.html
+Moskwa	http://pl.tripadvisor.com/Attractions-g298484-Activities-c25-Moscow_Central_Russia.html
+Moskwa	http://pl.tripadvisor.com/Attractions-g298484-Activities-c20-Moscow_Central_Russia.html
+Johannesburg	http://pl.tripadvisor.com/Attractions-g1210028-Activities-Greater_Johannesburg_Gauteng.html
+Amsterdam	http://pl.tripadvisor.com/Attractions-g188590-Activities-Amsterdam_North_Holland_Province.html
+Amsterdam	http://pl.tripadvisor.com/Attractions-g188590-Activities-c25-Amsterdam_North_Holland_Province.html
+Amsterdam	http://pl.tripadvisor.com/Attractions-g188590-Activities-c20-Amsterdam_North_Holland_Province.html
+Dubaj	http://pl.tripadvisor.com/Attractions-g2630221-Activities-Emirate_of_Dubai.html
+Dubaj	http://pl.tripadvisor.com/Attractions-g2630221-Activities-c25-Emirate_of_Dubai.html
+Dubaj	http://pl.tripadvisor.com/Attractions-g2630221-Activities-c20-Emirate_of_Dubai.html
+Wenecja	http://pl.tripadvisor.com/Attractions-g1725258-Activities-City_of_Venice_Veneto.html
+Wenecja	http://pl.tripadvisor.com/Attractions-g1725258-Activities-c25-City_of_Venice_Veneto.html
+Las Vegas	http://pl.tripadvisor.com/Attractions-g45963-Activities-c25-Las_Vegas_Nevada.html
+Las Vegas	http://pl.tripadvisor.com/Attractions-g45963-Activities-c20-Las_Vegas_Nevada.html
+Tallin	http://pl.tripadvisor.com/Attractions-g274958-Activities-Tallinn_Harju_County.html
+Monachium	http://pl.tripadvisor.com/Attractions-g187309-Activities-Munich_Upper_Bavaria_Bavaria.html
+Monachium	http://pl.tripadvisor.com/Attractions-g187309-Activities-c20-Munich_Upper_Bavaria_Bavaria.html
+Berlin	http://pl.tripadvisor.com/Attractions-g187323-Activities-Berlin.html
+Berlin	http://pl.tripadvisor.com/Attractions-g187323-Activities-c25-Berlin.html
+Berlin	http://pl.tripadvisor.com/Attractions-g187323-Activities-c20-Berlin.html
+Szanghaj	http://pl.tripadvisor.com/Attractions-g308272-Activities-Shanghai.html
+Praga	http://pl.tripadvisor.com/Attractions-g274707-Activities-Prague_Bohemia.html
+Praga	http://pl.tripadvisor.com/Attractions-g274707-Activities-c25-Prague_Bohemia.html
+Ateny	http://pl.tripadvisor.com/Attractions-g189400-Activities-Athens_Attica.html
+Ateny	http://pl.tripadvisor.com/Attractions-g189400-Activities-c25-Athens_Attica.html
+Bangkok	http://pl.tripadvisor.com/Attractions-g293916-Activities-Bangkok.html
+Bangkok	http://pl.tripadvisor.com/Attractions-g293916-Activities-c25-Bangkok.html
+Bangkok	http://pl.tripadvisor.com/Attractions-g293916-Activities-c20-Bangkok.html
+Kair	http://pl.tripadvisor.com/Attractions-g294201-Activities-Cairo_Cairo_Governorate.html
+Kair	http://pl.tripadvisor.com/Attractions-g294201-Activities-c25-Cairo_Cairo_Governorate.html
+Oslo	http://pl.tripadvisor.com/Attractions-g190479-Activities-Oslo_Eastern_Norway.html

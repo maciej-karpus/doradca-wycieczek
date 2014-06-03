@@ -8,8 +8,8 @@
 }
 <h2>Search</h2>
 Twoje rekomendacje to:
-<table>
-@foreach (KeyValuePair<Atrakcja, double> recommendation in @ViewData["recommendations"] as Dictionary<Atrakcja, double>)
+<table style="border:1px solid black">
+@foreach (var recommendation in @ViewData["top_recommendations"] as List<KeyValuePair<string, List<Atrakcja>>>)
 {
      <tr>
           <td>
@@ -17,7 +17,7 @@ Twoje rekomendacje to:
           </td>
          @foreach (var attr in recommendation.Value)
          { 
-             <td>@attr.AtrakcjaNazwa</td>
+             <td style="border:1px solid black">@attr.AtrakcjaNazwa</td>
          
          }
      </tr>
