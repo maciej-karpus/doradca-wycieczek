@@ -4,27 +4,9 @@
 ﻿Paryż	Ogród Luksemburski	Ogrody	Parki	http://media-cdn.tripadvisor.com/media/photo-l/03/1d/9d/c9/luxembourg-gardens.jpg
 ﻿Paryż	Luwr	Muzea sztuk pięknych	Muzea	http://media-cdn.tripadvisor.com/media/photo-l/05/6b/c7/ee/musee-du-louvre.jpg
 ﻿Paryż	Wieża Eiffla	Miejsca historyczne	Obiekty architektury	Platformy/wieże obserwacyjne	Charakterystyczne obiekty/ciekawe miejsca	Pomniki	http://media-cdn.tripadvisor.com/media/photo-l/04/00/a2/7f/eiffel-tower.jpg
-﻿Paryż	How to become Parisian in one hour?	Przedstawienia	http://media-cdn.tripadvisor.com/media/photo-f/02/a1/c9/66/filename-flyer-htbp-tdn.jpg
 ﻿Paryż	Katedra Notre-Dame w Paryżu	Miejsca kultu religijnego	Obiekty architektury	Miejsca historyczne	Charakterystyczne obiekty/ciekawe miejsca	Kościoły/katedry	http://media-cdn.tripadvisor.com/media/photo-l/01/0f/39/8a/notre-dame.jpg
-﻿Paryż	Musee Nissim de Camondo	Miejsca historyczne	Muzea historyczne	Muzea	http://media-cdn.tripadvisor.com/media/photo-l/01/9b/d9/74/musee-nissim-de-camondo.jpg
+﻿Paryż	How to become Parisian in one hour?	Przedstawienia	http://media-cdn.tripadvisor.com/media/photo-f/02/a1/c9/66/filename-flyer-htbp-tdn.jpg
 ﻿Paryż	Le Marais	Okolice	http://media-cdn.tripadvisor.com/media/photo-l/02/76/be/ac/place-des-vosges-king.jpg
-﻿Paryż	Musée de l'Orangerie	Muzea sztuk pięknych	Muzea	http://media-cdn.tripadvisor.com/media/photo-l/01/2d/25/16/les-nympheas.jpg
-﻿Paryż	Ile de la Cite	Okolice	Wyspy	Zwiedzanie miejsc historycznych	http://media-cdn.tripadvisor.com/media/photo-l/01/3b/49/c1/il-de-la-cite.jpg
-﻿Paryż	Musée Jacquemart-André	Muzea sztuk pięknych	Miejsca historyczne	Muzea	http://media-cdn.tripadvisor.com/media/photo-l/02/85/50/25/l-entree-du-musee.jpg
-﻿Paryż	Musée Rodin	Muzea sztuk pięknych	Ogrody	Muzea	http://media-cdn.tripadvisor.com/media/photo-l/00/12/6d/09/lovely-garden.jpg
-﻿Paryż	Sainte-Chapelle	Miejsca kultu religijnego	Miejsca historyczne	Obiekty architektury	Kościoły/katedry	http://media-cdn.tripadvisor.com/media/photo-l/03/2c/e2/eb/sainte-chapelle.jpg
-﻿Paryż	Ile Saint-Louis	Okolice	Wyspy	Charakterystyczne obiekty/ciekawe miejsca	http://media-cdn.tripadvisor.com/media/photo-f/05/4f/4a/84/ile-saint-louis.jpg
-﻿Paryż	Musee de la Musique	Muzea historyczne	Muzea specjalistyczne	http://media-cdn.tripadvisor.com/media/photo-l/02/40/9c/d2/musee-de-la-musique.jpg
-﻿Paryż	River Seine	Zbiorniki wodne	http://media-cdn.tripadvisor.com/media/photo-f/02/f0/20/93/river-seine.jpg
-﻿Paryż	Towers of Notre-Dame Cathedral	Kościoły/katedry	Miejsca historyczne	Obiekty architektury	http://media-cdn.tripadvisor.com/media/photo-l/02/6b/c2/19/filename-48842881-jpg.jpg
-﻿Paryż	Saint-Germain-des-Prés (Paryż)	Okolice	Obiekty architektury	Miejsca kultu religijnego	http://media-cdn.tripadvisor.com/media/photo-l/01/24/d6/bb/caption.jpg
-﻿Paryż	A New Yorker in Paris	Kluby kabaretowe	http://media-cdn.tripadvisor.com/media/photo-l/02/e3/27/20/a-new-yorker-in-paris.jpg
-﻿Paryż	Memorial de la Shoah (Shoah Memorial)	Muzea historyczne	http://media-cdn.tripadvisor.com/media/photo-f/01/63/6c/49/copyright-memorial-de.jpg
-﻿Paryż	Łuk Triumfalny w Paryżu	Charakterystyczne obiekty/ciekawe miejsca	Pomniki	Obiekty architektury	Miejsca historyczne	http://media-cdn.tripadvisor.com/media/photo-l/04/01/e2/b4/arc-de-triomphe.jpg
-﻿Paryż	Place des Vosges	Charakterystyczne obiekty/ciekawe miejsca	http://media-cdn.tripadvisor.com/media/photo-l/01/42/2e/61/place-des-vosges.jpg
-﻿Paryż	Parc des Buttes Chaumont	Parki	http://media-cdn.tripadvisor.com/media/photo-l/01/f5/eb/89/parc-des-buttes-chaumont.jpg
-﻿Paryż	Shakespeare and Company Bookstore	Sklepy specjalistyczne	Charakterystyczne obiekty/ciekawe miejsca	Biblioteki	http://media-cdn.tripadvisor.com/media/photo-l/01/37/b1/79/the-bookstore.jpg
-﻿Paryż	Essaion Theatre	Teatry	http://media-cdn.tripadvisor.com/media/photo-f/04/4b/08/25/essaion-theatre.jpg
 Paryż	Paris by Martin Private Tours	Zwiedzanie	http://media-cdn.tripadvisor.com/media/photo-l/04/8c/58/20/paris-by-martin-private.jpg
 Paryż	Blue Bike Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/05/4e/a6/1c/blue-bike-tours.jpg
 Paryż	Left Bank Scooters	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/33/bd/41/paris-tour.jpg
@@ -32,95 +14,34 @@ Paryż	Cook'n With Class	„Zajęcia/Warsztaty”	http://media-cdn.tripadvisor.c
 Paryż	Paris Charms & Secrets Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/47/b9/4f/paris-charms-secrets.jpg
 Paryż	Bike About Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/0d/36/a4/paris.jpg
 Paryż	Sandemans New Paris Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/4f/b8/1d/l-orangerie-chateau-de.jpg
-Paryż	Paris Muse Private Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/ab/d1/0e/on-the-tour.jpg
 Paryż	Better Travel Photos	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/05/85/fc/a4/better-travel-photos.jpg
 Paryż	Culturefish! Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/a4/fd/35/filename-9788963-orig.jpg
-Paryż	Localers	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/47/ae/ee/localers.jpg
-Paryż	Sight Seeker's Delight Unique Walking Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/67/cc/5c/one-of-our-story-stops.jpg
-Paryż	Paris in Person Walking Tour	Zwiedzanie	http://media-cdn.tripadvisor.com/media/photo-l/05/d9/99/90/paris-in-person-walking.jpg
-Paryż	Babylon Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-f/05/e4/4c/04/babylon-tours.jpg
-Paryż	Le Foodist	„Zajęcia/Warsztaty”	http://media-cdn.tripadvisor.com/media/photo-l/04/53/ad/2e/enjoying-sweet-stories.jpg
-Paryż	La Cuisine Paris - Cooking Classes	„Zajęcia/Warsztaty”	http://media-cdn.tripadvisor.com/media/photo-l/01/c4/8c/1d/cooking-school-in-paris.jpg
-Paryż	City Free Tour	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/a9/ae/0c/one-of-many-interesting.jpg
-Paryż	Paris Wine Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/d8/ab/16/paris-wine-day-tours.jpg
-Paryż	Paris Urban Adventures	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/e6/25/d6/secret-street.jpg
-Paryż	Culinary Tours of Paris	Zwiedzanie	http://media-cdn.tripadvisor.com/media/photo-l/01/d9/79/0c/culinary-tours-of-paris.jpg
-Paryż	Paris by Scooter	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/d6/24/cb/paris-vespa.jpg
-Paryż	City Segway Tours - Paris	Wycieczki	Turystyka miejska (pojazdy segway)	http://media-cdn.tripadvisor.com/media/photo-f/04/00/17/be/add-a-caption.jpg
-Paryż	Eye Prefer Paris Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/2a/ed/26/eye-prefer-paris.jpg
-Paryż	Best of France Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/6b/06/f3/best-of-france-tours.jpg
-Paryż	Unique Paris Private Tours and more...	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-f/03/cb/b8/8b/unique-paris-private.jpg
-Paryż	Hidden Paris Walking Tours	Zwiedzanie	http://media-cdn.tripadvisor.com/media/photo-l/03/81/3a/d2/hidden-paris-walking.jpg
-Paryż	Underground Paris Tours & Workshops	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/e3/0d/38/alternative-paris-tours.jpg
+Paryż	Paris Muse Private Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/ab/d1/0e/on-the-tour.jpg
 Paryż	La Nouvelle Eve	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/02/fc/8e/fb/la-nouvelle-eve.jpg
-Paryż	Le Bar du Bristol	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-f/02/e9/1a/7d/le-bar-du-bristol.jpg
 Paryż	Millesiwine Wine Tasting	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/03/c6/86/a7/wine-tasting-at-le-pharamond.jpg
+Paryż	Le Bar du Bristol	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-f/02/e9/1a/7d/le-bar-du-bristol.jpg
 Paryż	Le Caveau des Oubliettes	Bary jazzowe	http://media-cdn.tripadvisor.com/media/photo-l/02/6d/01/5e/le-caveau-des-oubliettes.jpg
 Paryż	Le Caveau de la Huchette	Bary jazzowe	http://media-cdn.tripadvisor.com/media/photo-l/00/1c/5d/13/before-closing-time-and.jpg
 Paryż	Chez Michou	Bary/kluby	Przedstawienia	http://media-cdn.tripadvisor.com/media/photo-l/01/72/1e/99/chez-michou.jpg
 Paryż	QG.BAR.Odeon	Bary/kluby	http://c1.tacdn.com/img2/x.gif
 Paryż	Double Fond	Kawiarnie	http://media-cdn.tripadvisor.com/media/photo-l/03/de/f3/e2/double-fond.jpg
-Paryż	Cafe Laurent	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-f/03/e8/e7/41/cafe-laurent.jpg
-Paryż	Le Coup de Grace	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/03/25/3e/6a/le-coup-de-grace.jpg
-Paryż	Spring Restaurant	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/03/17/0e/6c/spring-restaurant.jpg
-Paryż	Bob Cool	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/02/ef/e2/27/bob-cool.jpg
-Paryż	Wide Open Space Bar (WOS Bar)	Bary/kluby	http://c1.tacdn.com/img2/x.gif
-Paryż	Hard Rock Cafe Paris	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/02/f8/80/70/hard-rock-cafe-paris.jpg
-Paryż	Lionel Hampton Jazz Club	Bary jazzowe	http://c1.tacdn.com/img2/x.gif
-Paryż	Zelda	Bary/kluby	http://c1.tacdn.com/img2/x.gif
-Paryż	Le Fumoir	Bary/kluby	Bary z cygarami	http://media-cdn.tripadvisor.com/media/photo-l/02/4d/a2/e2/le-fumoir-bar.jpg
-Paryż	Angelina	Bary/kluby	Kawiarnie	http://media-cdn.tripadvisor.com/media/photo-l/03/2c/2b/18/angelina.jpg
-Paryż	Juvenile's	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-f/01/66/69/68/juveniles.jpg
-Paryż	Les 2 Moulins	Kawiarnie	http://media-cdn.tripadvisor.com/media/photo-l/00/18/e6/46/cafe-des-2-moulins-aka.jpg
-Paryż	Au Lapin Agile	Bary/kluby	Przedstawienia	http://media-cdn.tripadvisor.com/media/photo-l/01/7a/18/dd/au-lapin-agile.jpg
-Paryż	Ritz Hotel and Bar	Charakterystyczne obiekty/ciekawe miejsca	Miejsca historyczne	http://media-cdn.tripadvisor.com/media/photo-l/01/bb/d2/89/ritz-hotel-and-bar.jpg
-Paryż	Au Dernier Métro	Bary/kluby	http://media-cdn.tripadvisor.com/media/daodao/photo-l/03/b7/bc/e2/caption.jpg
-Paryż	Cafe Universel	Bary/kluby	http://c1.tacdn.com/img2/x.gif
 Bordeaux	Place de la Bourse (Place Royale)	Charakterystyczne obiekty/ciekawe miejsca	http://media-cdn.tripadvisor.com/media/photo-l/01/86/9c/54/specchio-d-acqua.jpg
 Bordeaux	Grand Theatre - Opéra National de Bordeaux	Teatry	Obiekty architektury	Opery	http://media-cdn.tripadvisor.com/media/photo-l/02/1f/62/ec/grand-theatre-opera-national.jpg
 Bordeaux	Grosse Cloche de Bordeaux	Charakterystyczne obiekty/ciekawe miejsca	http://media-cdn.tripadvisor.com/media/photo-l/02/e7/e7/0c/grosse-cloche-de-bordeaux.jpg
-Bordeaux	Porte Cailhau	Charakterystyczne obiekty/ciekawe miejsca	http://media-cdn.tripadvisor.com/media/photo-l/03/7c/39/85/porte-cailhau.jpg
-Bordeaux	Pont de Pierre	Charakterystyczne obiekty/ciekawe miejsca	Mosty	http://media-cdn.tripadvisor.com/media/photo-l/01/48/11/a8/bordeaux.jpg
 Bordeaux	Château Pape Clément	Zamki	http://media-cdn.tripadvisor.com/media/photo-l/03/c4/8b/6f/chateau-pape-clement.jpg
-Bordeaux	Notre Dame Church (Eglise Notre Dame la Grande)	Obiekty architektury	Miejsca kultu religijnego	http://media-cdn.tripadvisor.com/media/photo-l/02/1f/5c/b1/foto-j-k-hoset.jpg
+Bordeaux	Porte Cailhau	Charakterystyczne obiekty/ciekawe miejsca	http://media-cdn.tripadvisor.com/media/photo-l/03/7c/39/85/porte-cailhau.jpg
 Bordeaux	Tower of Pey-Berland	Obiekty architektury	Kościoły/katedry	http://media-cdn.tripadvisor.com/media/photo-l/02/4a/fc/63/tower-of-pey-berland.jpg
-Bordeaux	Place Parlement	Charakterystyczne obiekty/ciekawe miejsca	http://media-cdn.tripadvisor.com/media/photo-l/02/6f/a1/f6/filename-sergey-pashkov.jpg
-Bordeaux	Utopia	Kina	http://media-cdn.tripadvisor.com/media/photo-l/03/71/95/33/entrata-principale.jpg
-Bordeaux	St. Andre Cathedral (Cathédrale Saint-André)	Miejsca kultu religijnego	http://media-cdn.tripadvisor.com/media/photo-l/01/b3/82/9f/st-andre-cathedral.jpg
-Bordeaux	Port of the Moon	Miejsca historyczne	Okolice	http://media-cdn.tripadvisor.com/media/photo-f/01/47/1d/34/fete-du-fleuve-bordeaux.jpg
-Bordeaux	Parc de Majolan	Parki	http://media-cdn.tripadvisor.com/media/photo-l/04/55/a5/2d/une-belle-balade-et-des.jpg
-Bordeaux	Quinconces Esplanade (Esplanade des Quinconces)	Charakterystyczne obiekty/ciekawe miejsca	http://media-cdn.tripadvisor.com/media/photo-f/01/7b/4d/1b/memoire-aux-girondins.jpg
-Bordeaux	Chateau Saint Ahon	Zamki	http://media-cdn.tripadvisor.com/media/photo-l/05/a4/41/2e/chateau-saint-ahon.jpg
-Bordeaux	Cafe Theatre des Beaux-Arts	Teatry	http://media-cdn.tripadvisor.com/media/photo-l/03/76/f8/67/cafe-theatre-des-beaux.jpg
-Bordeaux	Rue Ste Catherine	Charakterystyczne obiekty/ciekawe miejsca	http://media-cdn.tripadvisor.com/media/photo-l/01/41/e5/e8/bordeaux.jpg
-Bordeaux	Théâtre Le Victoire	Teatry	http://c1.tacdn.com/img2/x.gif
-Bordeaux	Cite Fruges	Obiekty architektury	http://c1.tacdn.com/img2/x.gif
-Bordeaux	Chateau du Taillan	Zamki	http://media-cdn.tripadvisor.com/media/photo-l/03/75/b1/f7/chateau-du-taillan.jpg
-Bordeaux	La Flèche Saint-Michel	Kościoły/katedry	http://media-cdn.tripadvisor.com/media/photo-f/04/89/73/ec/la-fleche-saint-michel.jpg
-Bordeaux	La Maison du Magret	Inne	http://c1.tacdn.com/img2/x.gif
+Bordeaux	Pont de Pierre	Charakterystyczne obiekty/ciekawe miejsca	Mosty	http://media-cdn.tripadvisor.com/media/photo-l/01/48/11/a8/bordeaux.jpg
+Bordeaux	Notre Dame Church (Eglise Notre Dame la Grande)	Obiekty architektury	Miejsca kultu religijnego	http://media-cdn.tripadvisor.com/media/photo-l/02/1f/5c/b1/foto-j-k-hoset.jpg
 Barcelona	Sagrada Família	Miejsca kultu religijnego	Obiekty architektury	Kościoły/katedry	http://media-cdn.tripadvisor.com/media/photo-l/02/78/7b/71/fachada-em-eterna-obra.jpg
 Barcelona	Palace of Catalan Music (Palau de la Musica Catalana)	Teatry	Obiekty architektury	Koncerty	http://media-cdn.tripadvisor.com/media/photo-l/04/74/8a/63/palace-of-catalan-music.jpg
 Barcelona	Casa Batlló	Obiekty architektury	http://media-cdn.tripadvisor.com/media/photo-l/05/61/16/ea/casa-batllo.jpg
 Barcelona	Dzielnica Hiszpańska	Okolice	Zwiedzanie miejsc historycznych	http://media-cdn.tripadvisor.com/media/photo-l/01/3f/54/ce/funny-muebles-on-top.jpg
 Barcelona	Afternoon in Montserrat	Kaniony	http://media-cdn.tripadvisor.com/media/photo-l/04/c5/43/15/afternoon-in-montserrat.jpg
 Barcelona	Kościół Santa Maria del Mar	Miejsca kultu religijnego	Miejsca historyczne	Obiekty architektury	Kościoły/katedry	http://media-cdn.tripadvisor.com/media/photo-l/02/62/fe/69/cattedrale-s-maria-del.jpg
-Barcelona	Pałac Guell	Obiekty architektury	Miejsca historyczne	http://media-cdn.tripadvisor.com/media/photo-l/02/cc/a9/af/guell-palace.jpg
 Barcelona	CosmoCaixa Barcelona	Muzea nauki	Obserwatoria/planetaria	Muzea	http://media-cdn.tripadvisor.com/media/photo-l/02/2f/9b/b2/science-museum-museu.jpg
 Barcelona	Ciutat Vella (Old City)	Okolice	Miejsca historyczne	Charakterystyczne obiekty/ciekawe miejsca	http://media-cdn.tripadvisor.com/media/photo-l/01/72/00/f6/rue-de-la-ciutat-vella.jpg
-Barcelona	Museu Nacional d'Art de Catalunya	Muzea sztuk pięknych	Muzea	http://media-cdn.tripadvisor.com/media/photo-l/02/5c/02/8a/outside-of-museum.jpg
-Barcelona	Magic Fountain (Font Magica)	Fontanny	Charakterystyczne obiekty/ciekawe miejsca	Przedstawienia	http://media-cdn.tripadvisor.com/media/photo-l/03/de/45/73/magic-fountain.jpg
-Barcelona	Cathedral of Santa Eulalia / La Seu	Kościoły/katedry	http://media-cdn.tripadvisor.com/media/photo-l/02/64/ea/c0/cloisters-and-patio-of.jpg
-Barcelona	Camp Nou	Stadiony/boiska	http://media-cdn.tripadvisor.com/media/photo-l/04/00/bc/44/caption.jpg
-Barcelona	Park Güell	Parki	http://media-cdn.tripadvisor.com/media/photo-l/04/00/37/d4/caption.jpg
-Barcelona	Passeig de Gràcia	Charakterystyczne obiekty/ciekawe miejsca	Okolice	http://media-cdn.tripadvisor.com/media/photo-l/01/50/ff/e0/caminando-por-passeig.jpg
-Barcelona	Park w Montjuïc	Parki	http://media-cdn.tripadvisor.com/media/photo-l/01/a0/28/d9/montjuic-fort-flowers.jpg
-Barcelona	Parc de la Ciutadella	Parki	http://media-cdn.tripadvisor.com/media/photo-l/00/16/2d/31/parc-de-la-ciutadella.jpg
-Barcelona	El Tablao de Carmen	Teatry	Miejsca historyczne	http://media-cdn.tripadvisor.com/media/photo-l/01/c9/0f/02/tablao-de-carmen.jpg
-Barcelona	Casa Lleo i Morera	Obiekty architektury	http://media-cdn.tripadvisor.com/media/photo-l/05/96/89/ac/casa-lleo-morera.jpg
-Barcelona	Casa Milà	Obiekty architektury	Muzea specjalistyczne	Muzea	Charakterystyczne obiekty/ciekawe miejsca	http://media-cdn.tripadvisor.com/media/photo-f/05/56/cd/04/la-pedrera-casa-mila.jpg
-Barcelona	Placa Sant Felip Neri	Miejsca kultu religijnego	Teren pieszych wycieczek widokowych/historycznych	http://media-cdn.tripadvisor.com/media/photo-l/02/fb/5d/f5/placa-sant-felip-neri.jpg
-Barcelona	Sant Pau Recinte Modernista	Obiekty architektury	http://media-cdn.tripadvisor.com/media/photo-l/01/27/c8/e7/hospital-de-sant-pau.jpg
-Barcelona	Temple Expiatori del Sagrat Cor	Kościoły/katedry	http://media-cdn.tripadvisor.com/media/photo-f/02/d8/6a/0c/temple-expiatori-del.jpg
+Barcelona	Pałac Guell	Obiekty architektury	Miejsca historyczne	http://media-cdn.tripadvisor.com/media/photo-l/02/cc/a9/af/guell-palace.jpg
 Barcelona	Spanish Civil War Tour	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/6d/2a/1d/spanish-civil-war-tour.jpg
 Barcelona	Vesping - GPS Guided Vespa	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/75/ca/08/vesping-gps-guided-vespa.jpg
 Barcelona	Barcelona Segway Glides	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/62/3d/d1/barcelona.jpg
@@ -131,143 +52,55 @@ Barcelona	Runner Bean Walking Tours	Wycieczki	http://media-cdn.tripadvisor.com/m
 Barcelona	Spanish Trails Day Tours and Events	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/bc/f6/3c/spanish-trails-day-tours.jpg
 Barcelona	Travel Bound Barcelona Free Walking Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/58/a3/af/fun-sunny-tours.jpg
 Barcelona	ForeverBarcelona Private Tour Guide	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/6d/1a/5d/foreverbarcelona-private.jpg
-Barcelona	bcnKITCHEN Cooking Classes	„Zajęcia/Warsztaty”	http://media-cdn.tripadvisor.com/media/photo-l/05/27/35/96/bcnkitchen-cooking-classes.jpg
 Barcelona	Discover Walks Barcelona	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-f/02/37/76/9e/go-barcelona.jpg
-Barcelona	Running Tours Barcelona	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/d1/8f/4a/running-tours-barcelona.jpg
-Barcelona	Hi. This is Barcelona...	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/5d/f5/6c/otra-de-wallpaper-o-almanaque.jpg
-Barcelona	Kids & Family Walking Tour	Zwiedzanie	http://media-cdn.tripadvisor.com/media/photo-l/02/2c/90/6c/kids-family-walking-tour.jpg
-Barcelona	Good Barcelona	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/d2/33/99/good-barcelona-free-walking.jpg
-Barcelona	Barcelona Segway Tour	Wycieczki	Turystyka miejska (pojazdy segway)	http://media-cdn.tripadvisor.com/media/photo-f/05/0b/80/09/barcelona-segway-tour.jpg
-Barcelona	Barcelona Cooking Classes	„Zajęcia/Warsztaty”	http://media-cdn.tripadvisor.com/media/photo-l/02/ac/1e/ef/getlstd-property-photo.jpg
-Barcelona	Pressicat Limo Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/04/c2/9d/97/pressicat-limo-tours.jpg
-Barcelona	Barcelona Street Style Tour	Zwiedzanie	http://media-cdn.tripadvisor.com/media/photo-l/02/e5/a7/65/pajaro.jpg
-Barcelona	The Barcelona Taste	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/04/92/5e/81/the-barcelona-taste.jpg
-Barcelona	Green Electric Moto	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/e3/ab/25/green-electric-moto.jpg
-Barcelona	Aborigens -Local Food Insiders - Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/c4/59/a9/aborigens-local-food.jpg
-Barcelona	Robbcn - Private Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/04/be/d1/ff/robbcn.jpg
-Barcelona	Tour Me Out Barcelona	Zwiedzanie	http://c1.tacdn.com/img2/x.gif
-Barcelona	Ballooning	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/2e/d0/4d/ballooning.jpg
 Barcelona	Old Fashioned - Gin Tonic & Cocktail Bar	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-f/03/aa/4f/a5/old-fashioned-gin-tonic.jpg
 Barcelona	Rubi Bar	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/02/d2/d1/03/rubi.jpg
 Barcelona	Ultramarinos Bar	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/03/8b/3a/1f/ultramarinos-bar.jpg
 Barcelona	Harlem Jazz Club	Bary jazzowe	http://media-cdn.tripadvisor.com/media/photo-f/03/5e/1a/82/harlem-jazz-club.jpg
 Barcelona	El Bosc de les Fades	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/01/58/1f/32/barcelona.jpg
-Barcelona	The Loch Inn	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/02/98/1e/c8/getlstd-property-photo.jpg
 Barcelona	Jazz S' Club/Cafe	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/02/40/31/cc/flamenco.jpg
-Barcelona	Bodega la Plata	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/02/36/51/73/la-plata.jpg
-Barcelona	Al Maximo	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/03/5a/e1/94/al-maximo.jpg
-Barcelona	Hard Rock Cafe Barcelona	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/02/3a/9b/1d/esterno.jpg
-Barcelona	Sub Rosa	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/05/22/45/29/photo-of-sub-rosa-taken.jpg
-Barcelona	Barcelona Pipa Club	Bary jazzowe	http://c1.tacdn.com/img2/x.gif
-Barcelona	Cocktail Bar Boadas	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/03/07/c2/30/cocktail-bar-boadas.jpg
-Barcelona	Hook	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/02/76/a7/d8/filename-img-0461-jpg.jpg
-Barcelona	El Paraigua	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/03/99/cf/0a/el-paraigua-cocktails.jpg
-Barcelona	Sor Rita	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-f/04/be/cf/15/sor-rita.jpg
-Barcelona	Barcelona Improv Group	Kluby kabaretowe	http://media-cdn.tripadvisor.com/media/photo-f/03/f0/b9/71/barcelona-improv-group.jpg
+Barcelona	The Loch Inn	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/02/98/1e/c8/getlstd-property-photo.jpg
 Warszawa	Łazienki Królewskie w Warszawie	Parki	Ogrody	http://media-cdn.tripadvisor.com/media/photo-l/04/00/27/1b/lazienki-park.jpg
 Warszawa	Starówka - Stare Miasto	Zwiedzanie miejsc historycznych	http://media-cdn.tripadvisor.com/media/photo-l/04/00/28/20/old-town.jpg
 Warszawa	Muzeum Powstania Warszawskiego	Muzea	http://media-cdn.tripadvisor.com/media/photo-l/01/73/88/d2/last-full-day-in-poland.jpg
-Warszawa	Teatr Wielki-National Opera	Opery	http://media-cdn.tripadvisor.com/media/photo-l/00/1c/f8/88/teatr-wielki-national.jpg
 Warszawa	Krakowskie Przedmieście	Zwiedzanie miejsc historycznych	http://media-cdn.tripadvisor.com/media/photo-l/02/67/59/21/filename-dsc04516-krakowskie.jpg
 Warszawa	Rynek Starego Miasta	Charakterystyczne obiekty/ciekawe miejsca	Centra kulturalne	Miejsca historyczne	Zwiedzanie miejsc historycznych	http://media-cdn.tripadvisor.com/media/photo-l/01/5c/c0/dc/rynek-starego-miasta.jpg
-Warszawa	Monument to the Warsaw Uprising Fighters	Pomniki	http://media-cdn.tripadvisor.com/media/photo-l/03/df/1f/f0/monument-to-the-warsaw.jpg
+Warszawa	Teatr Wielki-National Opera	Opery	http://media-cdn.tripadvisor.com/media/photo-l/00/1c/f8/88/teatr-wielki-national.jpg
 Warszawa	Centrum Nauki Kopernik	Placówki edukacyjne	http://media-cdn.tripadvisor.com/media/photo-l/02/6d/33/3f/copernicus-science-centre.jpg
+Warszawa	Monument to the Warsaw Uprising Fighters	Pomniki	http://media-cdn.tripadvisor.com/media/photo-l/03/df/1f/f0/monument-to-the-warsaw.jpg
+Warszawa	Prozna Street (Ulica Prozna)	Charakterystyczne obiekty/ciekawe miejsca	Miejsca historyczne	http://media-cdn.tripadvisor.com/media/photo-l/01/19/0f/48/end-of-the-street.jpg
 Warszawa	St. Anne's Church (Kosciol Swietej Anny)	Miejsca kultu religijnego	http://media-cdn.tripadvisor.com/media/photo-l/02/67/58/d7/filename-dsc04519-krakowskie.jpg
 Warszawa	Jewish Ghetto Memorial	Miejsca historyczne	Pomniki	http://media-cdn.tripadvisor.com/media/photo-l/01/b7/e3/7f/monument.jpg
-Warszawa	Castle Square (Plac Zamkowy)	Charakterystyczne obiekty/ciekawe miejsca	http://media-cdn.tripadvisor.com/media/photo-l/01/29/f8/91/castle-square-warsaw.jpg
-Warszawa	Nowy Swiat	Charakterystyczne obiekty/ciekawe miejsca	http://media-cdn.tripadvisor.com/media/photo-l/01/73/71/b4/neo-classical-nowy-swiat.jpg
-Warszawa	Pałac w Wilanowie- Muzeum	Miejsca historyczne	Muzea sztuk pięknych	http://media-cdn.tripadvisor.com/media/photo-l/01/4f/9b/0e/wilanowski-palace.jpg
-Warszawa	Prozna Street (Ulica Prozna)	Charakterystyczne obiekty/ciekawe miejsca	Miejsca historyczne	http://media-cdn.tripadvisor.com/media/photo-l/01/19/0f/48/end-of-the-street.jpg
-Warszawa	Jewish Cemetery (Cmentarz Zydowski)	Cmentarze	http://media-cdn.tripadvisor.com/media/photo-l/02/68/52/03/filename-poland-30-warsaw.jpg
-Warszawa	Zamek Królewski	Zamki	Miejsca historyczne	http://media-cdn.tripadvisor.com/media/photo-l/01/57/8a/c9/piazza-del-castello-reale.jpg
-Warszawa	Photoplasticon	Muzea	http://media-cdn.tripadvisor.com/media/photo-l/02/6d/1a/eb/photoplasticon.jpg
-Warszawa	Tomb of the Unknown Soldier (Grob Nieznanego Zolnierza)	Pomniki	http://media-cdn.tripadvisor.com/media/photo-l/01/b7/e2/c7/monument.jpg
-Warszawa	Powazki Cemetery	Cmentarze	http://media-cdn.tripadvisor.com/media/photo-l/03/41/20/43/the-entrance.jpg
-Warszawa	Invisible Exhibition - Niewidzialna Wystawa	Przedstawienia	http://c1.tacdn.com/img2/x.gif
-Warszawa	Umschlagplatz	Miejsca historyczne	http://media-cdn.tripadvisor.com/media/photo-l/01/73/72/0d/umschlagplatz-monument.jpg
-Warszawa	Pałac Łazienkowski	Miejsca historyczne	http://media-cdn.tripadvisor.com/media/photo-l/01/7d/05/f5/palac-na-wodzie.jpg
-Warszawa	Fragment of Ghetto Wall	Charakterystyczne obiekty/ciekawe miejsca	http://media-cdn.tripadvisor.com/media/photo-l/01/0f/3b/6a/ghetto-wall.jpg
-Warszawa	Gestapo Headquarters Museum	Muzea historyczne	http://media-cdn.tripadvisor.com/media/photo-l/01/40/6e/42/gestapo-headquarters.jpg
-Warszawa	Chopin Monument	Pomniki	http://media-cdn.tripadvisor.com/media/photo-f/01/62/50/67/chopin-monument.jpg
-Warszawa	Muzeum Więzienia Pawiak	Muzea	http://media-cdn.tripadvisor.com/media/photo-l/03/3e/7d/b2/pawiak-prison.jpg
-Warszawa	Amphitheatre - Lazienki Park	Teatry	http://media-cdn.tripadvisor.com/media/photo-l/01/7d/05/f8/amfiteatr-park-lazienkowski.jpg
-Warszawa	Biblioteka Uniwersytecka w Warszawie 	Biblioteki	http://media-cdn.tripadvisor.com/media/photo-l/01/e5/79/d2/the-ecological-side-of.jpg
-Warszawa	Statue of the Little Insurgent	Pomniki	http://media-cdn.tripadvisor.com/media/photo-l/03/16/5e/ac/statue-of-the-little.jpg
 Warszawa	Orange Umbrella Free Tour	Zwiedzanie	http://media-cdn.tripadvisor.com/media/photo-l/04/02/e0/43/orange-umbrella-tours.jpg
 Warszawa	Warsaw Behind the Scenes	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/60/9f/fc/a-communist-car-and-a.jpg
 Warszawa	Adventure Warsaw	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-f/04/16/71/9b/former-milicia-van-nysa.jpg
 Warszawa	Warszawa Wschodnia 	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/04/49/ee/53/eastern-station-warsaw.jpg
 Warszawa	Warsaw Free Walking Tour	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/e8/7f/3a/free-walking-tour-warsaw.jpg
-Warszawa	Warsaw Guide - Private Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/05/20/03/eb/warsaw-guide-private.jpg
 Warszawa	Warsaw For You	Zwiedzanie	http://media-cdn.tripadvisor.com/media/photo-l/02/48/35/bd/warsaw-for-you.jpg
+Warszawa	Warsaw Guide - Private Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/05/20/03/eb/warsaw-guide-private.jpg
 Warszawa	Pawel Warsaw Guide - Private Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/c0/b0/02/getlstd-property-photo.jpg
 Warszawa	Break in Warsaw - Free Day Tours	Zwiedzanie	http://media-cdn.tripadvisor.com/media/photo-l/02/c1/f3/18/break-in-warsaw.jpg
-Warszawa	Poznaj Warszawę	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/84/55/5d/our-team.jpg
-Warszawa	VIP Service - Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/7b/d9/9a/getlstd-property-photo.jpg
-Warszawa	Oasis Beauty Day Spa	Spa	http://media-cdn.tripadvisor.com/media/photo-l/05/1e/03/c2/oasis-beauty-day-spa.jpg
-Warszawa	Warsaw Walkabouts	Wycieczki	Zwiedzanie	http://media-cdn.tripadvisor.com/media/photo-l/02/62/21/dd/warsaw-walkabouts.jpg
-Warszawa	Segway City Tours - Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/dd/d5/14/segway-city-tours-day.jpg
-Warszawa	Slow Warsaw	Zwiedzanie	http://media-cdn.tripadvisor.com/media/photo-l/01/ca/c6/e2/warsaw-old-town.jpg
-Warszawa	Warsaw Tours and Transfers - Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/48/dc/62/warsaw-tours-and-transfers.jpg
-Warszawa	Buddha Spa	Spa	http://media-cdn.tripadvisor.com/media/photo-l/02/d7/f9/63/buddha-spa.jpg
-Warszawa	Around Warsaw- city guide	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/56/1f/1f/around-warsaw-city-guide.jpg
-Warszawa	Oasis Massage & SPA	Spa	http://media-cdn.tripadvisor.com/media/photo-l/05/a3/2a/b8/oasis-spa.jpg
-Warszawa	Żelazowa Wola and Brochów Tour	Wycieczki	http://c1.tacdn.com/img2/x.gif
-Warszawa	Treblinka Nazi Camps Tour	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/dc/fd/8e/getlstd-property-photo.jpg
-Warszawa	Warsaw City Tours	Zwiedzanie	http://media-cdn.tripadvisor.com/media/photo-o/02/5d/50/f4/getlstd-property-photo.jpg
 Nowy Jork	Jersey Boys	Przedstawienia	http://media-cdn.tripadvisor.com/media/photo-l/01/f4/7d/07/caption.jpg
+Nowy Jork	Kinky Boots on Broadway	Przedstawienia	http://media-cdn.tripadvisor.com/media/photo-l/03/a4/99/28/kinky-boots-on-broadway.jpg
 Nowy Jork	Frick Collection	Muzea sztuk pięknych	http://media-cdn.tripadvisor.com/media/photo-l/01/31/b6/c0/new-york-city.jpg
 Nowy Jork	Manhattan Skyline	Charakterystyczne obiekty/ciekawe miejsca	http://media-cdn.tripadvisor.com/media/photo-f/01/b8/fc/53/manhattan-skyline.jpg
 Nowy Jork	The Metropolitan Opera	Opery	Przedstawienia	http://media-cdn.tripadvisor.com/media/photo-l/01/21/75/10/nueva-york.jpg
-Nowy Jork	Kinky Boots on Broadway	Przedstawienia	http://media-cdn.tripadvisor.com/media/photo-l/03/a4/99/28/kinky-boots-on-broadway.jpg
 Nowy Jork	Central Park	Parki	Charakterystyczne obiekty/ciekawe miejsca	http://media-cdn.tripadvisor.com/media/photo-l/03/2a/bb/28/central-park.jpg
 Nowy Jork	Metropolitan Museum of Art	Muzea sztuk pięknych	Muzea	http://media-cdn.tripadvisor.com/media/photo-f/04/22/1c/fc/metropolitan-museum-of.jpg
 Nowy Jork	The Lion King at the Minskoff Theatre	Przedstawienia	http://media-cdn.tripadvisor.com/media/photo-l/01/5e/fe/b8/lion-king-11-09.jpg
 Nowy Jork	Wicked	Przedstawienia	http://media-cdn.tripadvisor.com/media/photo-l/00/1d/a0/77/wicked.jpg
 Nowy Jork	The Phantom of the Opera	Opery	Przedstawienia	http://media-cdn.tripadvisor.com/media/photo-l/03/03/d8/ae/skirball-center-for-the.jpg
-Nowy Jork	Ground Zero Museum Workshop	Muzea	http://media-cdn.tripadvisor.com/media/photo-l/02/71/e2/0c/ground-zero-museum-workshop.jpg
-Nowy Jork	Taras widokowy Top of the Rock	Platformy/wieże obserwacyjne	Punkty widokowe	http://media-cdn.tripadvisor.com/media/photo-l/03/3d/2b/34/top-of-the-rock-observation.jpg
-Nowy Jork	Broadway (ujednoznacznienie)	Teatry	Charakterystyczne obiekty/ciekawe miejsca	http://media-cdn.tripadvisor.com/media/photo-l/01/35/5d/6b/new-york-etat-de-new.jpg
-Nowy Jork	Motown The Musical on Broadway	Przedstawienia	http://media-cdn.tripadvisor.com/media/photo-l/03/d9/cc/42/motown-the-musical-on.jpg
-Nowy Jork	Lincoln Center for the Performing Arts	Teatry	Przedstawienia	Centra dla podróżnych	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/7f/7e/a5/lincoln-center.jpg
-Nowy Jork	New York Public Library	Biblioteki	Charakterystyczne obiekty/ciekawe miejsca	Muzea	Obiekty architektury	http://media-cdn.tripadvisor.com/media/photo-l/01/7d/71/33/ny-public-library-reading.jpg
-Nowy Jork	The Cloisters	Muzea sztuk pięknych	Miejsca kultu religijnego	http://media-cdn.tripadvisor.com/media/photo-l/01/0d/da/c9/cloisters.jpg
-Nowy Jork	Tenement Museum	Muzea historyczne	http://media-cdn.tripadvisor.com/media/photo-f/01/5f/04/62/97-orchard-st-the-heart.jpg
-Nowy Jork	High Line	Charakterystyczne obiekty/ciekawe miejsca	Parki	http://media-cdn.tripadvisor.com/media/photo-l/02/47/c0/4b/high-line-trail-early.jpg
-Nowy Jork	Annie the Musical	Przedstawienia	http://media-cdn.tripadvisor.com/media/photo-f/02/ee/67/8d/annie-the-musical.jpg
-Nowy Jork	Park Bryant	Parki	Kompleksy sportowe	http://media-cdn.tripadvisor.com/media/photo-l/01/ba/85/78/skating-at-the-pond-in.jpg
-Nowy Jork	Kaplica św. Pawła	Miejsca kultu religijnego	http://media-cdn.tripadvisor.com/media/photo-l/01/45/ff/27/st-paul-s-world-trade.jpg
-Nowy Jork	Grand Central Terminal	Charakterystyczne obiekty/ciekawe miejsca	Publiczne środki transportu	Widokowe trasy kolejowe	http://media-cdn.tripadvisor.com/media/photo-l/01/8c/49/ba/grand-central-terminal.jpg
-Nowy Jork	Radio City Music Hall	Teatry	Przedstawienia	http://media-cdn.tripadvisor.com/media/photo-l/01/7b/cc/90/radio-city-music-hall.jpg
 Nowy Jork	CityRover Walks NY	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/3a/7e/f6/the-standard.jpg
-Nowy Jork	Real New York Tours - Private Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/33/0f/32/view-from-top-of-the.jpg
 Nowy Jork	Broadway Up Close Walking Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/9b/e1/26/broadway-up-close-walking.jpg
+Nowy Jork	Real New York Tours - Private Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/33/0f/32/view-from-top-of-the.jpg
 Nowy Jork	New York Media Boat / Adventure Sightseeing Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/04/74/a5/7a/adventure-sightseeing.jpg
+Nowy Jork	Custom & Private New York Tours Inc	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/ed/18/8a/our-best-shot.jpg
 Nowy Jork	Streetwise New York Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/d8/a7/47/streetwise-new-york-tours.jpg
 Nowy Jork	Gotham Walking Tours of New York City	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/4f/47/7d/the-beginning-of-our.jpg
 Nowy Jork	Famous Fat Dave's Food Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/57/7a/ca/new-york-city.jpg
 Nowy Jork	Foods of New York Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/86/19/57/foods-of-ny-tours-tasty.jpg
-Nowy Jork	Custom & Private New York Tours Inc	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/ed/18/8a/our-best-shot.jpg
-Nowy Jork	Manhattan Walking Tour	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/24/31/91/crossroads-of-the-world.jpg
-Nowy Jork	Inside Broadway Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/7d/68/e3/shubert-alley.jpg
 Nowy Jork	Museum Hack	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/04/73/34/23/museum-hack.jpg
-Nowy Jork	Sidewalks of New York Tours	Zwiedzanie	http://media-cdn.tripadvisor.com/media/photo-l/01/f1/0a/01/delicious-pastries.jpg
-Nowy Jork	New York City Photo Safari	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/10/2f/3f/new-york-city-nyc-photo.jpg
-Nowy Jork	Doug Fox's 9/11 Memorial and World Trade Center Tour	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/ed/aa/4b/doug-fox-nyc-tours-9.jpg
-Nowy Jork	New York Fun Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/31/b6/03/new-york-fun-tours.jpg
-Nowy Jork	Gianfranco Tours Private Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/68/fb/30/gianfranco-tours-private.jpg
-Nowy Jork	PhotoTrek Tours - Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/6f/4a/43/brooklyn.jpg
-Nowy Jork	Scott's Pizza Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/26/d2/d1/lombardi-s-pizza-so-good.jpg
-Nowy Jork	New York Tour1	Wycieczki	http://c1.tacdn.com/img2/x.gif
-Nowy Jork	Bike the Big Apple	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/7e/6b/df/the-bronx.jpg
-Nowy Jork	Urban Oyster Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/a5/3f/9b/brewed-in-brooklyn-tour.jpg
-Nowy Jork	The Wall Street Experience - Wall Street Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/7c/41/29/wall-street.jpg
-Nowy Jork	Free Tours by Foot	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/8f/c4/44/derrick-talking-to-one.jpg
-Nowy Jork	The Levys' Unique New York!	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/23/c5/af/filename-img-4476-jpg.jpg
-Nowy Jork	Outside In Private Walking Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/8f/aa/1d/the-nyse.jpg
-Nowy Jork	Top of the Rock - Rockefeller Center Tour	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/77/75/af/a-view-of-rockefeller.jpg
-Nowy Jork	Pizza a Casa Pizza School	„Zajęcia/Warsztaty”	http://media-cdn.tripadvisor.com/media/photo-f/04/8a/ea/3d/pizza-a-casa-pizza-school.jpg
-Nowy Jork	Hush Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/ef/a7/bd/hush-hip-hop-tours.jpg
+Nowy Jork	Inside Broadway Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/7d/68/e3/shubert-alley.jpg
 Nowy Jork	Take Me Out NYC	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/03/96/af/21/take-me-out-alternative.jpg
 Nowy Jork	Birdland	Bary jazzowe	http://media-cdn.tripadvisor.com/media/photo-l/01/e8/4a/ff/il-mio-tavolo.jpg
 Nowy Jork	Dizzy's Club Coca-Cola	Bary jazzowe	http://media-cdn.tripadvisor.com/media/photo-l/03/3a/04/bd/dizzy-s-club-coca-cola.jpg
@@ -275,24 +108,9 @@ Nowy Jork	Comedy Cellar	Kluby kabaretowe	Teatry	http://media-cdn.tripadvisor.com
 Nowy Jork	Smalls	Bary jazzowe	http://media-cdn.tripadvisor.com/media/photo-l/01/f5/74/d8/ian-hendrickson-smith.jpg
 Nowy Jork	Terra Blues	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/04/a5/e7/78/terra-blues.jpg
 Nowy Jork	55 Bar	Bary jazzowe	http://media-cdn.tripadvisor.com/media/photo-l/05/ba/66/8e/55-bar.jpg
-Nowy Jork	54 Below	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-f/04/74/af/35/54-below.jpg
 Nowy Jork	230 Fifth	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/03/1c/f4/c4/230-fifth.jpg
+Nowy Jork	54 Below	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-f/04/74/af/35/54-below.jpg
 Nowy Jork	Cafe Wha?	Bary/kluby	Kluby taneczne/dyskoteki	http://c1.tacdn.com/img2/x.gif
-Nowy Jork	Jazz Standard	Bary jazzowe	http://media-cdn.tripadvisor.com/media/photo-l/02/1a/12/8d/ottima-cucina-al-jaz.jpg
-Nowy Jork	McSorley's Old Ale House	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/00/12/08/50/mcsorley-s-old-ale-house.jpg
-Nowy Jork	Morrell Wine Bar & Cafe	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/02/6b/c9/e1/filename-dsc06242-jpg.jpg
-Nowy Jork	Bitter End	Bary/kluby	Przedstawienia	http://media-cdn.tripadvisor.com/media/photo-l/01/64/9c/38/bitter-end.jpg
-Nowy Jork	The Village Vanguard	Bary jazzowe	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/01/24/f3/e0/caption.jpg
-Nowy Jork	Don't Tell Mama	Bary z muzyką na żywo	http://media-cdn.tripadvisor.com/media/photo-f/02/6d/0f/66/don-t-tell-mama.jpg
-Nowy Jork	Village Underground	Bary/kluby	Koncerty	http://c1.tacdn.com/img2/x.gif
-Nowy Jork	Show	Bary/kluby	http://c1.tacdn.com/img2/x.gif
-Nowy Jork	Carnegie Club	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/02/82/a4/af/filename-img-5278-2-jpg.jpg
-Nowy Jork	Landmark Tavern	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/02/9c/5b/49/filename-landmarktavern.jpg
-Nowy Jork	Blue Note	Bary jazzowe	http://media-cdn.tripadvisor.com/media/photo-l/01/b9/34/19/caption.jpg
-Nowy Jork	Little Branch	Bary/kluby	http://c1.tacdn.com/img2/x.gif
-Nowy Jork	The Ginger Man	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/02/67/83/26/filename-p1020350-jpg.jpg
-Nowy Jork	Brandy's Piano Bar	Bary/kluby	Bary z muzyką na żywo	Bary dla gejów / lesbijek	http://media-cdn.tripadvisor.com/media/photo-l/00/11/e9/7e/brandy-s-piano-bar.jpg
-Nowy Jork	Top of the Strand	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/01/b9/74/35/view-from-top-of-the.jpg
 Rio de Janeiro	Sugar Loaf Mountain (Pao de Acucar)	Charakterystyczne obiekty/ciekawe miejsca	Punkty widokowe	Góry	http://media-cdn.tripadvisor.com/media/photo-l/03/43/74/40/pao-de-acucar.jpg
 Rio de Janeiro	Theatro Municipal Do Rio De Janeiro	Teatry	Ogrody	http://media-cdn.tripadvisor.com/media/photo-l/01/40/6b/c3/theatro-municipal-do.jpg
 Rio de Janeiro	Pedra Da Gavea	Góry	http://media-cdn.tripadvisor.com/media/photo-l/01/69/e6/03/pedra-da-gavea.jpg
@@ -303,25 +121,6 @@ Rio de Janeiro	Corcovado	Charakterystyczne obiekty/ciekawe miejsca	http://media-
 Rio de Janeiro	Prainha Beach	Plaże	http://media-cdn.tripadvisor.com/media/photo-l/02/77/71/18/prainha-beach.jpg
 Rio de Janeiro	Arpoador	Okolice	http://media-cdn.tripadvisor.com/media/photo-l/04/4c/a1/58/arpoador.jpg
 Rio de Janeiro	Sao Bento Monastery	Miejsca kultu religijnego	http://media-cdn.tripadvisor.com/media/photo-f/01/9a/78/7b/mosteiro-do-sao-bento.jpg
-Rio de Janeiro	Petropolis	Miejsca historyczne	http://media-cdn.tripadvisor.com/media/photo-l/03/28/e3/5b/petropolis.jpg
-Rio de Janeiro	Botanical Garden (Jardim Botanico)	Ogrody	http://media-cdn.tripadvisor.com/media/photo-l/03/49/d5/18/show-de-bola.jpg
-Rio de Janeiro	Real Gabinete Portugues Da Leitura	Biblioteki	http://media-cdn.tripadvisor.com/media/photo-l/02/6f/b8/31/front.jpg
-Rio de Janeiro	Favela Santa Marta Tour	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/05/2b/c8/1b/favela-santa-marta-tour.jpg
-Rio de Janeiro	Claudio Coutinho Trail	Szlaki górskie	http://media-cdn.tripadvisor.com/media/photo-l/03/17/b2/9e/pista-claudio-coutinho.jpg
-Rio de Janeiro	Tijuca National Park	Parki narodowe	Plaże	Muzea historii naturalnej	Szlaki górskie	Lasy	http://media-cdn.tripadvisor.com/media/photo-l/01/46/e3/43/tijuca-s-national-park.jpg
-Rio de Janeiro	Instituto Moreira Salles	Galerie sztuki	http://media-cdn.tripadvisor.com/media/photo-l/01/b9/3f/69/pool-with-tiles-by-burle.jpg
-Rio de Janeiro	Urca	Okolice	http://media-cdn.tripadvisor.com/media/photo-l/02/93/5c/f6/filename-img-8862-jpg.jpg
-Rio de Janeiro	Maracana Estadio Jornalista Mario Filho	Stadiony/boiska	Muzea specjalistyczne	http://media-cdn.tripadvisor.com/media/photo-l/01/70/82/8c/estadio-mario-filho-maracana.jpg
-Rio de Janeiro	Grumari Beach	Plaże	http://media-cdn.tripadvisor.com/media/photo-l/03/71/0b/ef/grumari-beach.jpg
-Rio de Janeiro	Rodrigo de Freitas Lake	Zbiorniki wodne	http://media-cdn.tripadvisor.com/media/photo-f/02/cf/ed/f9/lagoa-rodrigo-de-freitas.jpg
-Rio de Janeiro	Ipanema Beach	Plaże	Szlaki górskie	Zbiorniki wodne	http://media-cdn.tripadvisor.com/media/photo-l/01/78/47/ab/praia-de-ipanema.jpg
-Rio de Janeiro	Morro Dois Irmaos	Parki	Platformy/wieże obserwacyjne	http://media-cdn.tripadvisor.com/media/photo-l/03/bc/bf/7f/morro-dois-irmaos.jpg
-Rio de Janeiro	Mirante Dona Marta	Platformy/wieże obserwacyjne	http://media-cdn.tripadvisor.com/media/photo-l/02/35/3e/6f/heliporto.jpg
-Rio de Janeiro	Fort Copacabana	Muzea wojskowe	http://media-cdn.tripadvisor.com/media/photo-l/03/49/d3/63/vista-pro-arpoador.jpg
-Rio de Janeiro	Arpoador Beach	Plaże	http://media-cdn.tripadvisor.com/media/photo-l/01/35/52/ad/arpoador-beach.jpg
-Rio de Janeiro	Sitio Roberto Burle Marx	Miejsca historyczne	Parki	http://media-cdn.tripadvisor.com/media/photo-f/02/66/28/b9/filename-img-5409-jpg.jpg
-Rio de Janeiro	Parque Henrique Lage	Miejsca historyczne	http://media-cdn.tripadvisor.com/media/photo-l/02/f7/4f/7b/parque-henrique-lage.jpg
-Rio de Janeiro	Pista Claudio Coutinho	Szlaki	http://media-cdn.tripadvisor.com/media/photo-l/03/66/a7/da/pista-claudio-coutinho.jpg
 Rio de Janeiro	Daniel Cabral - Rio Private Tour Guide	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/ec/d2/19/rio-sunset-from-sugar.jpg
 Rio de Janeiro	Madson Araujo, Rio De Janeiro Private Tour	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-f/02/b3/19/36/madson-araujo-rio-de.jpg
 Rio de Janeiro	TourGuide Neyla - Private Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/ea/85/ff/looking-from-top-of-sugar.jpg
@@ -331,63 +130,21 @@ Rio de Janeiro	Marcio Guedes Rio Tour Guide	Wycieczki	http://media-cdn.tripadvis
 Rio de Janeiro	Tour Guide Glayber - Private day tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-f/04/25/d8/ae/tour-guide-glayber-private.jpg
 Rio de Janeiro	Rafael Torres Lopes Tour Guide	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/b6/e8/c5/the-selaron-stairway.jpg
 Rio de Janeiro	Manu Peclat - Rio Private Tour Guide	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/b8/d2/4a/amazing-views-from-urca.jpg
-Rio de Janeiro	Gisela Vayda Private Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/46/46/9d/water-fall-at-tijuca.jpg
-Rio de Janeiro	Rio Alternative Tour - Private Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/04/11/0f/dc/rio-alternative-tour.jpg
-Rio de Janeiro	CaRioca Free Culture	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/4d/bf/a7/relaxing-on-top-of-dois.jpg
-Rio de Janeiro	Bike In Rio Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/d2/54/d6/getlstd-property-photo.jpg
-Rio de Janeiro	RioXtreme	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/78/e9/63/summit-of-the-pedra-da.jpg
-Rio de Janeiro	Sail in Rio - Private Day Tours	Rejsy	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/d9/64/b5/getlstd-property-photo.jpg
-Rio de Janeiro	Urban Adventures Rio de Janeiro	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/05/2b/b7/48/escola-de-vela-treinamento.jpg
-Rio de Janeiro	Rios De Historia Tour Historico	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/32/29/6e/rios-de-historia-cultural.jpg
-Rio de Janeiro	Private Tour Guide in Rio Marcio Boechat - Private Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/67/0b/d3/marcio-boechat-private.jpg
-Rio de Janeiro	Rio Samba Dancer	„Zajęcia/Warsztaty”	http://c1.tacdn.com/img2/x.gif
-Rio de Janeiro	Trip In Rio -Private Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/42/63/4c/ederson-rio-private-tour.jpg
-Rio de Janeiro	Humberto do Rio - Private Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/79/16/06/humberto-do-rio.jpg
-Rio de Janeiro	Rio Cultural Secrets - Private Tour Guide Rio de Janeiro	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/c0/19/54/rio-cultural-secrets.jpg
-Rio de Janeiro	Rio Brazil Tour	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/c0/c4/dd/rio-brazil-tour.jpg
 Rio de Janeiro	Rio Scenarium	Bary/kluby	Kluby taneczne/dyskoteki	http://media-cdn.tripadvisor.com/media/photo-f/05/e6/80/73/rio-scenarium.jpg
 Rio de Janeiro	Carioca da Gema	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/03/69/96/2c/samba.jpg
 Rio de Janeiro	Lapa 40 Graus	Kluby taneczne/dyskoteki	http://media-cdn.tripadvisor.com/media/photo-l/04/08/7b/8b/lapa-40-graus.jpg
 Rio de Janeiro	Cafe Cultural Sacrilegio	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/04/67/3f/12/cafe-cultural-sacrilegio.jpg
 Rio de Janeiro	Trapiche Gamboa	Bary/kluby	http://c1.tacdn.com/img2/x.gif
-Rio de Janeiro	The Week	Bary dla gejów / lesbijek	http://media-cdn.tripadvisor.com/media/photo-l/03/bd/c5/f3/the-week.jpg
-Rio de Janeiro	Devassa Flamengo	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/03/bc/b9/3b/devassa-flamengo.jpg
-Rio de Janeiro	Bip Bip	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/04/27/cb/a9/add-a-caption.jpg
-Rio de Janeiro	Lord Jim Pub	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/03/d1/76/18/lord-jim-pub.jpg
-Rio de Janeiro	Club 117	Bary dla gejów / lesbijek	http://media-cdn.tripadvisor.com/media/photo-l/03/ba/d2/0a/club-117.jpg
-Rio de Janeiro	Casarao Ameno Reseda	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-o/02/71/3d/52/getlstd-property-photo.jpg
-Rio de Janeiro	Canecao	Bary/kluby	http://c1.tacdn.com/img2/x.gif
-Rio de Janeiro	Aqueloo Beach Club	Bary/kluby	http://c1.tacdn.com/img2/x.gif
-Rio de Janeiro	SporTV Point	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/02/1e/37/01/fachada.jpg
-Rio de Janeiro	Vinicius	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/03/69/97/88/cantante-sin-alma.jpg
 Moskwa	Muzeum Historii i Architektury i Rezerwat Kolomenskoye	Muzea	Obiekty architektury	Parki	Miejsca kultu religijnego	Parki natury/rezerwaty	Muzea sztuk pięknych	Muzea historyczne	http://media-cdn.tripadvisor.com/media/photo-l/01/9e/ae/77/kolomenskoye1.jpg
 Moskwa	Państwowa Galeria Tretiakowska	Muzea sztuk pięknych	http://media-cdn.tripadvisor.com/media/photo-l/02/77/72/76/state-tretrakov-gallery.jpg
 Moskwa	Cerkiew Wasyla Błogosławionego	Obiekty architektury	Miejsca historyczne	Miejsca kultu religijnego	Charakterystyczne obiekty/ciekawe miejsca	http://media-cdn.tripadvisor.com/media/photo-l/01/8b/5f/05/basilius-kathedrale-im.jpg
 Moskwa	Tsarytsino Open-Air History and Architectural Museum	Muzea	Muzea historyczne	http://media-cdn.tripadvisor.com/media/photo-l/02/c5/46/b1/caption.jpg
 Moskwa	Plac Czerwony	Miejsca historyczne	Charakterystyczne obiekty/ciekawe miejsca	http://media-cdn.tripadvisor.com/media/photo-l/03/fe/de/54/red-square-krasnaya-ploshchad.jpg
+Moskwa	Vakhtangova Theatre	Teatry	http://c1.tacdn.com/img2/x.gif
 Moskwa	Stanislavsky and Nemirovich-Danchenko Musical Theatre	Teatry	http://media-cdn.tripadvisor.com/media/photo-l/02/7c/3b/bf/filename-my-camera-115.jpg
 Moskwa	Zbrojownia kremlowska	Muzea sztuk pięknych	Muzea historyczne	Muzea wojskowe	http://media-cdn.tripadvisor.com/media/photo-l/03/5f/bd/47/caption.jpg
 Moskwa	Almazny Fond	Muzea	http://media-cdn.tripadvisor.com/media/photo-l/02/77/71/5d/diamond-fund-almazny.jpg
 Moskwa	Kreml	Miejsca historyczne	Obiekty architektury	Muzea	Zwiedzanie miejsc historycznych	Budynki rządowe	Charakterystyczne obiekty/ciekawe miejsca	http://media-cdn.tripadvisor.com/media/photo-l/01/c6/e4/7e/cremlin-church-of-the.jpg
-Moskwa	Lomonosov Moscow State University (MGU)	Obiekty architektury	Placówki edukacyjne	http://media-cdn.tripadvisor.com/media/photo-l/01/48/23/49/caption.jpg
-Moskwa	Vakhtangova Theatre	Teatry	http://c1.tacdn.com/img2/x.gif
-Moskwa	Kremlin Walls and Towers	Obiekty architektury	Miejsca historyczne	http://media-cdn.tripadvisor.com/media/photo-l/01/1f/37/86/kremlin-towers-2006.jpg
-Moskwa	Krutitskoe Podvorye	Miejsca kultu religijnego	http://media-cdn.tripadvisor.com/media/photo-l/03/02/6b/c1/krutitskoye-podvorye.jpg
-Moskwa	Monaster Nowodziewiczy w Moskwie	Obiekty architektury	Cmentarze	Miejsca historyczne	http://media-cdn.tripadvisor.com/media/photo-l/01/ca/20/65/convent.jpg
-Moskwa	Nikulin Circus on Tsvetnoi Bulvar	Przedstawienia	http://media-cdn.tripadvisor.com/media/photo-l/02/5a/d3/d8/nikulin-zirkus.jpg
-Moskwa	Galeria Tretiakowska na Krymsky Val	Muzea sztuk pięknych	http://media-cdn.tripadvisor.com/media/photo-l/01/21/bd/3b/moscow.jpg
-Moskwa	Orlov Paleontology Museum	Muzea nauki	http://media-cdn.tripadvisor.com/media/photo-l/04/07/ea/f7/caption.jpg
-Moskwa	Jewish Museum and Tolerance Center	Muzea	http://media-cdn.tripadvisor.com/media/photo-l/04/59/c6/d4/caption.jpg
-Moskwa	Muzeum Sztuk Pięknych im. Puszkina w Moskwie	Muzea sztuk pięknych	http://media-cdn.tripadvisor.com/media/photo-l/01/3e/88/23/the-pushkin-museum-of.jpg
-Moskwa	Victory Park	Parki	http://media-cdn.tripadvisor.com/media/photo-l/01/34/84/94/patrol-boat.jpg
-Moskwa	Sapsan Bullet Train	Transport	http://media-cdn.tripadvisor.com/media/photo-l/02/2b/56/64/it-s-a-train.jpg
-Moskwa	Gorky Park	Parki	http://media-cdn.tripadvisor.com/media/photo-l/01/09/59/b2/desolate-gorky-park-in.jpg
-Moskwa	Bolshoi Theatre	Teatry	Balet	Opery	Obiekty architektury	http://media-cdn.tripadvisor.com/media/photo-l/01/37/ca/0d/bolshoi-theater.jpg
-Moskwa	Moscow Metro	Publiczne środki transportu	Obiekty architektury	http://media-cdn.tripadvisor.com/media/photo-l/01/a5/7a/3b/majakovskaja-subway-station.jpg
-Moskwa	Russian National Dance Show	Przedstawienia	http://media-cdn.tripadvisor.com/media/photo-l/02/6d/44/ee/russian-national-dance.jpg
-Moskwa	Moscow International House of Music	Koncerty	http://media-cdn.tripadvisor.com/media/photo-l/02/6d/3f/39/moscow-international.jpg
-Moskwa	Neskuchny sad	Parki	http://c1.tacdn.com/img2/x.gif
-Moskwa	State Darwin Museum	Muzea nauki	http://media-cdn.tripadvisor.com/media/photo-l/02/6d/0b/78/state-darwin-museum.jpg
 Moskwa	Bridge to Moscow - Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/05/87/fd/23/bridge-to-moscow-day.jpg
 Moskwa	Moscow Free Tour	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/10/41/00/paying-attention-to-lenin.jpg
 Moskwa	Moscow Private Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/f9/29/21/moscow-private-day-tours.jpg
@@ -396,99 +153,37 @@ Moskwa	Three Whales - Private and Group Day Tours	Wycieczki	http://media-cdn.tri
 Moskwa	Moscow Greeter Free Day Tours	Zwiedzanie	http://media-cdn.tripadvisor.com/media/photo-l/02/7a/c3/0d/moscow-greeter.jpg
 Moskwa	Street Adventure	Wycieczki	http://c1.tacdn.com/img2/x.gif
 Moskwa	Tour of Moscow - Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/6f/9b/f9/getlstd-property-photo.jpg
-Moskwa	VikiTours - Moscow Private Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/26/95/bc/mom-and-viktoria-in-front.jpg
-Moskwa	KremlinTour - Private Moscow Tours with Diana Zalenskaya	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/72/a3/83/diana-zalenskaya-moscow.jpg
-Moskwa	OuroborosTravel - Private Day Tours	Wycieczki	http://c1.tacdn.com/img2/x.gif
-Moskwa	Flotilla Radisson Royal	Wycieczki	Rejsy	http://media-cdn.tripadvisor.com/media/photo-l/05/b4/b5/e6/flotilla-radisson-royal.jpg
-Moskwa	Explorus Travel - Moscow Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/68/48/89/getlstd-property-photo.jpg
-Moskwa	Metro Moscow Tour - Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/05/22/46/5d/getlstd-property-photo.jpg
-Moskwa	GUYS2 - Moscow Private Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/37/7d/a6/guys-squared-private.jpg
-Moskwa	Moscow Urban Adventures	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/04/2e/39/a3/caption.jpg
-Moskwa	Moscow City Guide - Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/c8/a9/42/moscow-city-guide-day.jpg
-Moskwa	Open Moscow! - Private Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/9a/9a/2c/open-moscow-tours.jpg
-Moskwa	ESPA at Ritz-Carlton	Spa	http://c1.tacdn.com/img2/x.gif
-Moskwa	Express to Russia Moscow Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/51/ec/7a/moscow-city-tours-by.jpg
-Moskwa	Sanduny Bathhouses	Spa	http://media-cdn.tripadvisor.com/media/photo-l/01/f9/b7/c3/the-entrance.jpg
 Moskwa	City Space Bar	Bary/kluby	Kluby taneczne/dyskoteki	http://media-cdn.tripadvisor.com/media/photo-l/01/e3/ea/77/city-space-bar.jpg
 Moskwa	O2 Lounge	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/01/8d/1a/11/o2-lounge.jpg
 Moskwa	Club Sexton	Bary/kluby	Kluby taneczne/dyskoteki	http://media-cdn.tripadvisor.com/media/photo-l/02/bc/a7/bf/sexton.jpg
 Moskwa	Prpaganda	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/04/71/13/88/caption.jpg
-Moskwa	Papa's Place Bar	Bary/kluby	Kluby taneczne/dyskoteki	http://c1.tacdn.com/img2/x.gif
 Moskwa	Look In Rooms	Bary/kluby	Kluby taneczne/dyskoteki	http://c1.tacdn.com/img2/x.gif
+Moskwa	Papa's Place Bar	Bary/kluby	Kluby taneczne/dyskoteki	http://c1.tacdn.com/img2/x.gif
 Moskwa	Bar Gipsy	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/02/c3/c5/03/bar-gipsy.jpg
 Moskwa	Cafe Fresh	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/03/7a/72/fd/caption.jpg
-Moskwa	Red Bar	Bary/kluby	http://c1.tacdn.com/img2/x.gif
 Moskwa	B2	Bary/kluby	http://c1.tacdn.com/img2/x.gif
-Moskwa	Rusakov Workers' Club	Obiekty architektury	http://c1.tacdn.com/img2/x.gif
-Moskwa	Cabana	Bary/kluby	http://c1.tacdn.com/img2/x.gif
-Moskwa	Mercure Arbat Moscow Lobby Bar	Bary/kluby	http://c1.tacdn.com/img2/x.gif
-Moskwa	The Shamrock Pub	Bary/kluby	http://c1.tacdn.com/img2/x.gif
-Moskwa	Penthouse Club	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/01/c7/34/5e/main-entrance.jpg
-Moskwa	Night Flight Club	Bary/kluby	Kluby taneczne/dyskoteki	http://c1.tacdn.com/img2/x.gif
-Moskwa	Forte Music Club	Bary/kluby	http://c1.tacdn.com/img2/x.gif
-Moskwa	Krizis Zhanra	Bary/kluby	http://c1.tacdn.com/img2/x.gif
-Moskwa	Mona Club	Kluby taneczne/dyskoteki	http://c1.tacdn.com/img2/x.gif
-Moskwa	Hot Dog's Bar	Bary/kluby	http://c1.tacdn.com/img2/x.gif
-Moskwa	Tuning Hall	Bary/kluby	http://c1.tacdn.com/img2/x.gif
-Moskwa	B-Live	Bary/kluby	Kluby taneczne/dyskoteki	http://c1.tacdn.com/img2/x.gif
-Moskwa	Art Garbage (Zapasnik)	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/02/6c/e9/1c/art-garbage-zapasnik.jpg
-Moskwa	Saxar Club	Bary/kluby	http://c1.tacdn.com/img2/x.gif
-Moskwa	Bunker	Bary/kluby	http://c1.tacdn.com/img2/x.gif
+Moskwa	Red Bar	Bary/kluby	http://c1.tacdn.com/img2/x.gif
 Johannesburg	Khakiweed Photographic Safaris - Private Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-f/05/36/ae/0b/khakiweed-photographic.jpg
 Johannesburg	Muzeum Apartheidu	Muzea historyczne	Muzea	Muzea specjalistyczne	http://media-cdn.tripadvisor.com/media/photo-l/01/2f/28/e2/we-are-all-the-same.jpg
-Johannesburg	Satyagraha House	Muzea	http://media-cdn.tripadvisor.com/media/photo-l/02/d8/7f/48/satyagraha-house.jpg
 Johannesburg	Gautrain	Transport	Widokowe trasy kolejowe	http://media-cdn.tripadvisor.com/media/photo-f/01/ea/9e/73/the-gautrain.jpg
+Johannesburg	Satyagraha House	Muzea	http://media-cdn.tripadvisor.com/media/photo-l/02/d8/7f/48/satyagraha-house.jpg
 Johannesburg	Farma i Muzeum Liliesleaf	Muzea	http://media-cdn.tripadvisor.com/media/photo-l/02/a8/75/50/liliesleaf-farm-museum.jpg
-Johannesburg	Walter Sisulu National Botanical Gardens	Ogrody	http://media-cdn.tripadvisor.com/media/photo-l/03/57/39/ad/walter-sisulu-botanical.jpg
-Johannesburg	Narodowe Muzeum Historii Militarnej RPA	Muzea wojskowe	http://media-cdn.tripadvisor.com/media/photo-l/01/20/9e/b5/a-soviet-tank-at-the.jpg
 Johannesburg	Bush Babies Monkey Sanctuary	Parki natury/rezerwaty	http://media-cdn.tripadvisor.com/media/photo-f/02/6d/40/1c/bush-babies-monkey-sanctuary.jpg
+Johannesburg	Walter Sisulu National Botanical Gardens	Ogrody	http://media-cdn.tripadvisor.com/media/photo-l/03/57/39/ad/walter-sisulu-botanical.jpg
 Johannesburg	South Western Townships	Miejsca historyczne	http://media-cdn.tripadvisor.com/media/photo-l/01/c4/df/3f/people-in-soweto-are.jpg
+Johannesburg	Narodowe Muzeum Historii Militarnej RPA	Muzea wojskowe	http://media-cdn.tripadvisor.com/media/photo-l/01/20/9e/b5/a-soviet-tank-at-the.jpg
 Johannesburg	Origins Centre	Muzea	http://media-cdn.tripadvisor.com/media/photo-l/02/d7/be/7e/origins-centre.jpg
-Johannesburg	Montecasino	Kasyna	http://media-cdn.tripadvisor.com/media/photo-l/01/1d/2f/6c/small-town-street-emulation.jpg
-Johannesburg	Wzgórze Konstytucji	Miejsca historyczne	http://media-cdn.tripadvisor.com/media/photo-l/01/1b/8c/ba/caption.jpg
 Johannesburg	Maboneng Precinct	Okolice	http://media-cdn.tripadvisor.com/media/photo-l/05/38/56/93/maboneng-precinct.jpg
-Johannesburg	Nelson Mandela Square	Centra handlowe	http://media-cdn.tripadvisor.com/media/photo-l/02/60/8b/01/entrance-to-nelson-mandela.jpg
-Johannesburg	Lion Park	Parki natury/rezerwaty	http://media-cdn.tripadvisor.com/media/photo-l/01/69/cd/70/lion-cups-johannesburg.jpg
-Johannesburg	Sci-Bono Discovery Centre	Muzea nauki	http://media-cdn.tripadvisor.com/media/photo-l/03/c4/09/ed/interior-of-building.jpg
-Johannesburg	Sterkfontein Cave	Groty/jaskinie	http://media-cdn.tripadvisor.com/media/photo-f/02/30/d5/b4/in-the-cave.jpg
-Johannesburg	The Cradle of Humankind	Parki natury/rezerwaty	http://media-cdn.tripadvisor.com/media/photo-l/01/b2/77/4d/the-cradle-of-humankind.jpg
-Johannesburg	Sandton Convention Centre	Centra kongresowe	http://media-cdn.tripadvisor.com/media/photo-l/01/70/ba/7f/sandton-convention-centre.jpg
-Johannesburg	FNB Stadium	Stadiony/boiska	http://media-cdn.tripadvisor.com/media/photo-l/02/f3/13/91/fnb-stadium.jpg
-Johannesburg	Honeydew Mazes	Charakterystyczne obiekty/ciekawe miejsca	http://media-cdn.tripadvisor.com/media/photo-l/02/83/a4/28/aerial-view-of-elemental.jpg
-Johannesburg	Peacemakers Museum	Muzea	http://media-cdn.tripadvisor.com/media/photo-l/02/e2/80/c9/peacemakers-museum.jpg
-Johannesburg	Witwatersrand (Wits) University	Placówki edukacyjne	http://media-cdn.tripadvisor.com/media/photo-l/03/b9/e4/bb/witwatersrand-wits-university.jpg
-Johannesburg	Johannesburg Zoo	Zoo	http://media-cdn.tripadvisor.com/media/photo-l/00/16/d2/d8/zebra.jpg
-Johannesburg	Gold Reef City	Kasyna	http://media-cdn.tripadvisor.com/media/photo-l/01/03/de/3e/casino-hotel-gold-reef.jpg
-Johannesburg	Ogrody Botaniczne w Johannesburgu i Zapora Emmarentia	Ogrody	Akwaria	Parki	Tamy	http://media-cdn.tripadvisor.com/media/photo-l/01/f9/0d/94/emmerentia-dam.jpg
 Amsterdam	Concertgebouw	Teatry	Koncerty	Miejsca historyczne	http://media-cdn.tripadvisor.com/media/photo-l/01/7b/fa/28/concertgebouw.jpg
 Amsterdam	Biblioteka Centralna	Biblioteki	http://media-cdn.tripadvisor.com/media/photo-l/01/8c/ae/2d/oba-book-department.jpg
 Amsterdam	Prinsengracht	Zbiorniki wodne	http://media-cdn.tripadvisor.com/media/photo-l/01/33/d4/0e/prinsengracht-amsterdam.jpg
 Amsterdam	Dom Anne Frank	Miejsca historyczne	Muzea historyczne	Charakterystyczne obiekty/ciekawe miejsca	Muzea specjalistyczne	http://media-cdn.tripadvisor.com/media/photo-l/04/00/c4/0d/anne-frank-house-anne.jpg
 Amsterdam	Rijksmuseum	Muzea sztuk pięknych	Muzea	http://media-cdn.tripadvisor.com/media/photo-l/00/1c/d3/57/view-from-museumplein.jpg
 Amsterdam	Jordaan	Okolice	http://media-cdn.tripadvisor.com/media/photo-l/01/be/00/c5/jordan-street.jpg
-Amsterdam	Our Lord in the Attic Chapel	Muzea historyczne	Muzea	http://media-cdn.tripadvisor.com/media/photo-l/05/e3/38/e3/amstelkring-museum-our.jpg
 Amsterdam	Muzeum Vincenta van Gogha	Muzea sztuk pięknych	http://media-cdn.tripadvisor.com/media/photo-l/01/8b/bf/c1/museum.jpg
+Amsterdam	Our Lord in the Attic Chapel	Muzea historyczne	Muzea	http://media-cdn.tripadvisor.com/media/photo-l/05/e3/38/e3/amstelkring-museum-our.jpg
 Amsterdam	Vondelpark	Parki	http://media-cdn.tripadvisor.com/media/photo-l/01/33/9b/d5/vondelpark.jpg
 Amsterdam	Herengracht	Zbiorniki wodne	http://media-cdn.tripadvisor.com/media/photo-f/01/45/f0/c9/gentelmen-s-canal.jpg
-Amsterdam	Emperor's Canal (Keizersgracht)	Zbiorniki wodne	http://media-cdn.tripadvisor.com/media/photo-f/01/37/32/79/emperor-s-canal-keizersgracht.jpg
-Amsterdam	Holenderskie Muzeum Oporu	Muzea historyczne	http://media-cdn.tripadvisor.com/media/photo-l/01/27/49/25/the-resistance-museum.jpg
-Amsterdam	Rembrandthuis	Miejsca historyczne	Muzea sztuk pięknych	http://media-cdn.tripadvisor.com/media/photo-l/05/4e/c7/0d/museum-het-rembrandthuis.jpg
-Amsterdam	Museumplein	Charakterystyczne obiekty/ciekawe miejsca	http://media-cdn.tripadvisor.com/media/photo-l/02/4a/af/6d/amsterdam-sign.jpg
-Amsterdam	Museum of Bags and Purses (Tassenmuseum Hendrikje)	Muzea specjalistyczne	http://media-cdn.tripadvisor.com/media/photo-f/02/46/18/08/filename-kopie-van-tasmu1108.jpg
-Amsterdam	Koninklijk Theater Carre	Teatry	http://media-cdn.tripadvisor.com/media/photo-l/02/2d/e4/e1/l-entrata-del-teatro.jpg
-Amsterdam	Amsterdamse Bos	Parki	http://media-cdn.tripadvisor.com/media/photo-f/05/11/f1/ea/amsterdamse-bos.jpg
-Amsterdam	Artis Zoo	Zoo	http://media-cdn.tripadvisor.com/media/photo-l/00/12/9f/73/artis-zoo.jpg
-Amsterdam	Body Worlds	Muzea	http://media-cdn.tripadvisor.com/media/photo-l/05/48/d1/09/body-worlds.jpg
-Amsterdam	House of Bols Cocktail & Genever Experience	Placówki edukacyjne	http://media-cdn.tripadvisor.com/media/photo-l/01/42/47/0c/house-of-bols-cocktail.jpg
-Amsterdam	Dziewięć Małych Uliczek	Okolice	Charakterystyczne obiekty/ciekawe miejsca	http://media-cdn.tripadvisor.com/media/photo-l/01/74/91/15/amsterdam-in-orange-the.jpg
-Amsterdam	Plan B Pool Hall	Centra gier/rozrywki	http://media-cdn.tripadvisor.com/media/photo-f/03/a9/aa/36/plan-b-pool-hall.jpg
-Amsterdam	Beginaż	Zwiedzanie miejsc historycznych	Miejsca historyczne	http://media-cdn.tripadvisor.com/media/photo-l/01/35/25/80/inside-begijnhof.jpg
-Amsterdam	Het Scheepvaartmuseum – Narodowe Muzeum Morskie	Muzea specjalistyczne	http://media-cdn.tripadvisor.com/media/photo-l/02/61/42/22/museo-e-nave.jpg
-Amsterdam	Portuguese Synagogue	Miejsca kultu religijnego	Miejsca historyczne	Obiekty architektury	http://media-cdn.tripadvisor.com/media/photo-l/01/2b/76/0d/beautiful-and-quiet.jpg
-Amsterdam	Tropenmuseum (Muzeum Tropików)	Muzea historyczne	http://media-cdn.tripadvisor.com/media/photo-l/01/63/ea/73/entrance-to-museum.jpg
-Amsterdam	Ziggo Dome	Stadiony/boiska	http://c1.tacdn.com/img2/x.gif
-Amsterdam	Museum Het Schip	Muzea	http://media-cdn.tripadvisor.com/media/photo-l/01/f5/bf/c3/het-schip.jpg
-Amsterdam	The Amstel	Charakterystyczne obiekty/ciekawe miejsca	Zbiorniki wodne	http://media-cdn.tripadvisor.com/media/photo-l/01/5e/3a/87/the-amstel.jpg
 Amsterdam	Jewish Amsterdam Tour	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/a2/91/b7/getlstd-property-photo.jpg
 Amsterdam	Amsterdam in World War II Walking Tour	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/d3/98/c6/jewish-philosopher.jpg
 Amsterdam	Joy Ride Tours: Bike Tours in Amsterdam	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/97/99/80/countryside-tour-trail.jpg
@@ -496,45 +191,247 @@ Amsterdam	Segway City Tours Amsterdam	Turystyka miejska (pojazdy segway)	http://
 Amsterdam	Omy Amsterdam Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/05/3f/be/74/omy-amsterdam-tours.jpg
 Amsterdam	Sandemans New Amsterdam Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/ba/a0/3e/canal-walk.jpg
 Amsterdam	History Trips	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-f/02/2a/a8/45/the-commonwealth-war.jpg
-Amsterdam	BestDam Segway Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/27/fa/98/amsterdam-sightseeing.jpg
-Amsterdam	Akasha Wellbeing Center	Spa	http://media-cdn.tripadvisor.com/media/photo-l/02/d8/8e/0e/akasha-wellbeing-center.jpg
-Amsterdam	City Free Tour Amsterdam-Day Walking Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/32/68/5e/getlstd-property-photo.jpg
-Amsterdam	Amsterdam Jewel Cruises	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/f6/a9/f5/a-view-along-the-way.jpg
-Amsterdam	Mike's Bike Tours & Rentals	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/f5/ac/c8/mike-s-bike-tours-rentals.jpg
-Amsterdam	Amsterdam-Velo - Private Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-f/03/b3/c8/08/visitez-amsterdam-a-velo.jpg
-Amsterdam	Amsterdam Photo Safari	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/06/ae/74/getlstd-property-photo.jpg
-Amsterdam	WOW Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/3b/60/fb/national-monument-dam.jpg
-Amsterdam	Amsterdamsel Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/da/28/f8/the-canals.jpg
-Amsterdam	Reypenaer Cheese Tasting Room	Placówki edukacyjne	http://media-cdn.tripadvisor.com/media/photo-l/04/b6/19/9b/reypenaer-cheese-tasting.jpg
-Amsterdam	Holland Personal Tour Guide	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/05/4f/1a/d0/holland-personal-tour.jpg
-Amsterdam	Boaty Rent a Boat Amsterdam	Rejsy	http://media-cdn.tripadvisor.com/media/photo-l/03/87/e7/e9/boaty-bootverhuur.jpg
-Amsterdam	Black Heritage Amsterdam Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/ac/37/92/black-heritage-amsterdam.jpg
-Amsterdam	Tuschinski Theater	Teatry	Kina	http://media-cdn.tripadvisor.com/media/photo-l/01/29/a2/e5/facade.jpg
-Amsterdam	I Cycle Holland	Wycieczki	http://c1.tacdn.com/img2/x.gif
-Amsterdam	Randy Roy's Redlight Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/0c/bb/5a/street-with-red-lit-windows.jpg
 Amsterdam	Proeflokaal Arendsnest	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/02/6d/77/a3/filename-dscn0365-jpg.jpg
-Amsterdam	Bourbon Street	Bary jazzowe	http://media-cdn.tripadvisor.com/media/photo-l/01/72/a6/3e/bourbon-street.jpg
 Amsterdam	Wynand Fockink	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/01/ba/1c/cc/front-of-wf.jpg
+Amsterdam	Bourbon Street	Bary jazzowe	http://media-cdn.tripadvisor.com/media/photo-l/01/72/a6/3e/bourbon-street.jpg
 Amsterdam	Brouwerij 't IJ	Bary/kluby	Browary	http://media-cdn.tripadvisor.com/media/photo-l/03/49/45/60/brouwerij-t-ij.jpg
 Amsterdam	420 Cafe	Kawiarnie	http://media-cdn.tripadvisor.com/media/photo-l/04/06/5c/8d/420-cafe.jpg
 Amsterdam	Melkweg	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/02/68/84/cb/filename-melkweg-jpg.jpg
+Amsterdam	Door74	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/05/36/df/a8/door74.jpg
 Amsterdam	Alto Jazz Cafe	Bary jazzowe	http://media-cdn.tripadvisor.com/media/photo-l/01/34/f1/5b/alto-jazz-cafe.jpg
 Amsterdam	Paradiso	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/01/fa/d5/f9/our-view-of-stage-from.jpg
-Amsterdam	Door74	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/05/36/df/a8/door74.jpg
-Amsterdam	Coffeeshop Hill Street Blues	Kawiarnie	http://media-cdn.tripadvisor.com/media/photo-l/03/40/63/6b/coffeeshop-hill-street.jpg
-Amsterdam	The Pilsener Club	Bary/kluby	http://c1.tacdn.com/img2/x.gif
-Amsterdam	Cafe Hoppe	Obiekty architektury	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-f/01/c6/a5/de/hoppe-noche.jpg
-Amsterdam	De Tweede Kamer Coffeeshop	Kawiarnie	http://media-cdn.tripadvisor.com/media/photo-f/01/c2/21/a9/classic.jpg
-Amsterdam	Cafe Pollux	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/03/f1/f7/a8/cafe-pollux.jpg
-Amsterdam	Cafe Belgique	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/05/4f/fc/34/cafe-belgique.jpg
-Amsterdam	Club Candela	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/03/23/2b/3f/club-candela.jpg
-Amsterdam	Poollokaal De Gracht	Bary/kluby	http://c1.tacdn.com/img2/x.gif
-Amsterdam	Cafe Welling	Kawiarnie	http://media-cdn.tripadvisor.com/media/photo-l/05/b9/db/0f/cafe-welling.jpg
-Amsterdam	't Doktertje	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/02/67/85/ee/t-doktertje-exterior.jpg
-Amsterdam	Bimhuis	Bary jazzowe	http://media-cdn.tripadvisor.com/media/photo-l/01/fa/46/e1/bimhuis-exterior.jpg
-Amsterdam	Coffeeshop Bluebird	Kawiarnie	http://media-cdn.tripadvisor.com/media/photo-l/03/40/08/3d/coffeeshop-bluebird.jpg
-Amsterdam	Mulligans Irish Music Bar	Bary/kluby	http://c1.tacdn.com/img2/x.gif
-Amsterdam	Kadinsky Coffeeshop	Kawiarnie	http://media-cdn.tripadvisor.com/media/photo-l/01/9a/f9/39/kadinsky-coffeeshop.jpg
-Amsterdam	In de Olofspoort	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/03/3d/87/a0/in-de-olofspoort.jpg
-Amsterdam	Int Aepjen	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/02/63/f6/cb/int-aepjen.jpg
-Amsterdam	De Drie Fleschjes	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/02/66/0d/d3/de-drie-fleschjes-exterior.jpg
+Dubaj	Fontanny Dubaju	Fontanny	http://media-cdn.tripadvisor.com/media/photo-l/01/d1/e4/f3/dubai-fountains.jpg
+Dubaj	Dolphin Bay	Inne	http://media-cdn.tripadvisor.com/media/photo-l/03/0e/32/ef/dolphin-bay.jpg
+Dubaj	SMCCU Sheikh Mohammed Centre for Cultural Understanding	Placówki edukacyjne	http://media-cdn.tripadvisor.com/media/photo-l/02/71/5d/74/bastakiya-heritage-tour.jpg
+Dubaj	Metro w Dubaju	Transport	http://media-cdn.tripadvisor.com/media/photo-l/05/2a/f6/25/metro-dubai.jpg
+Dubaj	iFly Dubai	Centra gier/rozrywki	http://media-cdn.tripadvisor.com/media/photo-l/03/97/4a/71/ifly-dubai.jpg
+Dubaj	Burdż Chalifa	Obiekty architektury	http://media-cdn.tripadvisor.com/media/photo-l/03/fe/d2/23/burj-khalifa.jpg
+Dubaj	Wieża Arabów (Burj Al Arab)	Obiekty architektury	http://media-cdn.tripadvisor.com/media/photo-f/04/06/b0/a5/the-tower-of-arabs-burj.jpg
+Dubaj	Dubai Desert Conservation Reserve	Parki narodowe	Parki natury/rezerwaty	http://media-cdn.tripadvisor.com/media/photo-l/01/09/22/64/camels-riding-at-sunset.jpg
+Dubaj	Emirates Towers	Obiekty architektury	http://media-cdn.tripadvisor.com/media/photo-l/01/38/51/a8/emirates-towers.jpg
+Dubaj	Frying Pan Food Adventures	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/43/da/bc/frying-pan-food-adventures.jpg
+Dubaj	Go Fishing Tours	Rejsy	http://media-cdn.tripadvisor.com/media/photo-o/05/1f/77/f6/getlstd-property-photo.jpg
+Dubaj	Platinum Heritage Luxury Tours and Safaris - Private Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-f/03/be/2a/00/platinum-heritage-luxury.jpg
+Dubaj	Dubai Private Tour	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/bb/4b/7d/dubai-private-tour.jpg
+Dubaj	Tour Val - Private Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/ef/b9/9c/tour-val-private-day.jpg
+Dubaj	The Yellow Boats	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/9a/80/93/the-yellow-boats.jpg
+Dubaj	HeliDubai	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/04/b8/25/d2/helidubai.jpg
+Dubaj	Visiter Dubai Private Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/be/93/42/visiter-dubai-private.jpg
+Dubaj	Skyview Bar	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/05/02/4f/30/skyview-bar-burj-al-arab.jpg
+Dubaj	Cavalli Club	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/02/d8/74/7c/cavalli-club.jpg
+Dubaj	360	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/03/52/86/94/360-stylish-rooftop-terrace.jpg
+Dubaj	At.Mosphere	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/04/44/41/44/atmosphere-bar.jpg
+Dubaj	Cirque le Soir	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/03/bb/12/2b/cirque-du-soir-dubai.jpg
+Dubaj	Biggles English Pub	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-f/01/99/30/34/biggles-english-pub.jpg
+Dubaj	Calabar Lounge	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/03/ba/02/55/calabar-lounge.jpg
+Dubaj	Chillout	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/01/5f/17/2b/interior-of-chillout.jpg
+Dubaj	Armani Prive	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-f/05/e6/31/c4/armani-prive.jpg
+Dubaj	Tamanya Terrace	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/05/07/38/b5/tamanya-terrace.jpg
+Wenecja	Isola di Burano	Wyspy	Centra kulturalne	http://media-cdn.tripadvisor.com/media/photo-l/02/22/66/5d/i-canali.jpg
+Wenecja	Grand Canal	Zbiorniki wodne	http://media-cdn.tripadvisor.com/media/photo-l/03/3d/a7/43/grand-canal.jpg
+Wenecja	Musica A Palazzo	Opery	http://media-cdn.tripadvisor.com/media/photo-l/01/9c/ee/92/barber-of-seville-finale.jpg
+Wenecja	Interpreti Veneziani	Przedstawienia	http://media-cdn.tripadvisor.com/media/photo-l/03/fd/d2/7f/interpreti-veneziani.jpg
+Wenecja	Scuola Grande di San Rocco	Charakterystyczne obiekty/ciekawe miejsca	Galerie sztuki	Obiekty architektury	http://media-cdn.tripadvisor.com/media/photo-l/01/e9/4d/71/exterior.jpg
+Wenecja	Teatro La Fenice	Opery	Teatry	http://media-cdn.tripadvisor.com/media/photo-l/03/3d/a5/ad/teatro-la-fenice.jpg
+Wenecja	Palazzo Ducale	Miejsca historyczne	Obiekty architektury	Charakterystyczne obiekty/ciekawe miejsca	Muzea	http://media-cdn.tripadvisor.com/media/photo-l/03/3d/a6/2c/palazzo-ducale.jpg
+Wenecja	St. Mary of the Friars	Kościoły/katedry	http://media-cdn.tripadvisor.com/media/photo-l/00/1c/6f/5e/st-mary-of-the-friars.jpg
+Wenecja	San Giorgio Maggiore	Miejsca historyczne	Miejsca kultu religijnego	Punkty widokowe	Kościoły/katedry	http://media-cdn.tripadvisor.com/media/photo-l/01/7f/83/2e/san-giorgio-maggiore.jpg
+Wenecja	Bazylika św. Marka (Basilica di San Marco)	Miejsca kultu religijnego	Charakterystyczne obiekty/ciekawe miejsca	Miejsca historyczne	Obiekty architektury	Kościoły/katedry	http://media-cdn.tripadvisor.com/media/photo-l/00/18/bd/f9/saint-mark-s-at-dusk.jpg
+Wenecja	San Rocco (Scuola of St. Rocco)	Miejsca historyczne	Miejsca kultu religijnego	Obiekty architektury	http://media-cdn.tripadvisor.com/media/photo-l/01/47/ae/01/san-rocco-scuola-of-st.jpg
+Wenecja	SeeVenice - Venetian Itineraries Private Tours	Zwiedzanie	http://media-cdn.tripadvisor.com/media/photo-l/01/c3/75/11/the-artisan-s-workshop.jpg
+Wenecja	Venice Photo Walk with Marco	Zwiedzanie	http://media-cdn.tripadvisor.com/media/photo-l/04/08/81/36/venice-photo-walk-with.jpg
+Wenecja	Friend in Venice Private Tours	Zwiedzanie	http://media-cdn.tripadvisor.com/media/photo-l/02/70/3e/2f/friend-in-venice.jpg
+Wenecja	DiscoveringVenice - Private and Semi-Private Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/c6/3f/83/walking-tours-in-venice.jpg
+Wenecja	Venice Photo Tours with Arved Gintenreiter Photography	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/6b/17/8f/blue-hour-shooting-venice.jpg
+Wenecja	Tour Leader Venice - Private Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-o/02/2c/ab/8c/tour-leader-venice.jpg
+Wenecja	Row Venice	Rejsy	http://media-cdn.tripadvisor.com/media/photo-l/02/69/2e/7f/filename-venice-italy.jpg
+Wenecja	Venice Urban Adventures	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/04/a8/c6/b8/venice-urban-adventures.jpg
+Wenecja	Acquolina Cooking School	„Zajęcia/Warsztaty”	http://media-cdn.tripadvisor.com/media/photo-f/02/3a/e6/02/home-made-pasta.jpg
+Wenecja	L'altra Venezia	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/63/d1/65/l-altra-venezia.jpg
+Wenecja	A Guide In Venice	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/8d/3b/ef/a-view-of-san-marco-from.jpg
+Las Vegas	McGhie's Private Guided Bicycle Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/f3/aa/6a/tour-guide-amy-leading.jpg
+Las Vegas	Red Rock Canyon Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/06/b5/a0/tom-will-explain-the.jpg
+Las Vegas	Grand Adventures Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/1b/9d/15/beautiful-views-everywhere.jpg
+Las Vegas	Hike This! Private Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/5c/62/55/far-from-the-vegas-strip.jpg
+Las Vegas	Evolution Expedition Kayak Tours - Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/05/a3/c9/60/evolution-expedition.jpg
+Las Vegas	Las Vegas Rock Crawlers	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/05/11/6d/40/las-vegas-rock-crawlers.jpg
+Las Vegas	Scoot City Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-f/02/75/e6/5a/scoot-city-tours.jpg
+Las Vegas	Dean Outdooor Adventures	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/8d/c9/0c/dean-outdooor-adventures.jpg
+Las Vegas	Bindlestiff Tours - Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/02/f6/ae/bindlestiff-tours-day.jpg
+Las Vegas	Bighorn Hummer Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/24/07/73/hummer-for-the-tours.jpg
+Las Vegas	Laughternoon	Kluby kabaretowe	http://media-cdn.tripadvisor.com/media/photo-f/03/7a/be/9a/laughternoon.jpg
+Las Vegas	Peppermill's Fireside Lounge	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/00/18/9d/3c/fireside-lounge-2.jpg
+Las Vegas	Parasol Up Parasol Down at Wynn Las Vegas	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/01/ec/f1/81/gorgeous-parasol-s.jpg
+Las Vegas	Don't Tell Mama	Bary z muzyką na żywo	http://media-cdn.tripadvisor.com/media/photo-l/03/3f/5d/d3/don-t-tell-mama.jpg
+Las Vegas	Freakin' Frog / Whisky Attic	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-f/03/16/d1/71/some-nice-choices.jpg
+Las Vegas	Vinnie Favorito	Kluby kabaretowe	http://media-cdn.tripadvisor.com/media/photo-l/01/7e/4c/a7/completely-f-n-crazy.jpg
+Las Vegas	Casa Fuente	Bary z cygarami	Bary/kluby	http://c1.tacdn.com/img2/x.gif
+Las Vegas	Encore Beach Club	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-f/02/a8/d3/f7/encore-beach-club.jpg
+Las Vegas	The Piano Bar at Harrah's	Bary z muzyką na żywo	http://media-cdn.tripadvisor.com/media/photo-l/01/f7/4c/3b/tj-the-kareoke-host.jpg
+Tallin	Tallinn Old Town	Okolice	http://media-cdn.tripadvisor.com/media/photo-l/04/4a/13/50/tallinn-old-town.jpg
+Tallin	Lennusadam Seaplane Harbour	Muzea	http://media-cdn.tripadvisor.com/media/photo-f/02/ba/4d/df/lennusadam-seaplane-harbour.jpg
+Tallin	Wzgórze Toompea	Charakterystyczne obiekty/ciekawe miejsca	Okolice	Miejsca historyczne	http://media-cdn.tripadvisor.com/media/photo-l/01/e1/36/55/toompea-hill.jpg
+Tallin	Rynek Ratuszowy	Charakterystyczne obiekty/ciekawe miejsca	http://media-cdn.tripadvisor.com/media/photo-l/01/56/3a/aa/the-market-square.jpg
+Tallin	Tondi Shooting Range	Centra gier/rozrywki	http://media-cdn.tripadvisor.com/media/photo-l/03/5a/fd/c4/tondi-shooting-range.jpg
+Tallin	Kościół św. Olafa	Miejsca kultu religijnego	http://media-cdn.tripadvisor.com/media/photo-f/02/2e/b8/26/door-on-top-of-the-tower.jpg
+Tallin	Cerkiew św. Aleksandra Newskiego	Miejsca kultu religijnego	http://media-cdn.tripadvisor.com/media/photo-l/01/0b/36/27/tallinn.jpg
+Tallin	Kadriorg Park	Parki	http://media-cdn.tripadvisor.com/media/photo-l/01/63/8f/26/kadriorg-park.jpg
+Tallin	Ratusz w Tallinnie	Budynki rządowe	Obiekty architektury	http://media-cdn.tripadvisor.com/media/photo-l/01/45/b7/43/tallinn-town-hall.jpg
+Tallin	KGB Museum	Muzea	http://media-cdn.tripadvisor.com/media/photo-l/02/1a/34/df/kgb-museum.jpg
+Tallin	Kumu Art Museum	Muzea sztuk pięknych	Miejsca historyczne	http://media-cdn.tripadvisor.com/media/photo-f/01/61/4a/1e/kumu.jpg
+Monachium	Ogród angielski	Parki	Ogrody	http://media-cdn.tripadvisor.com/media/photo-l/01/12/f0/70/munich.jpg
+Monachium	Asam's Church	Obiekty architektury	Miejsca kultu religijnego	Miejsca historyczne	http://media-cdn.tripadvisor.com/media/photo-l/03/1d/6f/06/concessionario.jpg
+Monachium	Municipal Gallery in Lenbach House	Muzea sztuk pięknych	Miejsca historyczne	http://media-cdn.tripadvisor.com/media/photo-l/01/45/57/82/lenbachhaus.jpg
+Monachium	Alte Pinakothek	Muzea sztuk pięknych	http://media-cdn.tripadvisor.com/media/photo-l/02/1a/46/e7/3.jpg
+Monachium	Plac Mariacki w Monachium	Charakterystyczne obiekty/ciekawe miejsca	http://media-cdn.tripadvisor.com/media/photo-l/00/18/ea/4b/marienplatz-crowd.jpg
+Monachium	Munich Botanical Garden	Ogrody	http://media-cdn.tripadvisor.com/media/photo-l/02/2f/09/9e/one-of-the-greenhouses.jpg
+Monachium	Muzeum BMW	Muzea specjalistyczne	http://media-cdn.tripadvisor.com/media/photo-l/03/43/67/a5/bmw-museum.jpg
+Monachium	Allianz Arena	Stadiony/boiska	http://media-cdn.tripadvisor.com/media/photo-l/01/19/8d/29/outside-view.jpg
+Monachium	Deutsches Museum w Monachium	Muzea nauki	http://media-cdn.tripadvisor.com/media/photo-l/01/f9/a3/60/filename-231-desktop.jpg
+Monachium	Tierpark Hellabrunn	Zoo	http://media-cdn.tripadvisor.com/media/photo-l/01/c5/c4/e9/munchener-tierpark-hellabrunn.jpg
+Monachium	Augustinerkeller	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/01/46/67/af/munich.jpg
+Monachium	Hofbrauhaus Munchen	Bary/kluby	Charakterystyczne obiekty/ciekawe miejsca	http://media-cdn.tripadvisor.com/media/photo-l/01/33/b6/1c/the-hofbrauhaus.jpg
+Monachium	Hirschgarten	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/01/ca/e9/e0/hirschgarten.jpg
+Monachium	Hard Rock Cafe Munich	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-f/02/c4/50/53/restaurant-hard-rock.jpg
+Monachium	Augustinerbrau	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/01/55/93/32/augustinerbrau.jpg
+Monachium	Mandarin Oriental Lounge & Bar	Bary/kluby	http://c1.tacdn.com/img2/x.gif
+Berlin	Berlin Philharmonic	Filharmonie	Obiekty architektury	http://media-cdn.tripadvisor.com/media/photo-l/04/16/0f/a5/berlin-philharmonic.jpg
+Berlin	Muzeum Pergamońskie	Obiekty architektury	Muzea	Muzea historyczne	http://media-cdn.tripadvisor.com/media/photo-l/01/3d/28/df/ishtar-gate.jpg
+Berlin	Bundestag	Obiekty architektury	Budynki rządowe	Charakterystyczne obiekty/ciekawe miejsca	http://media-cdn.tripadvisor.com/media/photo-l/01/e3/2d/15/bundestag.jpg
+Berlin	Gemaeldegalerie	Muzea sztuk pięknych	http://media-cdn.tripadvisor.com/media/photo-l/01/12/37/bd/boticelli.jpg
+Berlin	Treptower Park	Parki	http://media-cdn.tripadvisor.com/media/photo-l/01/ef/fa/a1/treptower-park.jpg
+Berlin	Designpanoptikum	Muzea specjalistyczne	http://media-cdn.tripadvisor.com/media/photo-f/03/1e/7b/de/designpanoptikum.jpg
+Berlin	Museum Island	Charakterystyczne obiekty/ciekawe miejsca	http://media-cdn.tripadvisor.com/media/photo-l/01/54/da/30/berlin-te-adoro.jpg
+Berlin	Niemieckie Muzeum Historyczne	Muzea historyczne	Muzea	http://media-cdn.tripadvisor.com/media/photo-l/00/12/64/0d/original-wing.jpg
+Berlin	Berlin Hohenschoenhausen Memorial	Miejsca historyczne	http://media-cdn.tripadvisor.com/media/photo-l/01/b7/d9/fb/cell-doors.jpg
+Berlin	Potsdam's Gardens	Ogrody	Miejsca historyczne	http://media-cdn.tripadvisor.com/media/photo-l/01/51/e6/93/potsdam-s-gardens.jpg
+Berlin	Tiergarten	Ogrody	http://media-cdn.tripadvisor.com/media/photo-l/01/34/43/e4/tiergarten-park.jpg
+Berlin	Fat Tire Bike Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/04/00/4b/bf/getlstd-property-photo.jpg
+Berlin	Original Berlin Walks	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/fe/48/d3/original-berlin-walks.jpg
+Berlin	City Segway Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-f/01/38/21/da/berlin.jpg
+Berlin	Insider Tour Berlin	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/f4/47/5c/berlin-wall-at-bernauer.jpg
+Berlin	SANDEMANs Free Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/55/cb/ce/new-berlin-tours.jpg
+Berlin	Vive Berlin Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/bb/43/6f/berliner-dom-essential.jpg
+Berlin	Berlin Bike Tour	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/22/a8/b5/10-9-2011-unser-guide.jpg
+Berlin	The Berlin Experts- Private Walking Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-o/01/81/0c/79/the-berlin-experts.jpg
+Berlin	Alternative Berlin Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/04/33/e3/d4/alternative-berlin-tours.jpg
+Berlin	Brewer's Berlin Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/d5/48/98/favourite-thing-of-the.jpg
+Berlin	Cultourberlin	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/54/19/bf/cultourberlin.jpg
+Berlin	Cafe Wintergarten in Literaturhaus Berlin	Kawiarnie	Sklepy specjalistyczne	http://media-cdn.tripadvisor.com/media/photo-l/01/8b/1c/9e/the-outdoor-cafe-and.jpg
+Berlin	Dr. Pong	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/03/e3/9c/17/dr-pong.jpg
+Berlin	Tresor	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/01/42/30/a7/tresor.jpg
+Berlin	Prenzlauer Berg	Okolice	http://media-cdn.tripadvisor.com/media/photo-l/01/41/db/47/prenzlauer-berg-wasserturm.jpg
+Berlin	Clarchen's Ballhaus	Kluby taneczne/dyskoteki	http://media-cdn.tripadvisor.com/media/photo-l/01/20/f1/5e/lunch-in-the-garden-balhaus.jpg
+Berlin	SchwuZ	Bary/kluby	http://c1.tacdn.com/img2/x.gif
+Berlin	KitKat Klub	Bary/kluby	http://c1.tacdn.com/img2/x.gif
+Berlin	The Badeschiff	Charakterystyczne obiekty/ciekawe miejsca	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/01/34/43/ee/badeschiff.jpg
+Berlin	Cafe Einstein	Kawiarnie	http://media-cdn.tripadvisor.com/media/photo-l/01/b2/77/df/esterno-del-caffe.jpg
+Szanghaj	Bund (Szanghaj)	Zwiedzanie miejsc historycznych	Charakterystyczne obiekty/ciekawe miejsca	http://media-cdn.tripadvisor.com/media/photo-l/01/fa/a0/37/the-bund-wai-tan.jpg
+Szanghaj	Shanghai Circus World	Parki rozrywki/parki tematyczne	http://media-cdn.tripadvisor.com/media/photo-l/01/58/78/db/outside.jpg
+Szanghaj	ERA Acrobats	Teatry	Starożytne ruiny	http://media-cdn.tripadvisor.com/media/daodao/photo-l/04/81/c5/27/caption.jpg
+Szanghaj	Shanghai World Financial Center	Platformy/wieże obserwacyjne	Centra handlowe	http://media-cdn.tripadvisor.com/media/photo-l/04/02/f7/4a/de-tower.jpg
+Szanghaj	Muzeum Szanghajskie	Muzea historyczne	Muzea sztuk pięknych	Muzea	http://media-cdn.tripadvisor.com/media/photo-l/01/25/90/b9/caption.jpg
+Szanghaj	Nadrzeczna Promenada	Parki	http://media-cdn.tripadvisor.com/media/photo-l/01/78/28/2b/caption.jpg
+Szanghaj	Tours of Jewish Shanghai	Zwiedzanie miejsc historycznych	http://media-cdn.tripadvisor.com/media/photo-l/05/e4/6d/27/menorah-over-the-bund.jpg
+Szanghaj	Shanghai Jewish Refugees Museum	Muzea	http://media-cdn.tripadvisor.com/media/photo-l/02/2b/a1/3f/exterior-of-ohel-moshe.jpg
+Szanghaj	Shanghai Hongqiao Railway Station	Publiczne środki transportu	http://media-cdn.tripadvisor.com/media/daodao/photo-l/01/ce/10/d5/b.jpg
+Szanghaj	Shanghai Propaganda Poster Art Centre	Galerie sztuki	http://media-cdn.tripadvisor.com/media/photo-l/03/13/61/77/shanghai-propaganda-poster.jpg
+Praga	Old Town (Stare Mesto)	Okolice	Charakterystyczne obiekty/ciekawe miejsca	http://media-cdn.tripadvisor.com/media/photo-l/03/1e/e7/89/old-town-stare-mesto.jpg
+Praga	Staromiejski Rynek	Charakterystyczne obiekty/ciekawe miejsca	Miejsca historyczne	http://media-cdn.tripadvisor.com/media/photo-l/02/fe/c7/25/old-town-square-staromestske.jpg
+Praga	Katedra św. Wita	Miejsca kultu religijnego	Obiekty architektury	http://media-cdn.tripadvisor.com/media/photo-l/01/c1/f1/56/vista-esterna.jpg
+Praga	Prague Zoo (Zoo Praha)	Zoo	http://media-cdn.tripadvisor.com/media/photo-l/01/19/68/82/trenino.jpg
+Praga	Lesser Quarter (Mala Strana)	Okolice	http://media-cdn.tripadvisor.com/media/photo-f/01/50/ed/33/mala-strana.jpg
+Praga	St Cyril and St Methodius Cathedral	Kościoły/katedry	http://media-cdn.tripadvisor.com/media/photo-l/02/1e/7b/0f/interior-of-crypt.jpg
+Praga	Wyszehrad	Miejsca historyczne	Punkty widokowe	http://media-cdn.tripadvisor.com/media/photo-l/01/c2/7a/2f/gothic-stlye-entrance.jpg
+Praga	Pałac Lobkowicza	Muzea sztuk pięknych	http://media-cdn.tripadvisor.com/media/photo-l/02/66/59/e1/filename-dscn-lobkowicz.jpg
+Praga	Prague On Segway	Turystyka miejska (pojazdy segway)	http://media-cdn.tripadvisor.com/media/photo-f/02/57/d4/01/prague-on-segway.jpg
+Praga	Taste Of Prague	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/48/92/c7/taste-of-prague.jpg
+Praga	Ebike Prague Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/04/70/ed/53/ebike-prague-tours.jpg
+Praga	Sandemans New Prague Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/f1/ae/0f/sandemans-new-prague.jpg
+Praga	Segway Experience Tours & Rents	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/e4/f7/48/segway-to-the-castle.jpg
+Praga	Personal Prague Guide - Private Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/c2/78/c6/renaissance-buildings.jpg
+Praga	Prague Airport Transfers Day Tours	Zwiedzanie	http://media-cdn.tripadvisor.com/media/photo-l/02/a1/58/a9/filename-37-jpg-thumbnail0.jpg
+Praga	I Like EBike - Electric Bike Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/c5/5a/91/i-like-ebike-electric.jpg
+Praga	Caput Regni Private Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/04/cc/90/14/caput-regni-private-tours.jpg
+Praga	The Naked Tour Guide	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-f/03/f4/c0/be/the-naked-tour-guide.jpg
+Praga	Biko Adventures Prague - Mountain Bike & Outdoor Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/3e/33/e5/real-mountain-bike-tours.jpg
+Ateny	Muzeum Akropolu Ateńskiego	Muzea specjalistyczne	Muzea	Muzea historyczne	http://media-cdn.tripadvisor.com/media/photo-l/03/28/4f/ec/the-acropolis-museum.jpg
+Ateny	Hefajstejon	Miejsca kultu religijnego	http://media-cdn.tripadvisor.com/media/photo-l/01/41/96/7b/the-temple-of-hephaistos.jpg
+Ateny	Erechtheion	Pomniki	Starożytne ruiny	http://media-cdn.tripadvisor.com/media/photo-l/02/2c/70/59/caryatides.jpg
+Ateny	Akropolis	Miejsca historyczne	Charakterystyczne obiekty/ciekawe miejsca	Starożytne ruiny	http://media-cdn.tripadvisor.com/media/photo-l/02/ee/0c/90/acropolis-akropolis.jpg
+Ateny	Partenon (Parthenonas)	Miejsca historyczne	Charakterystyczne obiekty/ciekawe miejsca	Obiekty architektury	Starożytne ruiny	http://media-cdn.tripadvisor.com/media/photo-l/01/36/15/7c/parthenon-parthenonas.jpg
+Ateny	Hephaistion	Miejsca kultu religijnego	Miejsca historyczne	http://media-cdn.tripadvisor.com/media/photo-l/00/13/3c/4d/hephaistion.jpg
+Ateny	Museum Sztuki Cykladzkiej	Muzea sztuk pięknych	http://media-cdn.tripadvisor.com/media/photo-l/02/8b/64/b7/neofytou-douka-4-building.jpg
+Ateny	Narodowe Muzeum Archeologiczne	Muzea historyczne	Muzea sztuk pięknych	http://media-cdn.tripadvisor.com/media/photo-l/03/8b/ec/3a/national-archaeological.jpg
+Ateny	Byzantine Museum (Vizantino Museo)	Muzea sztuk pięknych	http://media-cdn.tripadvisor.com/media/photo-l/01/3c/a1/15/ahhh-yay.jpg
+Ateny	Odeum of Herodes Atticus (Odeion / Irodion)	Teatry	Miejsca historyczne	http://media-cdn.tripadvisor.com/media/photo-l/00/12/b0/26/odeum-of-herodes-atticus.jpg
+Ateny	George's Taxi - Private Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/04/c0/ee/4d/george-s-taxi-private.jpg
+Ateny	Private Greece Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/04/b6/66/01/private-greece-tours.jpg
+Ateny	Athens Limo Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/04/d1/d5/fa/athens-limo-private-day.jpg
+Ateny	Greek Taxi - Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/05/79/39/f2/greek-taxi-tours.jpg
+Ateny	Vassilios Athens Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/04/4f/7b/3d/vassilios-athens-day.jpg
+Ateny	Greece Private Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/66/c7/3a/evzones-in-athens.jpg
+Ateny	Athens Free Walking Tour	Zwiedzanie	http://media-cdn.tripadvisor.com/media/photo-f/03/46/10/ac/athens-free-walking-tour.jpg
+Ateny	Spiros Taxi Service - Private Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/2a/1c/9a/temple-of-poseidon.jpg
+Ateny	athensbybike.com	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/87/5a/6e/acropolis.jpg
+Ateny	Athens Walks Tour Company - Private Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-f/04/43/2e/54/athens-walks-tour-company.jpg
+Bangkok	The Escape Hunt Experience Bangkok	Parki rozrywki/parki tematyczne	http://media-cdn.tripadvisor.com/media/photo-l/04/4f/5f/e1/escape-hunt.jpg
+Bangkok	Świątynia Świtu (Wat Arun)	Miejsca kultu religijnego	http://media-cdn.tripadvisor.com/media/photo-l/01/40/36/3a/bangkok-wat-arun-temple.jpg
+Bangkok	Świątynia Leżącego Buddy	Miejsca kultu religijnego	http://media-cdn.tripadvisor.com/media/photo-l/03/b9/a7/ff/temple-of-the-reclining.jpg
+Bangkok	Paragon Cineplex	Kina	http://media-cdn.tripadvisor.com/media/photo-l/01/e8/63/8d/paragon-cineplex.jpg
+Bangkok	Metropolitan Rapid Transit (MRT) Subway	Transport	http://media-cdn.tripadvisor.com/media/photo-l/02/68/df/d6/filename-120312-10-jpg.jpg
+Bangkok	Świątynia Szmaragdowego Buddy (Wat Phra Kaew)	Miejsca kultu religijnego	http://media-cdn.tripadvisor.com/media/photo-l/01/31/42/5e/bangkok.jpg
+Bangkok	Wielki Pałac Królewski	Zamki	http://media-cdn.tripadvisor.com/media/photo-l/03/e8/46/2d/caption.jpg
+Bangkok	Siam Niramit	Teatry	http://media-cdn.tripadvisor.com/media/photo-l/03/94/3a/87/siam-niramit.jpg
+Bangkok	Museum of Contemporary Art (MOCA)	Muzea sztuk pięknych	http://media-cdn.tripadvisor.com/media/photo-l/03/7a/37/c5/museum-of-contemporary.jpg
+Bangkok	Airport Rail Link	Transport	http://media-cdn.tripadvisor.com/media/photo-l/02/79/08/7e/filename-15-jpg-thumbnail0.jpg
+Bangkok	Świątynia Złotego Buddy (Wat Traimit)	Miejsca kultu religijnego	http://media-cdn.tripadvisor.com/media/photo-f/01/f0/85/44/entrance-to-temple-statue.jpg
+Bangkok	Tour with Tong	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/01/64/1e/d6/floating-market.jpg
+Bangkok	Chef LeeZ Thai Cooking School BKK	„Zajęcia/Warsztaty”	http://media-cdn.tripadvisor.com/media/photo-l/03/1b/44/0b/chef-leez-thai-cooking.jpg
+Bangkok	Thai Private Tour Guide	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/9b/cd/01/filename-img-2473-jpg.jpg
+Bangkok	Cooking with Poo (by Helping Hands)	„Zajęcia/Warsztaty”	http://media-cdn.tripadvisor.com/media/photo-l/04/b4/7b/b6/cooking-with-poo-by-helping.jpg
+Bangkok	BKK Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-f/02/59/e9/59/sunset-at-wat-arun.jpg
+Bangkok	Green-Mango Bangkok Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/97/e2/95/filename-green-mango.jpg
+Bangkok	Sompong Thai Cooking School	„Zajęcia/Warsztaty”	http://media-cdn.tripadvisor.com/media/photo-l/02/6d/4b/21/somphong-thai-cooking.jpg
+Bangkok	Grasshopper Adventures-Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-f/01/57/25/5d/bangkok.jpg
+Bangkok	Private Tour Services in Bangkok by Your Thai Guide	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/20/00/a9/caves-with-davin-and.jpg
+Bangkok	Baipai Thai Cooking School	„Zajęcia/Warsztaty”	http://media-cdn.tripadvisor.com/media/photo-l/03/fe/91/e4/baipai-thai-cooking-school.jpg
+Bangkok	Check Inn 99	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/02/b4/56/e1/check-inn-99.jpg
+Bangkok	Moon Bar Bangkok	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/01/f7/a7/85/the-view.jpg
+Bangkok	Adhere the 13th	Bary bluesowe	http://c1.tacdn.com/img2/x.gif
+Bangkok	Saxophone Pub	Bary jazzowe	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/03/ba/cd/42/saxophone-pub.jpg
+Bangkok	The Pickled Liver	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-f/03/bc/84/c4/the-pickled-liver.jpg
+Bangkok	Route66 Club	Bary/kluby	http://media-cdn.tripadvisor.com/media/photo-l/03/61/3b/24/route66-club.jpg
+Bangkok	The Bamboo Bar at Mandarin Oriental, Bangkok	Bary jazzowe	http://media-cdn.tripadvisor.com/media/photo-l/03/df/d2/cb/the-bamboo-bar.jpg
+Kair	Al-Tannoura Egyptian Heritage Dance Troupe	Przedstawienia	http://media-cdn.tripadvisor.com/media/photo-l/04/39/2a/76/al-tannoura-egyptian.jpg
+Kair	Płaskowyż Gizy	Starożytne ruiny	Muzea	http://media-cdn.tripadvisor.com/media/photo-l/01/2a/bc/56/the-three-major-pyramids.jpg
+Kair	Piramida Cheopsa	Starożytne ruiny	http://media-cdn.tripadvisor.com/media/photo-l/01/2a/c5/b9/the-great-pyramid-is.jpg
+Kair	Dahshur	Starożytne ruiny	http://media-cdn.tripadvisor.com/media/photo-l/01/0e/fa/ed/bent-pyramid.jpg
+Kair	Piramidy w Sakkarze	Starożytne ruiny	Miejsca historyczne	http://media-cdn.tripadvisor.com/media/photo-l/00/1a/48/39/saqqara-sakkara.jpg
+Kair	Muzeum Egipskie w Kairze	Muzea historyczne	Muzea sztuk pięknych	Muzea	Muzea specjalistyczne	http://media-cdn.tripadvisor.com/media/photo-l/01/19/2a/6d/the-egyptian-museum.jpg
+Kair	Meczet Mohamed Ali	Miejsca kultu religijnego	Miejsca historyczne	http://media-cdn.tripadvisor.com/media/photo-l/00/13/e3/3c/mohamed-ali-mosque-citadel.jpg
+Kair	Step Pyramid of Djoser	Starożytne ruiny	Charakterystyczne obiekty/ciekawe miejsca	Obiekty architektury	http://media-cdn.tripadvisor.com/media/photo-l/01/29/a5/f0/a-nice-view-of-the-pyramid.jpg
+Kair	Park Al-Azhar	Parki	http://media-cdn.tripadvisor.com/media/photo-l/02/2d/5a/22/fountain.jpg
+Kair	Kefre, the second pyramid	Starożytne ruiny	http://media-cdn.tripadvisor.com/media/photo-l/01/2a/c5/5f/the-pyramid-of-khafre.jpg
+Kair	Muzeum Słonecznej Łodzi	Muzea	http://media-cdn.tripadvisor.com/media/photo-l/01/4f/cb/7d/la-barca-solare-di-khufu.jpg
+Kair	Your Egypt Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-f/01/ef/90/e6/luxor.jpg
+Kair	Egypt Tailor Made Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/81/54/0a/rabbit-in-the-white-desert.jpg
+Kair	Emo Private Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/81/3f/46/sphinx-at-giza-pyramids.jpg
+Kair	Egypt Last Minute Private Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/b2/2a/63/getlstd-property-photo.jpg
+Kair	A1 Egypt Private Day Tours by Haisam	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/47/29/12/the-great-pyramid.jpg
+Kair	Memphis Tours Egypt	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/b8/97/e1/memphis-tours-egypt.jpg
+Kair	Ayman Ahmed Private - Tour Guide -	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/57/9f/67/ayman-ahmed-private-tour.jpg
+Kair	Real Egypt Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/70/1c/8a/samir-abbass.jpg
+Kair	Tour Egypt - Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/3b/9b/03/tour-egypt.jpg
+Kair	Egypt Day Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/02/dc/52/86/egypt-day-tours.jpg
+Kair	Ramasside Private Tours	Wycieczki	http://media-cdn.tripadvisor.com/media/photo-l/03/be/8b/22/ramasside-private-tours.jpg
+Oslo	Oslo Opera House	Teatry	Opery	http://media-cdn.tripadvisor.com/media/photo-l/01/f4/f0/ad/caption.jpg
+Oslo	Park Vigelanda	Parki	http://media-cdn.tripadvisor.com/media/photo-l/03/0f/b6/3a/vigeland-park.jpg
+Oslo	Frogner Park	Parki	http://media-cdn.tripadvisor.com/media/photo-l/01/7e/1a/f8/view-towards-gate-of.jpg
+Oslo	Muzeum Ekspedycji Polarnych Fram	Muzea specjalistyczne	Okręty	http://media-cdn.tripadvisor.com/media/photo-l/03/5d/9d/19/fram-polar-ship-museum.jpg
+Oslo	Nordmarka	Parki natury/rezerwaty	Trasy narciarstwa biegowego	Szlaki górskie	Lasy	http://media-cdn.tripadvisor.com/media/photo-l/01/0b/cf/e7/signposts-in-nordmarka.jpg
+Oslo	Bygdoy Peninsula	Zbiorniki wodne	http://media-cdn.tripadvisor.com/media/photo-l/02/99/71/ce/filename-15-giugno-oslo.jpg
+Oslo	The Bergen Railway	Przejażdżki widokowe	http://media-cdn.tripadvisor.com/media/photo-l/03/ac/98/8a/the-bergen-railway.jpg
+Oslo	Muzeum Narciarstwa i Wieża Skoczni w Holmenkollen	Charakterystyczne obiekty/ciekawe miejsca	Platformy/wieże obserwacyjne	Punkty widokowe	Kompleksy sportowe	Muzea specjalistyczne	http://media-cdn.tripadvisor.com/media/photo-l/00/13/75/23/holmenkollen-ski-jump.jpg
+Oslo	Norweskie Muzeum Ludowe	Muzea sztuk pięknych	Miejsca historyczne	Muzea specjalistyczne	Muzea historii naturalnej	http://media-cdn.tripadvisor.com/media/photo-f/01/03/70/fa/stavechurch-from-gol.jpg
+Oslo	Korketrekkeren	Stoki narciarskie/snowboardowe	http://c1.tacdn.com/img2/x.gif
