@@ -1,0 +1,7 @@
+D:\doradca\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\jqchart\samples\sample_razor\bin\sample_razor.dll
+D:\doradca\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\jqchart\samples\sample_razor\bin\sample_razor.pdb
+D:\doradca\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\jqchart\samples\sample_razor\bin\JQChart.Web.Mvc.dll
+D:\doradca\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\jqchart\samples\sample_razor\bin\JQChart.Web.Mvc.xml
+D:\doradca\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\jqchart\samples\sample_razor\obj\Debug\sample_razor.csprojResolveAssemblyReference.cache
+D:\doradca\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\jqchart\samples\sample_razor\obj\Debug\sample_razor.dll
+D:\doradca\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\jqchart\samples\sample_razor\obj\Debug\sample_razor.pdb
