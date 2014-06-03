@@ -190,8 +190,17 @@ namespace DoradcaWyjazdowWypoczynkowych.Controllers
                 return 2;
             else if (line.StartsWith("Opis wycieczki:"))
                 return 3;
+            else if (line.StartsWith("Ocena wycieczki:"))
+            {
+                var oceny = line.Split(',');
+
+                oferta.Komfort = Int32.Parse(oceny[0]);
+                oferta.Zwiedzanie = Int32.Parse(oceny[1]);
+                oferta.Aktywnosc = Int32.Parse(oceny[2]);
+                oferta.Imprezowosc = Int32.Parse(oceny[3]);
+                oferta.BliskoNatury = Int32.Parse(oceny[4]);
+            }
             return 1;
         }
-
     }
 }

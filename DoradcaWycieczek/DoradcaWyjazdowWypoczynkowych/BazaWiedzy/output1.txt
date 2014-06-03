@@ -2,6 +2,7 @@ WYSZUKIWANIE: REJS
 ________________________________________
 
 Nazwa: Biegun Polnocny
+Ocena wycieczki: 6,4,2,9,3
 Kod: 07-94761-2C44
 Transport: samolot
 Cena:84139.0
@@ -38,6 +39,7 @@ Rejs odbywa się doskonałym atomowym lodołamaczem, który jest w stanie pokony
 ________________________________________
 
 Nazwa: Skarby Nilu 5*/4* 8 Dni - Lato
+Ocena wycieczki: 2,7,5,2,7
 Kod: 43-105969-2C44
 Transport: samolot
 Cena:1558.0
@@ -50,6 +52,7 @@ Trasa wycieczki - POLSKA - HURGHADA - LUXOR - KARNAK - DOLINA KR&Oacute;L&Oacute
 ________________________________________
 
 Nazwa: Karaiby Rejs (+wypoczynek W Miami)
+Ocena wycieczki: 5,3,1,6,6
 Kod: 97-95006-2C44
 Transport: samolot
 Cena:10990.0
@@ -60,6 +63,7 @@ Pobieranie szczegółów oferty nieudane
 ________________________________________
 
 Nazwa: Emiraty Arabskie (+ Rejs W Omanie)
+Ocena wycieczki: 6,8,3,5,2
 Kod: 97-93201-2C44
 Transport: samolot
 Cena:6930.0
@@ -126,6 +130,7 @@ Terminy:04.10 - 11.10.2014, 6650.00 PLN08.11 - 15.11.2014, 6650.00 PLN22.11 - 29
 ________________________________________
 
 Nazwa: Markizy I Polinezja Francuska Rejs
+Ocena wycieczki: 4,1,2,9,5
 Kod: 97-104253-2C44
 Transport: samolot
 Cena:16200.0
@@ -136,6 +141,7 @@ Pobieranie szczegółów oferty nieudane
 ________________________________________
 
 Nazwa: Chiny Tybet (+ Rejs Po Rzece Jangcy)
+Ocena wycieczki: 7,4,4,7,3
 Kod: 97-97266-2C44
 Transport: samolot
 Cena:13770.0
@@ -195,6 +201,7 @@ Terminy:04.06 - 23.06.2014, 13500.00 PLN30.08 - 18.09.2014, 14000.00 PLN17.09 - 
 ________________________________________
 
 Nazwa: Morze Srodziemne Rejs (stambuł Dubrownik)
+Ocena wycieczki: 7,3,3,8,2
 Kod: 97-100966-2C44
 Transport: samolot
 Cena:8300.0
@@ -261,6 +268,7 @@ Terminy:17.06 - 25.06.2014, 8300.00 PLN
 ________________________________________
 
 Nazwa: Brazylia Kolumbia Peru (+ Rejs Po Amazonce)
+Ocena wycieczki: 6,5,4,4,8
 Kod: 97-99441-2C44
 Transport: samolot
 Cena:20500.0
@@ -345,6 +353,7 @@ Terminy:18.09 - 01.10.2014, 20500.00 PLN
 ________________________________________
 
 Nazwa: Msc Sinfonia / Szmaragdowe Wybrzeze
+Ocena wycieczki: 5,5,3,8,4
 Kod: 83-87370-2C44
 Transport: własny
 Cena:3348.0
@@ -376,6 +385,7 @@ W cenie
 ________________________________________
 
 Nazwa: Msc Sinfonia / Kanaryjska Przygoda
+Ocena wycieczki: 6,3,2,8,5
 Kod: 83-104682-2C44
 Transport: własny
 Cena:3797.0
