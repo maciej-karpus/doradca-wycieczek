@@ -30,6 +30,9 @@ namespace DoradcaWyjazdowWypoczynkowych.Controllers
                //TOP7 kategorii dla danego użytkownika
                var categoriesTop = metricList.Take(7);
                ViewData["top_categories"] = new List<KeyValuePair<Kategoria, double>>(categoriesTop);
+               ViewData["cat1"] = categoriesTop.ElementAt(0).Key.KategoriaNazwa;
+               ViewData["cat2"] = categoriesTop.ElementAt(1).Key.KategoriaNazwa;
+               ViewData["cat3"] = categoriesTop.ElementAt(2).Key.KategoriaNazwa;
 
                var attractionCategoryRelations = db.AtrakcjaKategoria.ToList();
                var distinctLocalisations = db.Atrakcja.Select(q => q.Lokalizacja).Distinct().ToList();
@@ -52,13 +55,14 @@ namespace DoradcaWyjazdowWypoczynkowych.Controllers
                          topCategoryAttractionsInLocalisations[localisation].Add(attraction.Atrakcja);
                     }
                }
+
                var topRecommendations = topCategoryAttractionsInLocalisations.ToList();
                topRecommendations.Sort((x, y) => y.Value.Count().CompareTo(x.Value.Count()));
                topRecommendations.Take(7);
                ViewData["top_recommendations"] = new List<KeyValuePair<string, List<Atrakcja>>>(topRecommendations.Take(7));
-               return View(ChartData.GetData(userMetric, new MetrykaKategorii(metricList.ElementAt(0).Key),
-                                                        new MetrykaKategorii(metricList.ElementAt(1).Key),
-                                                        new MetrykaKategorii(metricList.ElementAt(2).Key)));
+               return View(ChartData.GetData(userMetric, new MetrykaKategorii(categoriesTop.ElementAt(0).Key),
+                                                        new MetrykaKategorii(categoriesTop.ElementAt(1).Key),
+                                                        new MetrykaKategorii(categoriesTop.ElementAt(2).Key)));
           }
 
           private List<KeyValuePair<Kategoria, double>> getUserToCategoryMetric(MetrykaKategorii userMetric)

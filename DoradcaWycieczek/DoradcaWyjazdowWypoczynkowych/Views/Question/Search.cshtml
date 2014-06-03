@@ -9,18 +9,17 @@
 <h2>Search</h2>
 Twoje rekomendacje to:
 <table>
-@foreach (KeyValuePair<Atrakcja, double> recommendation in @ViewData["top_recommendations"] as Dictionary<Atrakcja, double>)
+@foreach (var recommendation in @ViewData["top_recommendations"] as List<KeyValuePair<string, List<Atrakcja>>>)
 {
      <tr>
           <td>
-               @recommendation.Key.AtrakcjaNazwa
+               @recommendation.Key
           </td>
-          <td>
-               @recommendation.Key.Lokalizacja
-          </td>
-          <td>
-               @recommendation.Value
-          </td>
+         @foreach (var attr in recommendation.Value)
+         { 
+             <td>@attr.AtrakcjaNazwa</td>
+         
+         }
      </tr>
 }
 </table>
@@ -67,17 +66,17 @@ Twoje rekomendacje to:
                                           .YValues(el => el.Value1)
                                           .FillStyle("rgba(180,180,180,0.75)");
 
-                        series.RadarArea().Title("Oferta nr1")
+                        series.RadarArea().Title(@ViewData["cat1"] as String)
                                           .XValues(el => el.Label)
                                           .YValues(el => el.Value2)
                                           .FillStyle("rgba(180,65,65,0.66)");
-                        
-                        series.RadarArea().Title("Oferta nr2")
+
+                        series.RadarArea().Title(@ViewData["cat2"] as String)
                                           .XValues(el => el.Label)
                                           .YValues(el => el.Value3)
                                           .FillStyle("rgba(65,65,180,0.66)");
-                        
-                        series.RadarArea().Title("Oferta nr3")
+
+                        series.RadarArea().Title(@ViewData["cat3"] as String)
                                           .XValues(el => el.Label)
                                           .YValues(el => el.Value4)
                                           .FillStyle("rgba(65,180,65,0.66)");
