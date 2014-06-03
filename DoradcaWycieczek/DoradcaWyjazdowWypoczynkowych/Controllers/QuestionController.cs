@@ -53,7 +53,7 @@ namespace DoradcaWyjazdowWypoczynkowych.Controllers
                     }
                }
                var topRecommendations = topCategoryAttractionsInLocalisations.ToList();
-               topRecommendations.Sort((x, y) => y.Value.Count().CompareTo(x.Value.Count()));
+               topRecommendations.OrderBy(x => x.Value.Count());
                topRecommendations.Take(7);
                ViewData["top_recommendations"] = new List<KeyValuePair<string, List<Atrakcja>>>(topRecommendations.Take(7));
                return View();
