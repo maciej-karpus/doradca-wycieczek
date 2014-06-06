@@ -6,6 +6,10 @@
 @{
     Layout = null;
 }
+section Styles {
+    <link href="@Url.Content("~/Content/style.css")" rel="stylesheet" type="text/css" />
+}
+
 <h2>Search</h2>
 Twoje rekomendacje to:
 <table style="border:1px solid black">
@@ -17,7 +21,8 @@ Twoje rekomendacje to:
           </td>
          @foreach (var attr in recommendation.Value)
          { 
-             <td style="border:1px solid black">@attr.AtrakcjaNazwa</td>
+             <td id="abcd" style="border:1px solid black">@attr.AtrakcjaNazwa</td>
+              <td> <img src="@attr."</td>
          
          }
      </tr>
