@@ -8,7 +8,7 @@
 }
 <h2>Search</h2>
 Twoje rekomendacje to:
-<table>
+<table style="border:1px solid black">
 @foreach (var recommendation in @ViewData["top_recommendations"] as List<KeyValuePair<string, List<Atrakcja>>>)
 {
      <tr>
@@ -17,7 +17,7 @@ Twoje rekomendacje to:
           </td>
          @foreach (var attr in recommendation.Value)
          { 
-             <td>@attr.AtrakcjaNazwa</td>
+             <td style="border:1px solid black">@attr.AtrakcjaNazwa</td>
          
          }
      </tr>
@@ -69,17 +69,37 @@ Twoje rekomendacje to:
                         series.RadarArea().Title(@ViewData["cat1"] as String)
                                           .XValues(el => el.Label)
                                           .YValues(el => el.Value2)
-                                          .FillStyle("rgba(180,65,65,0.66)");
+                                          .FillStyle("rgba(180,65,65,0.50)");
 
                         series.RadarArea().Title(@ViewData["cat2"] as String)
                                           .XValues(el => el.Label)
                                           .YValues(el => el.Value3)
-                                          .FillStyle("rgba(65,65,180,0.66)");
+                                          .FillStyle("rgba(65,65,180,0.50)");
 
                         series.RadarArea().Title(@ViewData["cat3"] as String)
                                           .XValues(el => el.Label)
                                           .YValues(el => el.Value4)
-                                          .FillStyle("rgba(65,180,65,0.66)");
+                                          .FillStyle("rgba(65,180,65,0.50)");
+                        
+                        series.RadarArea().Title(@ViewData["cat4"] as String)
+                                          .XValues(el => el.Label)
+                                          .YValues(el => el.Value5)
+                                          .FillStyle("rgba(50,50,240,0.50)");
+                        
+                        series.RadarArea().Title(@ViewData["cat5"] as String)
+                                          .XValues(el => el.Label)
+                                          .YValues(el => el.Value6)
+                                          .FillStyle("rgba(50,240,50,0.50)");
+                        
+                        series.RadarArea().Title(@ViewData["cat6"] as String)
+                                          .XValues(el => el.Label)
+                                          .YValues(el => el.Value7)
+                                          .FillStyle("rgba(240,50,50,0.50)");
+                        
+                        series.RadarArea().Title(@ViewData["cat7"] as String)
+                                          .XValues(el => el.Label)
+                                          .YValues(el => el.Value8)
+                                          .FillStyle("rgba(65,65,65,0.50)");
                     }
                 )
                 .Render() 

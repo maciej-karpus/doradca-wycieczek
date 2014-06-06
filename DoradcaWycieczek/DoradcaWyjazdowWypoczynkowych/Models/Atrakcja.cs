@@ -10,6 +10,7 @@ namespace DoradcaWyjazdowWypoczynkowych.Models
         public int AtrakcjaID { get; set; }
         public string AtrakcjaNazwa { get; set; }
         public string Lokalizacja { get; set; }
+        public string ZdjecieURL { get; set; }
 
         public virtual ICollection<AtrakcjaKategoria> AtrakcjaKategoria { get; set; }
     }
