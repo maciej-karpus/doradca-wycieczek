@@ -33,6 +33,10 @@ namespace DoradcaWyjazdowWypoczynkowych.Controllers
                ViewData["cat1"] = categoriesTop.ElementAt(0).Key.KategoriaNazwa;
                ViewData["cat2"] = categoriesTop.ElementAt(1).Key.KategoriaNazwa;
                ViewData["cat3"] = categoriesTop.ElementAt(2).Key.KategoriaNazwa;
+               ViewData["cat4"] = categoriesTop.ElementAt(3).Key.KategoriaNazwa;
+               ViewData["cat5"] = categoriesTop.ElementAt(4).Key.KategoriaNazwa;
+               ViewData["cat6"] = categoriesTop.ElementAt(5).Key.KategoriaNazwa;
+               ViewData["cat7"] = categoriesTop.ElementAt(6).Key.KategoriaNazwa;
 
                var attractionCategoryRelations = db.AtrakcjaKategoria.ToList();
                var distinctLocalisations = db.Atrakcja.Select(q => q.Lokalizacja).Distinct().ToList();
@@ -63,7 +67,11 @@ namespace DoradcaWyjazdowWypoczynkowych.Controllers
                ViewData["top_recommendations"] = new List<KeyValuePair<string, List<Atrakcja>>>(topRecommendations.Take(7));
                return View(ChartData.GetData(userMetric, new MetrykaKategorii(categoriesTop.ElementAt(0).Key),
                                                         new MetrykaKategorii(categoriesTop.ElementAt(1).Key),
-                                                        new MetrykaKategorii(categoriesTop.ElementAt(2).Key)));
+                                                        new MetrykaKategorii(categoriesTop.ElementAt(2).Key),
+                                                        new MetrykaKategorii(categoriesTop.ElementAt(3).Key),
+                                                        new MetrykaKategorii(categoriesTop.ElementAt(4).Key),
+                                                        new MetrykaKategorii(categoriesTop.ElementAt(5).Key),
+                                                        new MetrykaKategorii(categoriesTop.ElementAt(6).Key)));
           }
 
           private List<KeyValuePair<Kategoria, double>> getUserToCategoryMetric(MetrykaKategorii userMetric)
