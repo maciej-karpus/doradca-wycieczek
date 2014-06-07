@@ -9,6 +9,7 @@ namespace DoradcaWyjazdowWypoczynkowych.Models
     {
         public int OcenaUzytkownikaID { get; set; }
 
+        //wciąż potrzebne? ciężko powiedzieć
         public int GlownaOcena { get; set; }
 
         public int Komfort { get; set; }
@@ -17,6 +18,6 @@ namespace DoradcaWyjazdowWypoczynkowych.Models
         public int Imprezowosc { get; set; }
         public int BliskoNatury { get; set; }
 
-        public virtual OfertaGotowa OfertaGotowa { get; set; }
+        public virtual Kategoria Kategoria { get; set; }
     }
 }
