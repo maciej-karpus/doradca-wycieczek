@@ -1,8 +1,6 @@
 ﻿#abcd {
     text-align: center;
-    color: red;
-}
-#abcde {
-    text-align: center;
-    color: red;
+    color: black;
+    border:1px solid; 
+    width:30px;
 }

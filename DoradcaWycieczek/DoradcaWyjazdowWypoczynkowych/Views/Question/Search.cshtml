@@ -2,32 +2,24 @@
 @model IEnumerable<DoradcaWyjazdowWypoczynkowych.Models.ChartData>
 @{
     ViewBag.Title = "Search";
+    Dictionary<string, string> colors = new Dictionary<string, string>();
+    //Kolor wykresu "użytkownik" na diagramie
+    colors.Add("user", "rgba(180, 180, 180, 0.75)");
+    //Kolory TOP1...7
+    colors.Add((string)@ViewData["cat1"], "rgba(192, 1, 1, 0.50)");
+    colors.Add((string)@ViewData["cat2"], "rgba(65,65,180,0.50)");
+    colors.Add((string)@ViewData["cat3"], "rgba(65,180,65,0.50)");
+    colors.Add((string)@ViewData["cat4"], "rgba(50,50,240,0.50)");
+    colors.Add((string)@ViewData["cat5"], "rgba(50,240,50,0.50)");
+    colors.Add((string)@ViewData["cat6"], "rgba(240,50,50,0.50)");
+    colors.Add((string)@ViewData["cat7"], "rgba(65,65,65,0.50)");
 }
 @{
     Layout = null;
 }
-section Styles {
-    <link href="@Url.Content("~/Content/style.css")" rel="stylesheet" type="text/css" />
-}
 
+<link href="@Url.Content("~/Content/style.css")" rel="stylesheet" type="text/css" />
 <h2>Search</h2>
-Twoje rekomendacje to:
-<table style="border:1px solid black">
-@foreach (var recommendation in @ViewData["top_recommendations"] as List<KeyValuePair<string, List<Atrakcja>>>)
-{
-     <tr>
-          <td>
-               @recommendation.Key
-          </td>
-         @foreach (var attr in recommendation.Value)
-         { 
-             <td id="abcd" style="border:1px solid black">@attr.AtrakcjaNazwa</td>
-              <td> <img src="@attr."</td>
-         
-         }
-     </tr>
-}
-</table>
 
 @using JQChart.Web.Mvc
 <!DOCTYPE html>
@@ -69,46 +61,65 @@ Twoje rekomendacje to:
                         series.RadarArea().Title("Użytkownik")
                                           .XValues(el => el.Label)
                                           .YValues(el => el.Value1)
-                                          .FillStyle("rgba(180,180,180,0.75)");
+                                          .FillStyle(@colors["user"]);
 
                         series.RadarArea().Title(@ViewData["cat1"] as String)
                                           .XValues(el => el.Label)
                                           .YValues(el => el.Value2)
-                                          .FillStyle("rgba(180,65,65,0.50)");
+                                          .FillStyle(@colors[(string) ViewData["cat1"]]);
 
                         series.RadarArea().Title(@ViewData["cat2"] as String)
                                           .XValues(el => el.Label)
                                           .YValues(el => el.Value3)
-                                          .FillStyle("rgba(65,65,180,0.50)");
+                                          .FillStyle(@colors[(string) ViewData["cat2"]]);
 
                         series.RadarArea().Title(@ViewData["cat3"] as String)
                                           .XValues(el => el.Label)
                                           .YValues(el => el.Value4)
-                                          .FillStyle("rgba(65,180,65,0.50)");
+                                          .FillStyle(@colors[(string) ViewData["cat3"]]);
                         
                         series.RadarArea().Title(@ViewData["cat4"] as String)
                                           .XValues(el => el.Label)
                                           .YValues(el => el.Value5)
-                                          .FillStyle("rgba(50,50,240,0.50)");
+                                          .FillStyle(@colors[(string)ViewData["cat4"]]);
                         
                         series.RadarArea().Title(@ViewData["cat5"] as String)
                                           .XValues(el => el.Label)
                                           .YValues(el => el.Value6)
-                                          .FillStyle("rgba(50,240,50,0.50)");
+                                          .FillStyle(@colors[(string)ViewData["cat5"]]);
                         
                         series.RadarArea().Title(@ViewData["cat6"] as String)
                                           .XValues(el => el.Label)
                                           .YValues(el => el.Value7)
-                                          .FillStyle("rgba(240,50,50,0.50)");
+                                          .FillStyle(@colors[(string)ViewData["cat6"]]);
                         
                         series.RadarArea().Title(@ViewData["cat7"] as String)
                                           .XValues(el => el.Label)
                                           .YValues(el => el.Value8)
-                                          .FillStyle("rgba(65,65,65,0.50)");
+                                          .FillStyle(@colors[(string)ViewData["cat7"]]);
                     }
                 )
                 .Render() 
           )
     </div>
+    <div>
+     Twoje rekomendacje to:
+     <table style="border:1px solid black">
+     @foreach (var recommendation in @ViewData["top_recommendations"] as List<KeyValuePair<string, List<KeyValuePair<Atrakcja, string>>>>)
+     {
+          <tr>
+               <td>
+                    @recommendation.Key
+               </td>
+              @foreach (var attr in recommendation.Value)
+              { 
+                  <td id="abcd" style="background-color: @colors[(string)@attr.Value]">@attr.Key.AtrakcjaNazwa</td>
+                   <td> <img src="@attr.Key.ZdjecieURL" /></td>
+         
+              }
+          </tr>
+     }
+     </table>
+     </div>
 </body>
 </html>

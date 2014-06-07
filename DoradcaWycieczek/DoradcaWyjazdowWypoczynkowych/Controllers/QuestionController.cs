@@ -40,12 +40,13 @@ namespace DoradcaWyjazdowWypoczynkowych.Controllers
 
                var attractionCategoryRelations = db.AtrakcjaKategoria.ToList();
                var distinctLocalisations = db.Atrakcja.Select(q => q.Lokalizacja).Distinct().ToList();
-               //Słownik: lokalizacja, liczba wystąpień atrakcji z top kategorii
-               var topCategoryAttractionsInLocalisations = new Dictionary<string,List<Atrakcja>>();
+               //Słownik: lokalizacja, atrakcje z TOP kategorii z przypisanymi kategoriami, na podstawie których zostały wybrane
+               var topCategoryAttractionsInLocalisations = new Dictionary<string,List<KeyValuePair<Atrakcja, string>>>();
                //Inicjalizacja słownika
                foreach (string distinctLocalisation in distinctLocalisations)
                {
-                    topCategoryAttractionsInLocalisations.Add(distinctLocalisation.ToString(), new List<Atrakcja>());
+                    topCategoryAttractionsInLocalisations.Add(distinctLocalisation.ToString(), 
+                         new List<KeyValuePair<Atrakcja, string>>() );
                }
 
                foreach (var category in categoriesTop)
@@ -56,7 +57,8 @@ namespace DoradcaWyjazdowWypoczynkowych.Controllers
                     foreach (var attraction in attractions)
                     {
                          string localisation = attraction.Atrakcja.Lokalizacja.ToString();
-                         topCategoryAttractionsInLocalisations[localisation].Add(attraction.Atrakcja);
+                         topCategoryAttractionsInLocalisations[localisation].Add(
+                              new KeyValuePair<Atrakcja, string>(attraction.Atrakcja, category.Key.KategoriaNazwa));
                     }
                }
 
@@ -64,7 +66,8 @@ namespace DoradcaWyjazdowWypoczynkowych.Controllers
                topRecommendations.Sort((x, y) => x.Value.Count().CompareTo(y.Value.Count()));
                topRecommendations.Reverse();
                //topRecommendations.Take(7);
-               ViewData["top_recommendations"] = new List<KeyValuePair<string, List<Atrakcja>>>(topRecommendations.Take(7));
+               ViewData["top_recommendations"] = new List<KeyValuePair<string, List<KeyValuePair<Atrakcja, string>>>>
+               (topRecommendations.Take(7));
                return View(ChartData.GetData(userMetric, new MetrykaKategorii(categoriesTop.ElementAt(0).Key),
                                                         new MetrykaKategorii(categoriesTop.ElementAt(1).Key),
                                                         new MetrykaKategorii(categoriesTop.ElementAt(2).Key),

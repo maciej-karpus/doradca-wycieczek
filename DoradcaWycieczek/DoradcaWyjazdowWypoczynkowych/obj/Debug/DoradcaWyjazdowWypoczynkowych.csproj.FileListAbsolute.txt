@@ -275,3 +275,4 @@ D:\doradca\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\obj\Debug\DoradcaWyjaz
 C:\Users\Oskar\Source\Repos\doradca-wycieczek\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\bin\JQChart.Web.Mvc.dll
 C:\Users\Oskar\Source\Repos\doradca-wycieczek\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\bin\JQChart.Web.Mvc.xml
 D:\doradca\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\obj\Debug\DoradcaWyjazdowWypoczynkowych.Migrations.InitialCreate5.resources
+C:\Users\Oskar\Source\Repos\doradca-wycieczek\DoradcaWycieczek\DoradcaWyjazdowWypoczynkowych\obj\Debug\DoradcaWyjazdowWypoczynkowych.Migrations.InitialCreate5.resources

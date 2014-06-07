@@ -55,10 +55,7 @@ namespace DoradcaWyjazdowWypoczynkowych.Controllers
                                  attraction.AtrakcjaKategoria.Add(attractionCategoryPair);
                             }
                        }
-                       else if (attractionField.Substring(0, 4).Equals("http"))
-                       {
-                            ;
-                       }
+                       else if (attractionField.Substring(0, 4).Equals("http")) attraction.ZdjecieURL = attractionField;
                        i++;
                   }
                   db.Atrakcja.Add(attraction);
