@@ -15,12 +15,55 @@ namespace DoradcaWyjazdowWypoczynkowych.Controllers
         //
         // GET: /ParametersUpdater/
 
+        public ParametersUpdaterController()
+        {
+            Models.Kategoria k = db.Kategoria.First();
+            Models.OcenaUzytkownika[] oceny = new Models.OcenaUzytkownika[10];
+            for (int i = 0; i < 10; i++)
+            {
+                oceny[i] = new Models.OcenaUzytkownika() { Kategoria = k, Aktywnosc = 1, BliskoNatury = 1, GlownaOcena = 1, Imprezowosc = 1, Zwiedzanie = 1, Komfort = 1 };
+            }
+            AddRatings(oceny);
+            k = db.Kategoria.First();
+        }
+
         public ActionResult Index()
         {
             return View();
         }
+        public void AddRatings(OcenaUzytkownika[] oceny)
+        {
+            for (int i = 0; i < oceny.Count(); i++ )
+            {
+                OcenaUzytkownika oU = new OcenaUzytkownika();
+                OcenaUzytkownika propozycja = oceny[i];
+                oU.GlownaOcena = propozycja.GlownaOcena;
+                oU.Komfort = propozycja.Komfort;
+                oU.Zwiedzanie = propozycja.Zwiedzanie;
+                oU.Aktywnosc = propozycja.Aktywnosc;
+                oU.Imprezowosc = propozycja.Imprezowosc;
+                oU.BliskoNatury = propozycja.BliskoNatury;
+                oU.Kategoria = propozycja.Kategoria;
 
-        public void AddRating(int ocena, int komfort, int zwiedzanie, int aktywnosc, int imprezowosc, int BliskoNatury, OfertaGotowa oG)
+                db.OcenaUzytkownika.Add(oU);
+                db.SaveChanges();
+
+                //Ile ocen dla tej kategorii
+                List<OcenaUzytkownika> ocenione = db.OcenaUzytkownika.Where(o => o.Kategoria.KategoriaID == propozycja.Kategoria.KategoriaID).ToList();
+
+                if (ocenione.Count() == 10)
+                {
+                    UpdateParameters(propozycja.Kategoria, ocenione);
+
+                    //Usun wykorzystane oceny
+                    foreach(OcenaUzytkownika o in ocenione)  db.OcenaUzytkownika.Remove(o);
+                    db.SaveChanges();
+                }
+
+            }
+        }
+
+        /*public void AddRating(int ocena, int komfort, int zwiedzanie, int aktywnosc, int imprezowosc, int BliskoNatury, OfertaGotowa oG)
         {
             OcenaUzytkownika oU = new OcenaUzytkownika();
             oU.GlownaOcena = ocena;
@@ -39,31 +82,32 @@ namespace DoradcaWyjazdowWypoczynkowych.Controllers
 
             db.SaveChanges();
         }
+        */
 
-        private void UpdateParameters(OfertaGotowa oG)
+
+        private void UpdateParameters(Kategoria kat, List<OcenaUzytkownika> oU)
         {
             int komfort = 0, zwiedzanie = 0, aktywnosc = 0, imprezowosc = 0, bliskoNatury = 0;
             int i = 0;
             int ratingSum = 0;
 
-            foreach (OcenaUzytkownika oU in oG.OcenaUzytkownikow)
+            foreach (OcenaUzytkownika o in oU)
             {
-                int r = -(oU.GlownaOcena - 5); //Waga parametrów - im niższa ocena tym wieksza waga
-                komfort += oU.Komfort * r;
-                zwiedzanie += oU.Zwiedzanie * r;
-                aktywnosc += oU.Aktywnosc * r;
-                imprezowosc += oU.Imprezowosc * r;
-                bliskoNatury += oU.BliskoNatury * r;
+                int r = -(o.GlownaOcena - 5); //Waga parametrów - im niższa ocena tym wieksza waga
+                komfort += o.Komfort * r;
+                zwiedzanie += o.Zwiedzanie * r;
+                aktywnosc += o.Aktywnosc * r;
+                imprezowosc += o.Imprezowosc * r;
+                bliskoNatury += o.BliskoNatury * r;
                 ratingSum += r;
                 i++;
             }
 
-            oG.Komfort = WeightAvg(komfort, ratingSum);
-            oG.Zwiedzanie = WeightAvg(zwiedzanie, ratingSum);
-            oG.Aktywnosc = WeightAvg(aktywnosc, ratingSum);
-            oG.Imprezowosc = WeightAvg(imprezowosc, ratingSum);
-            oG.BliskoNatury = WeightAvg(bliskoNatury, ratingSum);
-
+            kat.Komfort = WeightAvg(komfort, ratingSum);
+            kat.Zwiedzanie = WeightAvg(zwiedzanie, ratingSum);
+            kat.Aktywnosc = WeightAvg(aktywnosc, ratingSum);
+            kat.Imprezowosc = WeightAvg(imprezowosc, ratingSum);
+            kat.BliskoNatury = WeightAvg(bliskoNatury, ratingSum);
 
         }
 

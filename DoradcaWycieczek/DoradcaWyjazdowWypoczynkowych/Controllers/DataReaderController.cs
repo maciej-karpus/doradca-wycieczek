@@ -27,7 +27,7 @@ namespace DoradcaWyjazdowWypoczynkowych.Controllers
         public void ReadAtrakcjaData()
         {
              System.IO.StreamReader file = new System.IO.StreamReader(@"c:\Dane\atrakcje.txt");
-             string city, attractionStr;
+             string attractionStr;
 
              while ((attractionStr = file.ReadLine()) != null)
              {
