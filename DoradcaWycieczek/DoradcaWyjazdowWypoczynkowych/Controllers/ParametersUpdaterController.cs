@@ -15,17 +15,6 @@ namespace DoradcaWyjazdowWypoczynkowych.Controllers
         //
         // GET: /ParametersUpdater/
 
-        public ParametersUpdaterController()
-        {
-            Models.Kategoria k = db.Kategoria.First();
-            Models.OcenaUzytkownika[] oceny = new Models.OcenaUzytkownika[10];
-            for (int i = 0; i < 10; i++)
-            {
-                oceny[i] = new Models.OcenaUzytkownika() { Kategoria = k, Aktywnosc = 1, BliskoNatury = 1, GlownaOcena = 1, Imprezowosc = 1, Zwiedzanie = 1, Komfort = 1 };
-            }
-            AddRatings(oceny);
-            k = db.Kategoria.First();
-        }
 
         public ActionResult Index()
         {
