@@ -226,6 +226,14 @@
     <Compile Include="Migrations\201406071341387_init.Designer.cs">
       <DependentUpon>201406071341387_init.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201406081500536_Init.cs" />
+    <Compile Include="Migrations\201406081500536_Init.Designer.cs">
+      <DependentUpon>201406081500536_Init.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201406081503060_Init3.cs" />
+    <Compile Include="Migrations\201406081503060_Init3.Designer.cs">
+      <DependentUpon>201406081503060_Init3.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountModels.cs" />
     <Compile Include="Models\Atrakcja.cs" />
@@ -397,6 +405,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201406071341387_init.resx">
       <DependentUpon>201406071341387_init.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201406081500536_Init.resx">
+      <DependentUpon>201406081500536_Init.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201406081503060_Init3.resx">
+      <DependentUpon>201406081503060_Init3.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

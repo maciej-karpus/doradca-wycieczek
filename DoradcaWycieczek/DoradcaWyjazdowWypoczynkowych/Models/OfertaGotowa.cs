@@ -31,7 +31,5 @@ namespace DoradcaWyjazdowWypoczynkowych.Models
         //DostepnyWMiesiacach jest ciężkie do zobrazowania dla jednej kolumny
         //opuściłbym ten atrybut zupełnie
         // public int DostepnyWMiesiacach { get; set; }
-
-        public virtual ICollection<OcenaUzytkownika> OcenaUzytkownikow { get; set; }
     }
 }

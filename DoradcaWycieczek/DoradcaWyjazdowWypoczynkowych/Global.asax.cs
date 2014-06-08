@@ -39,7 +39,7 @@ namespace DoradcaWyjazdowWypoczynkowych
             c.ReadAtrakcjaData();
 
             //Odkomentowac do testu
-            //Controllers.ParametersUpdaterController d = new Controllers.ParametersUpdaterController();
+            Controllers.ParametersUpdaterController d = new Controllers.ParametersUpdaterController();
             
             
         }
