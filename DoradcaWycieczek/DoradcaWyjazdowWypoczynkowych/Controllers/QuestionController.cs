@@ -19,6 +19,11 @@ namespace DoradcaWyjazdowWypoczynkowych.Controllers
                return View();
           }
 
+          public ActionResult Feedback()
+          {
+               //Jakieś instancje klas Marka...
+               return View();
+          }
 
           public ActionResult Search(DoradcaWyjazdowWypoczynkowych.Models.OcenaUzytkownika evals)
           {

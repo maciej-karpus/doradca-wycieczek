@@ -377,6 +377,7 @@
     <Content Include="Views\Kategoria\Delete.cshtml" />
     <Content Include="Views\Question\Index.cshtml" />
     <Content Include="Views\Question\Search.cshtml" />
+    <Content Include="Views\Question\Feedback.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

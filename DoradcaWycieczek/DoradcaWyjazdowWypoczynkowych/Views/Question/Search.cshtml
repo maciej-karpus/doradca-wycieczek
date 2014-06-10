@@ -123,7 +123,7 @@
      </div>
     <div>
         Oceń zaproponowane kategorie: <br />
-        @using (Html.BeginForm("yolo", "Question"))
+        @using (Html.BeginForm("Feedback", "Question"))
         {
         <table style="border:1px solid black">
          @foreach (var recommendation in @ViewData["top_categories"] as List<KeyValuePair<Kategoria, double>>)
