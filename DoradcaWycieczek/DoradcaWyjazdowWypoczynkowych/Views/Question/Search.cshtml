@@ -121,5 +121,63 @@
      }
      </table>
      </div>
+    <div>
+        Oceń zaproponowane kategorie: <br />
+        @using (Html.BeginForm("yolo", "Question"))
+        {
+        <table style="border:1px solid black">
+         @foreach (var recommendation in @ViewData["top_categories"] as List<KeyValuePair<Kategoria, double>>)
+         {
+              <tr>
+                   <td>
+                        <strong>@recommendation.Key.KategoriaNazwa :</strong>
+                   </td>
+                   <td>
+                       </tr>
+                       <tr>
+                            <td>
+                                Komfort:
+                            </td>
+                            <td>
+                                as
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Zwiedzanie:
+                            </td>
+                            <td>
+                                as
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Aktywność: 
+                            </td>
+                            <td>
+                                as
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                Imprezowość: 
+                            </td>
+                            <td>
+                                as
+                            </td>
+                        </tr>   
+                        <tr>
+                            <td>
+                                Bliskość natury: 
+                            </td>
+                            <td>
+                                as
+                            </td>
+                        </tr>
+         }
+         </table>
+            <input type="submit" value="Wyszukaj" />
+        }
+        </div>
 </body>
 </html>
